@@ -124,7 +124,7 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 |-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
 | ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales   | u202320684 | Ingeniería de Software | sadfasdfsadf|
 | ![Inserta tu foto al lado]()     | Oliver Villogas  | u20 | Ingeniería de Software |  asfasfasf |
-| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontned |
+| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend |
 | ![Inserta tu foto al lado]() | Juan  | u20 | Ingenieria de Software | sadfasdfasdf |
 | ![Inserta tu foto al lado]()        | Wilder Gonzalo | u20   | Ingeniería de Software | dsafasdfasdfasdf |
 
@@ -445,3 +445,4 @@ mi parte
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
+
