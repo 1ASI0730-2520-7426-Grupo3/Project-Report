@@ -29,8 +29,8 @@
       <td>Ponce Perales Alberto Alejandro</td>
     </tr>
     <tr>
-      <td>U2</td>
-      <td>Apellidos y Nombres</td>
+      <td>U202319025</td>
+      <td>Ventosilla Trujillo Anderson Ricardo</td>
     </tr>
     <tr>
       <td>U2</td>
