@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo.jpg" alt="Logo de la Universidad" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad upc" />
   
   <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h2>
   <p><strong>Carrera:</strong> Ingeniería de Software</p>
