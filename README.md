@@ -296,6 +296,14 @@ Visualización: El gráfico de torta de tipos de transacción muestra que el 64%
 
 ## 1.3 Segmentos objetivo
 
+### Segmento 1: Proveedores de Equipos Fitness Inteligentes  
+Este segmento está compuesto por empresas fabricantes y distribuidores de equipos fitness con tecnología integrada, como máquinas de entrenamiento con sensores IoT, wearables de monitoreo y accesorios inteligentes. Estos proveedores buscan alianzas estratégicas que les permitan aumentar la adopción de sus productos en gimnasios y centros de alto rendimiento, integrarlos en plataformas digitales y diferenciarse en un mercado cada vez más competitivo mediante la recolección, análisis y visualización de datos.
+
+---
+
+### Segmento 2: Clientes (Gimnasios y Entrenadores)  
+Este segmento lo conforman gimnasios, centros de entrenamiento y entrenadores personales que desean ofrecer experiencias más personalizadas a sus usuarios. Su interés principal está en optimizar el rendimiento y la satisfacción de sus clientes a través de datos precisos, rutinas adaptadas y un monitoreo constante de la evolución física. De esta forma, buscan innovar en sus servicios, mejorar la retención de clientes y generar un valor agregado frente a la competencia mediante herramientas digitales que potencien su labor.
+
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores.
 
