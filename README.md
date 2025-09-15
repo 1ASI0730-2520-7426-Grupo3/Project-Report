@@ -306,6 +306,19 @@ Este segmento lo conforman gimnasios, centros de entrenamiento y entrenadores pe
 
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores.
+En el ecosistema de soluciones para la industria fitness en Latinoamérica, existen diversas plataformas que ofrecen funcionalidades similares a las de **CoolGym**, aunque con enfoques parciales. A continuación, se presentan algunos de los competidores más relevantes, junto con un análisis de sus propuestas y la ventaja diferencial de nuestra startup.
+
+**Fitco**  
+Startup peruana con presencia en México, Chile y Colombia, enfocada en la gestión integral de gimnasios. Su software permite administrar membresías, clases, pagos y reservas, lo que contribuye a la digitalización de operaciones internas de los centros fitness.  
+🔹 *Ventaja de CoolGym*: Además de la gestión digital, ofrecemos un marketplace que conecta a gimnasios con proveedores de equipos inteligentes mediante compra, alquiler o leasing, junto con un sistema de monitoreo en tiempo real que reduce costos y mejora la experiencia de los clientes.
+
+**SportManager Latinoamérica**  
+Plataforma argentina que ofrece un sistema de control para gimnasios, con herramientas orientadas a reservas, estadísticas financieras y planes de entrenamiento personalizados. Está diseñada principalmente para facilitar la operación diaria de los gimnasios.  
+🔹 *Ventaja de CoolGym*: Vamos más allá de la gestión interna, facilitando que los gimnasios accedan a equipos inteligentes con contratos flexibles y reciban reportes de desgaste y consumo energético, lo que optimiza su inversión y previene fallas costosas.
+
+**Fit Home Pro**  
+Startup con presencia en Colombia y México que se centra en la renta de equipos fitness para uso doméstico. Su propuesta permite a los usuarios acceder a máquinas modernas en casa mediante un esquema flexible de alquiler.  
+🔹 *Ventaja de CoolGym*: A diferencia de este enfoque B2C, nuestra propuesta está orientada al segmento profesional, integrando a proveedores y clientes en un ecosistema único con contratos formales, dashboard estadístico y mantenimiento predictivo de los equipos.
 
 ### 2.1.1. Análisis competitivo.
 <table border="1">
