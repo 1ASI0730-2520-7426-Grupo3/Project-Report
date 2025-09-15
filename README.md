@@ -327,103 +327,112 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
   </tr>
   <tr>
     <td><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-    <td colspan="5">Easdasdasd.</td>
+    <td colspan="5">
+      Para identificar las ventajas, debilidades y propuestas de valor de nuestros principales competidores en el mercado de gestión fitness y soluciones digitales, lo que permitirá a CoolGym diferenciarse con una oferta más innovadora.
+    </td>
   </tr>
   <tr>
-  <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
-  <td><strong>CoolGym</strong><br><img src="nuestro logo" height="120"/></td>
-  <td><strong>asdasd</strong><br><img src="logo del competidor" height="120"/></td>
-  <td><strong>asdasd</strong><br><img src="logo del competidor" height="120"/></td>
-  <td><strong>asfasfd</strong><br><img src="logo del competidor" height="120"/></td>
-</tr>
+    <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+    <td><strong>CoolGym</strong><br><img src="logo_coolgym.png" height="80"/></td>
+    <td><strong>Fitco</strong><br><img src="https://www.fitcolatam.com/wp-content/uploads/2024/12/Logo_Blanco-1.png" height="80"/></td>
+    <td><strong>SportManager</strong><br><img src="https://www.sportmanager.app/logo-sm-black.png" height="80"/></td>
+    <td><strong>Fit Home Pro</strong><br><img src="https://scontent.flim12-1.fna.fbcdn.net/v/t39.30808-6/310668425_550353193758743_3476732583718692295_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH-vTEvOqoZapTq6SIisTFZYkmCGxsx5NtiSYIbGzHk27-6z72TcedYY2dRKqIMqdRRoHxciLVM4rnxRGnydsXD&_nc_ohc=AVFtgGnUZw4Q7kNvwEtq_Oi&_nc_oc=AdmqJd2N5ywQRmuQiKWgCX_ny43JHTheU9tfVfeKrY9kDSxUcWRaN4N61KBamaMxmcQPvfMgStr61FzoDBiqX-jo&_nc_zt=23&_nc_ht=scontent.flim12-1.fna&_nc_gid=HQLnbSGM0UavpBg39xTlMg&oh=00_AfY7Xmha327BDKej4PIykGsP6vXvkizXi1U9OEyby2R4yg&oe=68CD3E17" height="80"/></td>
+  </tr>
 
+  <!-- Perfil -->
   <tr>
     <th rowspan="3">Perfil</th>
-    <td><strong>OverView</strong></td>
-    <td>asdasdasd.</td>
-    <td>asdasdasdas.</td>
-    <td>asdasdasd.</td>
-    <td>asdasdasdasd.</td>
+    <td><strong>Overview</strong></td>
+    <td>Plataforma integral de gestión para gimnasios, con marketplace y monitoreo en tiempo real.</td>
+    <td>Software de gestión de gimnasios con reservas, pagos y reportes.</td>
+    <td>Enfocado en clubes deportivos y gestión administrativa.</td>
+    <td>Aplicación para entrenamiento en casa y gestión de rutinas virtuales.</td>
   </tr>
   <tr>
     <td><strong>Ventaja competitiva</strong></td>
-    <td>asdasdasd.</td>
-    <td>sadasdasdasd.</td>
-    <td>asfasdasd.</td>
-    <td>asfasfasfasf.</td>
+    <td>Marketplace + leasing de equipos inteligentes + monitoreo en tiempo real.</td>
+    <td>Amplia red en Latinoamérica, experiencia consolidada.</td>
+    <td>Especialización en clubes y deportes en equipo.</td>
+    <td>Enfoque en la experiencia del usuario final en casa.</td>
   </tr>
   <tr>
     <td><strong>¿Qué valor ofrece al cliente?</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Reducción de costos y mejor experiencia con tecnología integrada.</td>
+    <td>Eficiencia operativa en gimnasios.</td>
+    <td>Control administrativo y organizacional.</td>
+    <td>Accesibilidad al fitness desde casa.</td>
   </tr>
+
+  <!-- Perfil de Marketing -->
   <tr>
     <th rowspan="2">Perfil de Marketing</th>
     <td><strong>Mercado objetivo</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>Easfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Gimnasios, centros deportivos y usuarios interesados en equipos inteligentes.</td>
+    <td>Gimnasios medianos y grandes en LATAM.</td>
+    <td>Clubes deportivos, asociaciones y ligas.</td>
+    <td>Usuarios individuales y familias que entrenan en casa.</td>
   </tr>
   <tr>
     <td><strong>Estrategias de marketing</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasfs.</td>
-    <td>asfasfasfasf.</td>
+    <td>Innovación tecnológica + convenios con proveedores de equipos.</td>
+    <td>Alianzas con cadenas de gimnasios.</td>
+    <td>Marketing B2B orientado a asociaciones deportivas.</td>
+    <td>Publicidad digital y apps stores.</td>
   </tr>
+
+  <!-- Perfil de Producto -->
   <tr>
     <th rowspan="3">Perfil de Producto</th>
     <td><strong>Productos & Servicios</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Gestión digital, marketplace, leasing de equipos, monitoreo IoT.</td>
+    <td>Gestión administrativa, reservas, pagos, CRM.</td>
+    <td>Control de socios, eventos deportivos, reportes.</td>
+    <td>App con rutinas, planes de entrenamiento y seguimiento.</td>
   </tr>
   <tr>
     <td><strong>Precios & Costos</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Modelo SaaS flexible + leasing de equipos.</td>
+    <td>Suscripción mensual.</td>
+    <td>Licencias por institución.</td>
+    <td>Suscripción mensual / anual.</td>
   </tr>
   <tr>
     <td><strong>Canales de distribución</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Web, app móvil, convenios con proveedores.</td>
+    <td>Web y contacto directo con gimnasios.</td>
+    <td>Distribución directa B2B.</td>
+    <td>App Stores y plataformas digitales.</td>
   </tr>
+
+  <!-- SWOT -->
   <tr>
     <th rowspan="4">Análisis SWOT</th>
     <td><strong>Fortalezas</strong></td>
-    <td>safasfasfasf</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
+    <td>Marketplace único en la región.</td>
+    <td>Posicionamiento en el mercado.</td>
+    <td>Experiencia en deportes colectivos.</td>
+    <td>Accesibilidad y simplicidad.</td>
   </tr>
   <tr>
     <td><strong>Debilidades</strong></td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
+    <td>Requiere inversión en IoT y convenios.</td>
+    <td>Poca diferenciación tecnológica.</td>
+    <td>Mercado limitado a clubes.</td>
+    <td>Baja personalización de planes.</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
-    <td>asfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>safasfasfasf.</td>
+    <td>Expansión de IoT en fitness.</td>
+    <td>Crecimiento del sector fitness en LATAM.</td>
+    <td>Alianzas con federaciones deportivas.</td>
+    <td>Incremento del fitness digital post-pandemia.</td>
   </tr>
   <tr>
     <td><strong>Amenazas</strong></td>
-    <td>asfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfas.</td>
-    <td>asfasfafs.</td>
+    <td>Competencia internacional con más capital.</td>
+    <td>Nuevos entrantes con innovación.</td>
+    <td>Digitalización lenta en clubes.</td>
+    <td>Alta competencia en apps fitness.</td>
   </tr>
 </table>
 
