@@ -505,6 +505,31 @@ mi parte
 
 ### 2.3.5. As-is Scenario Mapping. 
 
+## As-Is Scenario Mapping – Mantenimiento en equipos
+**Preparación de la actividad**  
+Se preparó el cuadro y se dividió en fases: *Steps, Doing, Thinking y Feeling*.  
+
+**Brainstorming**  
+Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas: 
+
+
+**Resultado** 
+
+![As-Is Mantenimiento](https://media.discordapp.net/attachments/814677457042276372/1418005089087655936/image.png?ex=68cc8ba6&is=68cb3a26&hm=dfc05903520950ce8e767045accd5f292bdb455fc90ce0e03a8cc1f3509afa82&=&format=webp&quality=lossless)
+
+---
+
+## As-Is Scenario Mapping – Gestión de reportes y datos
+**Preparación de la actividad**  
+Se preparó el cuadro y se dividió en fases: *Steps, Doing, Thinking y Feeling*.  
+
+**Brainstorming**  
+Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:  
+
+**Resultado**  
+
+![As-Is Reportes](https://media.discordapp.net/attachments/814677457042276372/1418005217051545660/image.png?ex=68cc8bc5&is=68cb3a45&hm=12d3adfa49fe342d5f454e7d58ee2f0b0c3aabedda7be3bfab290ee552ad4869&=&format=webp&quality=lossless)
+
 ## 2.4. Ubiquitous Language. 
 |Término (Inglés)    |Término (Español) |Definición     |
 |-----------------------------------------------|-----------------|------------|
