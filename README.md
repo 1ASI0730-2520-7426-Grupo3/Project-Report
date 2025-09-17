@@ -526,3 +526,34 @@ mi parte
 
 ### 5.1.4 Software Deployment COnfiguration 
 
+A continuación, se describe el procedimiento para desplegar el proyecto **CoolGym** en **GitHub Pages**.
+
+---
+
+## 1. Ubicar el repositorio del proyecto
+Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio.  
+
+![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## 2. Ir a la sección de configuración (Settings)
+En la barra superior del repositorio, se hace clic en la pestaña **Settings**.  
+
+![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## 3. Configurar GitHub Pages desde una rama
+En la sección **Pages**, dentro de *Build and deployment*, se selecciona la opción **Deploy from a branch**.  
+Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del contenido.  
+
+![Configuración GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## Resultado
+Tras guardar la configuración, GitHub Pages generará automáticamente el despliegue del sitio.  
+Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym**.  
+
+![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
