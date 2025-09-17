@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo.jpg" alt="Logo de la Universidad" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad upc" />
   
   <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h2>
   <p><strong>Carrera:</strong> Ingeniería de Software</p>
@@ -29,8 +29,8 @@
       <td>Ponce Perales Alberto Alejandro</td>
     </tr>
     <tr>
-      <td>U2</td>
-      <td>Apellidos y Nombres</td>
+      <td>U202319025</td>
+      <td>Ventosilla Trujillo Anderson Ricardo</td>
     </tr>
     <tr>
       <td>U2</td>
@@ -124,7 +124,7 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 |-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
 | ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales   | u202320684 | Ingeniería de Software | sadfasdfsadf|
 | ![Inserta tu foto al lado]()     | Oliver Villogas  | u20 | Ingeniería de Software |  asfasfasf |
-| ![Inserta tu foto al lado]()            | Anderson | u20 | Ingenieria de Software | asfasfasf |
+| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend |
 | ![Inserta tu foto al lado]() | Juan  | u20 | Ingenieria de Software | sadfasdfasdf |
 | ![Inserta tu foto al lado]()        | Wilder Gonzalo | u20   | Ingeniería de Software | dsafasdfasdfasdf |
 
@@ -296,8 +296,29 @@ Visualización: El gráfico de torta de tipos de transacción muestra que el 64%
 
 ## 1.3 Segmentos objetivo
 
+### Segmento 1: Proveedores de Equipos Fitness Inteligentes  
+Este segmento está compuesto por empresas fabricantes y distribuidores de equipos fitness con tecnología integrada, como máquinas de entrenamiento con sensores IoT, wearables de monitoreo y accesorios inteligentes. Estos proveedores buscan alianzas estratégicas que les permitan aumentar la adopción de sus productos en gimnasios y centros de alto rendimiento, integrarlos en plataformas digitales y diferenciarse en un mercado cada vez más competitivo mediante la recolección, análisis y visualización de datos.
+
+---
+
+### Segmento 2: Clientes (Gimnasios y Entrenadores)  
+Este segmento lo conforman gimnasios, centros de entrenamiento y entrenadores personales que desean ofrecer experiencias más personalizadas a sus usuarios. Su interés principal está en optimizar el rendimiento y la satisfacción de sus clientes a través de datos precisos, rutinas adaptadas y un monitoreo constante de la evolución física. De esta forma, buscan innovar en sus servicios, mejorar la retención de clientes y generar un valor agregado frente a la competencia mediante herramientas digitales que potencien su labor.
+
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores.
+En el ecosistema de soluciones para la industria fitness en Latinoamérica, existen diversas plataformas que ofrecen funcionalidades similares a las de **CoolGym**, aunque con enfoques parciales. A continuación, se presentan algunos de los competidores más relevantes, junto con un análisis de sus propuestas y la ventaja diferencial de nuestra startup.
+
+**Fitco**  
+Startup peruana con presencia en México, Chile y Colombia, enfocada en la gestión integral de gimnasios. Su software permite administrar membresías, clases, pagos y reservas, lo que contribuye a la digitalización de operaciones internas de los centros fitness.  
+🔹 *Ventaja de CoolGym*: Además de la gestión digital, ofrecemos un marketplace que conecta a gimnasios con proveedores de equipos inteligentes mediante compra, alquiler o leasing, junto con un sistema de monitoreo en tiempo real que reduce costos y mejora la experiencia de los clientes.
+
+**SportManager Latinoamérica**  
+Plataforma argentina que ofrece un sistema de control para gimnasios, con herramientas orientadas a reservas, estadísticas financieras y planes de entrenamiento personalizados. Está diseñada principalmente para facilitar la operación diaria de los gimnasios.  
+🔹 *Ventaja de CoolGym*: Vamos más allá de la gestión interna, facilitando que los gimnasios accedan a equipos inteligentes con contratos flexibles y reciban reportes de desgaste y consumo energético, lo que optimiza su inversión y previene fallas costosas.
+
+**Fit Home Pro**  
+Startup con presencia en Colombia y México que se centra en la renta de equipos fitness para uso doméstico. Su propuesta permite a los usuarios acceder a máquinas modernas en casa mediante un esquema flexible de alquiler.  
+🔹 *Ventaja de CoolGym*: A diferencia de este enfoque B2C, nuestra propuesta está orientada al segmento profesional, integrando a proveedores y clientes en un ecosistema único con contratos formales, dashboard estadístico y mantenimiento predictivo de los equipos.
 
 ### 2.1.1. Análisis competitivo.
 <table border="1">
@@ -306,103 +327,112 @@ Visualización: El gráfico de torta de tipos de transacción muestra que el 64%
   </tr>
   <tr>
     <td><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-    <td colspan="5">Easdasdasd.</td>
+    <td colspan="5">
+      Para identificar las ventajas, debilidades y propuestas de valor de nuestros principales competidores en el mercado de gestión fitness y soluciones digitales, lo que permitirá a CoolGym diferenciarse con una oferta más innovadora.
+    </td>
   </tr>
   <tr>
-  <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
-  <td><strong>CoolGym</strong><br><img src="nuestro logo" height="120"/></td>
-  <td><strong>asdasd</strong><br><img src="logo del competidor" height="120"/></td>
-  <td><strong>asdasd</strong><br><img src="logo del competidor" height="120"/></td>
-  <td><strong>asfasfd</strong><br><img src="logo del competidor" height="120"/></td>
-</tr>
+    <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+    <td><strong>CoolGym</strong><br><img src="logo_coolgym.png" height="80"/></td>
+    <td><strong>Fitco</strong><br><img src="https://www.fitcolatam.com/wp-content/uploads/2024/12/Logo_Blanco-1.png" height="80"/></td>
+    <td><strong>SportManager</strong><br><img src="https://www.sportmanager.app/logo-sm-black.png" height="80"/></td>
+    <td><strong>Fit Home Pro</strong><br><img src="https://scontent.flim12-1.fna.fbcdn.net/v/t39.30808-6/310668425_550353193758743_3476732583718692295_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH-vTEvOqoZapTq6SIisTFZYkmCGxsx5NtiSYIbGzHk27-6z72TcedYY2dRKqIMqdRRoHxciLVM4rnxRGnydsXD&_nc_ohc=AVFtgGnUZw4Q7kNvwEtq_Oi&_nc_oc=AdmqJd2N5ywQRmuQiKWgCX_ny43JHTheU9tfVfeKrY9kDSxUcWRaN4N61KBamaMxmcQPvfMgStr61FzoDBiqX-jo&_nc_zt=23&_nc_ht=scontent.flim12-1.fna&_nc_gid=HQLnbSGM0UavpBg39xTlMg&oh=00_AfY7Xmha327BDKej4PIykGsP6vXvkizXi1U9OEyby2R4yg&oe=68CD3E17" height="80"/></td>
+  </tr>
 
+  <!-- Perfil -->
   <tr>
     <th rowspan="3">Perfil</th>
-    <td><strong>OverView</strong></td>
-    <td>asdasdasd.</td>
-    <td>asdasdasdas.</td>
-    <td>asdasdasd.</td>
-    <td>asdasdasdasd.</td>
+    <td><strong>Overview</strong></td>
+    <td>Plataforma integral de gestión para gimnasios, con marketplace y monitoreo en tiempo real.</td>
+    <td>Software de gestión de gimnasios con reservas, pagos y reportes.</td>
+    <td>Enfocado en clubes deportivos y gestión administrativa.</td>
+    <td>Aplicación para entrenamiento en casa y gestión de rutinas virtuales.</td>
   </tr>
   <tr>
     <td><strong>Ventaja competitiva</strong></td>
-    <td>asdasdasd.</td>
-    <td>sadasdasdasd.</td>
-    <td>asfasdasd.</td>
-    <td>asfasfasfasf.</td>
+    <td>Marketplace + leasing de equipos inteligentes + monitoreo en tiempo real.</td>
+    <td>Amplia red en Latinoamérica, experiencia consolidada.</td>
+    <td>Especialización en clubes y deportes en equipo.</td>
+    <td>Enfoque en la experiencia del usuario final en casa.</td>
   </tr>
   <tr>
     <td><strong>¿Qué valor ofrece al cliente?</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Reducción de costos y mejor experiencia con tecnología integrada.</td>
+    <td>Eficiencia operativa en gimnasios.</td>
+    <td>Control administrativo y organizacional.</td>
+    <td>Accesibilidad al fitness desde casa.</td>
   </tr>
+
+  <!-- Perfil de Marketing -->
   <tr>
     <th rowspan="2">Perfil de Marketing</th>
     <td><strong>Mercado objetivo</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>Easfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Gimnasios, centros deportivos y usuarios interesados en equipos inteligentes.</td>
+    <td>Gimnasios medianos y grandes en LATAM.</td>
+    <td>Clubes deportivos, asociaciones y ligas.</td>
+    <td>Usuarios individuales y familias que entrenan en casa.</td>
   </tr>
   <tr>
     <td><strong>Estrategias de marketing</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasfs.</td>
-    <td>asfasfasfasf.</td>
+    <td>Innovación tecnológica + convenios con proveedores de equipos.</td>
+    <td>Alianzas con cadenas de gimnasios.</td>
+    <td>Marketing B2B orientado a asociaciones deportivas.</td>
+    <td>Publicidad digital y apps stores.</td>
   </tr>
+
+  <!-- Perfil de Producto -->
   <tr>
     <th rowspan="3">Perfil de Producto</th>
     <td><strong>Productos & Servicios</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Gestión digital, marketplace, leasing de equipos, monitoreo IoT.</td>
+    <td>Gestión administrativa, reservas, pagos, CRM.</td>
+    <td>Control de socios, eventos deportivos, reportes.</td>
+    <td>App con rutinas, planes de entrenamiento y seguimiento.</td>
   </tr>
   <tr>
     <td><strong>Precios & Costos</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Modelo SaaS flexible + leasing de equipos.</td>
+    <td>Suscripción mensual.</td>
+    <td>Licencias por institución.</td>
+    <td>Suscripción mensual / anual.</td>
   </tr>
   <tr>
     <td><strong>Canales de distribución</strong></td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasfasf.</td>
+    <td>Web, app móvil, convenios con proveedores.</td>
+    <td>Web y contacto directo con gimnasios.</td>
+    <td>Distribución directa B2B.</td>
+    <td>App Stores y plataformas digitales.</td>
   </tr>
+
+  <!-- SWOT -->
   <tr>
     <th rowspan="4">Análisis SWOT</th>
     <td><strong>Fortalezas</strong></td>
-    <td>safasfasfasf</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
+    <td>Marketplace único en la región.</td>
+    <td>Posicionamiento en el mercado.</td>
+    <td>Experiencia en deportes colectivos.</td>
+    <td>Accesibilidad y simplicidad.</td>
   </tr>
   <tr>
     <td><strong>Debilidades</strong></td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfasf.</td>
+    <td>Requiere inversión en IoT y convenios.</td>
+    <td>Poca diferenciación tecnológica.</td>
+    <td>Mercado limitado a clubes.</td>
+    <td>Baja personalización de planes.</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
-    <td>asfasfasf.</td>
-    <td>asfasfasfasf.</td>
-    <td>asfasfasf.</td>
-    <td>safasfasfasf.</td>
+    <td>Expansión de IoT en fitness.</td>
+    <td>Crecimiento del sector fitness en LATAM.</td>
+    <td>Alianzas con federaciones deportivas.</td>
+    <td>Incremento del fitness digital post-pandemia.</td>
   </tr>
   <tr>
     <td><strong>Amenazas</strong></td>
-    <td>asfasf.</td>
-    <td>asfasfasf.</td>
-    <td>asfasfas.</td>
-    <td>asfasfafs.</td>
+    <td>Competencia internacional con más capital.</td>
+    <td>Nuevos entrantes con innovación.</td>
+    <td>Digitalización lenta en clubes.</td>
+    <td>Alta competencia en apps fitness.</td>
   </tr>
 </table>
 
@@ -445,3 +475,85 @@ mi parte
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1 Software Configuration Managment 
+
+### 5.1.1 Software Development Environment Configuration 
+
+### 5.1.2 Source Code Managment
+
+### 5.1.3 Source Code Style Guide & Conventions 
+
+## HTML
+- Todas las etiquetas deben cerrarse correctamente.  
+- Comentarios cortos en línea.  
+- Uso obligatorio de atributos `alt`, `width`, `height` en imágenes.  
+- Nombres de clases en inglés, en *lower-case* con guiones (kebab-case).  
+- **Referencia:** [HTML5 Syntax - W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
+
+---
+
+## CSS
+- Indentación de **2 espacios**.  
+- Código en minúscula y limpio.  
+- Comentarios explicativos por bloque.  
+- Nombres de clase descriptivos y semánticos.  
+- **Referencia:** [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+---
+
+## JavaScript
+- Variables con nombres representativos.  
+- Uso coherente de comillas (simples o dobles).  
+- Funciones modulares y reutilizables.  
+- Comentarios en secciones complejas.  
+- Evitar variables globales.  
+- **Referencia:** [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+---
+
+## Vue.js (para sprints futuros)
+- Carpetas organizadas por módulos:  
+  - `components/`  
+  - `views/`  
+  - `store/`  
+- Reutilización de componentes.  
+- Separación clara entre lógica y vista.  
+- Documentación interna con `props`, eventos y métodos.  
+- **Referencia:** [Vue.js Guide](https://vuejs.org/guide/introduction)
+
+### 5.1.4 Software Deployment COnfiguration 
+
+A continuación, se describe el procedimiento para desplegar el proyecto **CoolGym** en **GitHub Pages**.
+
+---
+
+## 1. Ubicar el repositorio del proyecto
+Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio.  
+
+![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## 2. Ir a la sección de configuración (Settings)
+En la barra superior del repositorio, se hace clic en la pestaña **Settings**.  
+
+![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## 3. Configurar GitHub Pages desde una rama
+En la sección **Pages**, dentro de *Build and deployment*, se selecciona la opción **Deploy from a branch**.  
+Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del contenido.  
+
+![Configuración GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+---
+
+## Resultado
+Tras guardar la configuración, GitHub Pages generará automáticamente el despliegue del sitio.  
+Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym**.  
+
+![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
