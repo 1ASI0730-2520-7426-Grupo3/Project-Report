@@ -476,3 +476,53 @@ mi parte
 
 # Capítulo IV: Product Design
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1 Software Configuration Managment 
+
+### 5.1.1 Software Development Environment Configuration 
+
+### 5.1.2 Source Code Managment
+
+### 5.1.3 Source Code Style Guide & Conventions 
+
+## HTML
+- Todas las etiquetas deben cerrarse correctamente.  
+- Comentarios cortos en línea.  
+- Uso obligatorio de atributos `alt`, `width`, `height` en imágenes.  
+- Nombres de clases en inglés, en *lower-case* con guiones (kebab-case).  
+- **Referencia:** [HTML5 Syntax - W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
+
+---
+
+## CSS
+- Indentación de **2 espacios**.  
+- Código en minúscula y limpio.  
+- Comentarios explicativos por bloque.  
+- Nombres de clase descriptivos y semánticos.  
+- **Referencia:** [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+---
+
+## JavaScript
+- Variables con nombres representativos.  
+- Uso coherente de comillas (simples o dobles).  
+- Funciones modulares y reutilizables.  
+- Comentarios en secciones complejas.  
+- Evitar variables globales.  
+- **Referencia:** [MDN JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+---
+
+## Vue.js (para sprints futuros)
+- Carpetas organizadas por módulos:  
+  - `components/`  
+  - `views/`  
+  - `store/`  
+- Reutilización de componentes.  
+- Separación clara entre lógica y vista.  
+- Documentación interna con `props`, eventos y métodos.  
+- **Referencia:** [Vue.js Guide](https://vuejs.org/guide/introduction)
+
+### 5.1.4 Software Deployment COnfiguration 
+
