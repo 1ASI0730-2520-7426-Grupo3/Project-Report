@@ -251,45 +251,29 @@ CoolGym se integra en la operación diaria del gimnasio como herramienta clave d
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-**Hipótesis sobre la trazabilidad y monitoreo en tiempo real de equipos fitness**
+Hipótesis 01: Trazabilidad y monitoreo en tiempo real de equipos fitness
 
 Creemos que los gimnasios y entrenadores personales necesitan monitorear en tiempo real el estado y uso de sus equipos para optimizar su operación y evitar interrupciones.
+Esto logrará reducir los tiempos de inactividad y mejorar la continuidad de las rutinas de entrenamiento.
+Lo habremos demostrado cuando al menos el 60% de los gimnasios registrados utilicen el panel de monitoreo diariamente y se registre una reducción del 40% en el tiempo de inactividad de los equipos durante los primeros 3 meses.
 
-Sabremos que esto es cierto cuando al menos el 60% de los gimnasios registrados utilicen el panel de monitoreo diariamente.
-
-Cuando se registre una reducción del 40% en el tiempo de inactividad de los equipos durante los primeros 3 meses.
-
-Visualización: El gráfico de barras que representa el uso del panel de monitoreo muestra que el 65% de los gimnasios registrados acceden al panel al menos una vez al día, y que el 43% de las alertas de desgaste generadas resultaron en mantenimientos preventivos exitosos, confirmando la efectividad de esta funcionalidad.
-
-**Hipótesis sobre la mejora en la gestión de mantenimiento preventivo**
+Hipótesis 02: Mejora en la gestión de mantenimiento preventivo
 
 Creemos que los proveedores de equipos valorarán poder hacer seguimiento al estado de sus máquinas de forma remota y ofrecer mantenimientos preventivos sin depender de reportes manuales.
+Esto logrará agilizar la atención de fallas y mejorar la eficiencia del servicio técnico.
+Lo habremos demostrado cuando al menos el 70% de los proveedores activos activen las alertas automáticas de mantenimiento y el tiempo promedio de respuesta ante una alerta de desgaste disminuya en al menos 50% en los primeros 4 meses.
 
-Sabremos que esto es cierto cuando al menos el 70% de los proveedores activos activen las alertas automáticas de mantenimiento desde el sistema.
-
-Cuando el tiempo promedio de respuesta ante una alerta de desgaste disminuya en al menos 50% en los primeros 4 meses.
-
-Visualización: La línea de tiempo del dashboard de proveedores muestra que el 72% activaron alertas automáticas, y que el tiempo promedio de atención de fallas bajó de 5 días a 2.2 días, confirmando que esta funcionalidad mejora la eficiencia del servicio.
-
-**Hipótesis sobre la reducción de costos energéticos**
+Hipótesis 03: Reducción de costos energéticos
 
 Creemos que registrar y visualizar el consumo energético de los equipos permitirá a los gimnasios tomar decisiones más informadas para reducir sus gastos operativos.
+Esto logrará optimizar el uso de los equipos y disminuir el consumo eléctrico mensual.
+Lo habremos demostrado cuando al menos el 50% de los gimnasios revisen las métricas de consumo semanalmente y se observe una reducción del 20% en el consumo eléctrico promedio mensual dentro de los primeros 6 meses.
 
-Sabremos que esto es cierto cuando al menos el 50% de los gimnasios revisen las métricas de consumo al menos una vez por semana.
-
-Cuando se observe una reducción del 20% en el consumo eléctrico promedio mensual por gimnasio, dentro de los primeros 6 meses de uso.
-
-Visualización: El gráfico circular sobre uso del módulo energético muestra que el 58% de los gimnasios monitorean el consumo regularmente, y un 22% reportó haber ajustado sus horarios de uso tras ver las métricas, logrando una reducción del 18% en sus costos energéticos mensuales.
-
-**Hipótesis sobre la adopción de modelos flexibles de adquisición**
+Hipótesis 04: Adopción de modelos flexibles de adquisición
 
 Creemos que ofrecer opciones de alquiler y leasing facilitará la adquisición de equipos fitness por parte de gimnasios y entrenadores independientes, especialmente aquellos con menor capital inicial.
-
-Sabremos que esto es cierto cuando al menos el 60% de las transacciones realizadas en la plataforma se hagan bajo modalidad de alquiler o leasing.
-
-Cuando el número de transacciones mensuales crezca un 30% en los primeros 6 meses respecto al período inicial.
-
-Visualización: El gráfico de torta de tipos de transacción muestra que el 64% de los acuerdos cerrados fueron bajo modelos flexibles (alquiler o leasing), confirmando que esta funcionalidad mejora la accesibilidad y fomenta la adopción de tecnología fitness.
+Esto logrará incrementar la accesibilidad a la tecnología fitness y fomentar el crecimiento de la plataforma.
+Lo habremos demostrado cuando al menos el 60% de las transacciones se realicen bajo modalidad de alquiler o leasing y el número de transacciones mensuales crezca un 30% en los primeros 6 meses respecto al período inicial.
 
 #### 1.2.2.4 Lean UX Canvas
 
@@ -557,3 +541,66 @@ Tras guardar la configuración, GitHub Pages generará automáticamente el despl
 Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym**.  
 
 ![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling System
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems.
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up.
+
+## 4.4. Web Aplications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups.
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+## 4.5. Web Applications Prototyping.
+
+## 4.6. Domain-Driven Software Architecture.
+
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
+
+# Capitulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration
+
+### 5.1.2. Source Code Management.
+
