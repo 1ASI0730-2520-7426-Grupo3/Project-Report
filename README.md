@@ -650,7 +650,70 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de CoolGym para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
+![Impact mapping.png](assets/Impact%20mapping.png)
+
 ## 3.4. Product Backlog
+
+A continuación, presentaremos el Product Backlog, el cual contiene todas las funcionalidades y características necesarias para el desarrollo de la plataforma. Este listado incluye tanto las historias de usuario como las tareas técnicas que facilitarán el progreso del proyecto. Para priorizar las tareas, se ha utilizado la escala Fibonacci (1, 2, 3,
+5, 8, 13, 21), la cual ayuda a estimar el esfuerzo relativo requerido para completar cada tarea. Además, hemos asignado cada item a un sprint, de acuerdo con su
+relevancia y dependencias.
+
+Escala de Story Points (Fibonacci):
+
+1: Tareas pequeñas que se pueden completar rápidamente.
+
+2: Tareas de tamaño moderado.
+
+3: Tareas que requieren más tiempo y esfuerzo.
+
+5: Tareas complejas o con dependencia de otras tareas.
+
+8: Tareas muy complejas o que afectan a múltiples áreas.
+
+
+| Orden | User Story ID | Título    | Descripción           | Story Points       |
+|-------------|---------------|------------|------------------------|---------------------------------------------|
+|1| 	US-01        |	Registro de nuevo usuario|	Como usuario nuevo, quiero registrarme en la plataforma, para poder acceder a los servicios.|	5|
+|2| 	US-02        |	Inicio de sesión|	Como usuario, quiero poder iniciar sesión en mi cuenta de forma segura, para acceder a mis datos y a las funcionalidades de la plataforma.|	3|
+|3| 	US-03        |	Recuperación de contraseña|	Como usuario, quiero poder recuperar mi contraseña en caso de olvidarla, para poder volver a acceder a mi cuenta.	|3
+|4| 	US-04        |	Gestión del perfil|	Como usuario, quiero poder editar mi información personal (nombre, correo, etc.), para mantener mi perfil actualizado.	|2                                                                                                          
+|5| 	US-05        |	Gestión de la contraseña|	Como usuario, quiero poder cambiar mi contraseña, para mantener mi cuenta segura.	|2                                                                                                                                         
+|6| 	US-06        |	Cambiar el idioma|	Como usuario, quiero poder cambiar el idioma de la interfaz, para usar la plataforma en mi idioma preferido.|	1                                                                                                                     
+|7| 	US-07        |	Conectar máquinas al sistema|	Como administrador de gimnasio, quiero conectar mis máquinas al sistema, para tener un control centralizado de su estado y uso.|	5                                                                                       
+|8| US-08         |	Visualizar estado de equipos|	Como administrador, quiero ver el estado actual de los equipos, para monitorear su uso y detectar problemas.|	5                                                                                                          
+|9| 	US-09        |	Eliminar equipo del sistema	|Como administrador de gimnasio, quiero poder eliminar una máquina de mi inventario, para mantener la lista de equipos operativos actualizada.	|3                                                                          
+|10| 	US-10        |	Ver dashboards en tiempo real|	Como administrador, quiero ver dashboards con gráficas de rendimiento, para tener una visión clara del estado general de mis equipos.|	5                                                                                
+|11| US-11	        |Reportes de uso en tiempo real	|Como usuario, quiero consultar reportes de uso en tiempo real, para conocer la frecuencia y desgaste de cada equipo.|	5                                                                                                 
+|12| US-12	        |Generar reportes de rendimiento|	Como gerente de gimnasio, quiero visualizar reportes de rendimiento de los equipos, para tomar decisiones basadas en datos.|	8                                                                                         
+|13| US-13	        |Analizar patrones de uso|	Como gerente de gimnasio, quiero analizar los gráficos de uso por hora y semana, para identificar los momentos de mayor afluencia y mejorar las decisiones operativas.|	8                                                     
+|14| US-14	        |Seleccionar y suscribirse a un plan|	Como usuario, quiero poder seleccionar un plan de suscripción, para acceder a los servicios de la plataforma.|	5                                                                                                   
+|15| 	US-15        |	Consultar el estado de cuenta|	Como usuario, quiero consultar mi estado de cuenta, para llevar un registro claro de todas mis transacciones.|	3                                                                                                        
+|16| 	US-16        |	Gestionar métodos de pago|	Como usuario, quiero poder añadir, editar o eliminar mis métodos de pago, para que el proceso de pago sea más rápido y seguro.|	5                                                                                           
+|17| 	US-17        |	Recibir facturas y recibos|	Como usuario, quiero recibir facturas y recibos de mis pagos, para tener un registro oficial de mis transacciones.	|3                                                                                                      
+|18| 	US-18        |	Recibir recordatorios de pago|	Como usuario, quiero recibir notificaciones sobre la fecha de mi próximo pago, para evitar interrupciones en mi servicio.	|3                                                                                            
+|19| 	US-19        |	Cambiar de plan de suscripción|	Como usuario, quiero poder cambiar mi plan de suscripción actual, para ajustar los servicios que recibo a mis necesidades.	|5                                                                                          
+|20| 	US-20        |	Programar mantenimientos preventivos|	Como administrador, quiero programar mantenimientos preventivos, para aumentar la vida útil de los equipos.	|5                                                                                                   
+|21| 	US-21        |	Consultar historial de incidencias|	Como administrador del gimnasio, quiero acceder al historial de incidencias de cada máquina, para mejorar la gestión y los servicios de mantenimiento.|	3                                                          
+|22| 	US-22        |	Gestionar órdenes de trabajo|	Como proveedor, quiero crear y asignar órdenes de trabajo a mis técnicos, para gestionar de forma organizada las solicitudes de mantenimiento.|	5                                                                        
+|23| 	US-23        |	Acceder a soporte técnico|	Como administrador, quiero contar con soporte en caso de incidencias críticas, para resolver problemas sin afectar a mis clientes.	|3                                                                                       
+|24| 	US-24        |	Acceder a preguntas frecuentes y tutoriales|	Como usuario, quiero acceder a una sección de preguntas frecuentes y tutoriales, para resolver mis dudas de forma autónoma sin tener que contactar al equipo de soporte.|	2                               
+|25| 	US-25        |	Recibir alertas de fallas de equipos|	Como dueño de gimnasio, quiero recibir una alerta inmediata si uno de mis equipos reporta una falla, para poder tomar acción de inmediato y no afectar el servicio.|	8                                           
+|26| 	US-26        |	Recibir alertas de solicitudes de mantenimiento|	Como proveedor, quiero recibir notificaciones sobre las solicitudes de mantenimiento de equipos de clientes, para programar el servicio técnico y asegurar el buen funcionamiento de las máquinas.|	5 
+|27| 	US-27        |	Configurar los tipos de notificaciones|	Como usuario, quiero poder elegir qué tipo de notificaciones deseo recibir, para controlar qué información me envía la plataforma.	|5                                                                          
+|28| 	US-28        |	Recibir notificaciones por correo electrónico|	Como usuario, quiero recibir notificaciones por correo electrónico sobre eventos importantes, para mantenerme informado de forma asíncrona.|	3                                                          
+|29| 	US-29        |	Ver notificaciones dentro de la app|	Como usuario, quiero ver todas mis notificaciones en un solo lugar dentro de la aplicación, para no perderme ninguna alerta importante y poder consultarlas en cualquier momento.	|3                              
+|30| 	US-30        |	Buscar equipos de proveedores|	Como dueño de gimnasio, quiero buscar equipos específicos de los proveedores, para encontrar las máquinas que necesito.|	3                                                                                              
+|31| 	US-31        |	Ver detalles de un equipo|	Como dueño de gimnasio, quiero ver la información detallada de un equipo, para evaluar si cumple con mis requisitos antes de seleccionarlo.|	3                                                                              
+|32| 	US-32        |	Gestionar mi lista de solicitud|	Como dueño de gimnasio, quiero poder añadir, eliminar o ajustar la cantidad de equipos en mi lista de solicitud, para organizar mi pedido antes de enviarlo.|	5                                                       
+|33| 	US-33        |	Enviar una solicitud de compra o alquiler|	Como dueño de gimnasio, quiero enviar una solicitud de compra o alquiler al proveedor, para iniciar el proceso de adquisición de equipos.|	5                                                                
+|34| 	US-34        |	Ver el estado de mi solicitud|	Como dueño de gimnasio, quiero ver el estado de mi solicitud (pendiente, aceptada, rechazada), para saber en qué punto se encuentra mi pedido.|	3                                                                       
+|35| 	US-35        |	Recibir y ver nuevas solicitudes|	Como proveedor, quiero ser notificado y poder ver las nuevas solicitudes de equipos, para responder a tiempo a los clientes.|	5                                                                                      
+|36| 	US-36        |	Aceptar o rechazar una solicitud|	Como proveedor, quiero poder aceptar o rechazar una solicitud de un dueño de gimnasio, para confirmar si puedo o no cumplir con el pedido.|	5                                                                        
+|37| 	US-37        |	Gestionar el estado del pedido|	Como proveedor, quiero poder actualizar el estado de un pedido y confirmar la entrega, para asegurar un seguimiento preciso y transparente.	|5                                                                         
+|38| 	US-38        |	Ver los datos de contacto de un cliente|	Como proveedor, quiero ver los datos de contacto de mi cliente, para poder comunicarme directamente con él y coordinar la logística del pedido.	|2                                                            
+|39| US-39	        |Probar demo gratuita|	Como cliente interesado, quiero probar una demo gratuita, para entender cómo funciona el sistema antes de comprarlo.	|5                                                                                                           
+|40| 	US-40        |	Elegir plan de precios|	Como administrador, quiero contar con un plan de precios flexible, para elegir el que mejor se adapte a mis necesidades.	|3                                                                                                    
+
 
 # Capítulo IV: Product Design
 
