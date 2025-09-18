@@ -100,12 +100,12 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 
 # Student Outcome
 
-> *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
+*Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: asdasasd.<br>**Anderson**<br>TB1: asdasdasds.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: asdasdasd. | TB1: asdasdasds. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: asdasdasd. <br>**Anderson**<br>TB1: asdasdas. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: asdasdasdsd. | TB1: asdasdas. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: asdasasd.<br>**Anderson**<br>TB1: asdasdasds.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. | TB1: asdasdasds. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: asdasdasd. <br>**Anderson**<br>TB1: asdasdas. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. | TB1: asdasdas. |
 
 ---
 
@@ -664,7 +664,265 @@ La estructura de navegación y las opciones disponibles en CoolGym están diseñ
   - **CoolGym**: Logo y nombre de la marca, presentes en todas las secciones para mantener la identidad visual y reforzar la confianza de los usuarios.
 
 
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
 
+El wireframe de la página de inicio de OsitoPolar organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece OsitoPolar. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/Landing-Page-Wireframe.png"
+       alt="Wireframe de la Landing Page: Diseño de baja fidelidad de la página principal."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Wireframe de la Landing Page.
+  </figcaption>
+</figure>
+
+
+#### 4.3.2. Landing Page Mockup
+
+El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/Landing-Page-Mockup.png"
+       alt="Mockup 1 de la Landing Page: Diseño visual de la sección superior."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Mockup Landing Page.
+  </figcaption>
+</figure>
+
+
+
+
+## 4.4. Web Applications UX/UI Design
+
+#### 4.4.1. Web Applications Wireframes
+
+Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
+
+![Inicio App.png](assets/webapp/wireframes/Inicio%20App.png)
+![Inicio Sesion - Clientes.png](assets/webapp/wireframes/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio Sesion - Empresa.png](assets/webapp/wireframes/Inicio%20Sesion%20-%20Empresa.png)
+
+![Registro-Clientes.png](assets/webapp/wireframes/Registro-Clientes.png)
+![Registro-Empresa.png](assets/webapp/wireframes/Registro-Empresa.png)
+
+
+
+![Inicio-Clientes.png](assets/webapp/wireframes/Inicio-Clientes.png)
+
+![Inicio-Empresa.png](assets/webapp/wireframes/Inicio-Empresa.png)
+
+![AnadirEquipo-Clientes.png](assets/webapp/wireframes/AnadirEquipo-Clientes.png)
+![AlquilarEquipos-Clientes.png](assets/webapp/wireframes/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png](assets/webapp/wireframes/Contacto-Clientes.png)
+![Control-Clientes.png](assets/webapp/wireframes/Control-Clientes.png)
+![EstadoCuenta-Clientes.png](assets/webapp/wireframes/EstadoCuenta-Clientes.png)
+![Full Analiticas-Clientes.png](assets/webapp/wireframes/Full%20Analiticas-Clientes.png)
+![Mantenimientol-Clientes.png](assets/webapp/wireframes/Mantenimientol-Clientes.png)
+![MiCuenta-Clientes.png](assets/webapp/wireframes/MiCuenta-Clientes.png)
+![MisEquipos-Clientes.png](assets/webapp/wireframes/MisEquipos-Clientes.png)
+![Notificaciones-Clientes.png](assets/webapp/wireframes/Notificaciones-Clientes.png)
+
+![Contacto-Empresa.png](assets/webapp/wireframes/Contacto-Empresa.png)
+![EstadoCuenta-Empresa.png](assets/webapp/wireframes/EstadoCuenta-Empresa.png)
+![MiCuenta-Empresa.png](assets/webapp/wireframes/MiCuenta-Empresa.png)
+![MisClientes,Técnicos-Empresa.png](assets/webapp/wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Empresa.png](assets/webapp/wireframes/MisEquipos-Empresa.png)
+![Notificaciones-Empresa.png](assets/webapp/wireframes/Notificaciones-Empresa.png)
+![Registro-Empresa.png](assets/webapp/wireframes/Registro-Empresa.png)
+![Solicitudes-Empresa.png](assets/webapp/wireframes/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png](assets/webapp/wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams
+En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
+
+
+### **User Goal 1**:
+Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero estar pendiente del estado de cada equipo registrado.
+
+**Task Flow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/UserGoal1Task1.png"
+       alt="Diagrama de Taskflow 1: Flujo de tareas para una acción específica del usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Taskflow 1.
+  </figcaption>
+</figure>
+
+
+**Wireflow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/usergoal1wireflow.png"
+       alt="Diagrama de Wireflow 1: Combinación de wireframes y flujo de interacción del usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Wireflow 1.
+  </figcaption>
+</figure>
+
+
+### **User Goal 2**:
+Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero lograr administrar los nuevos equipos que registre.
+
+**Task Flow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/UserGoal2Task.png"
+       alt="Diagrama de Taskflow 2: Flujo de tareas para un proceso de usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Taskflow 2.
+  </figcaption>
+</figure>
+
+
+**Wireflow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/usergoal2wireflow.png"
+       alt="Diagrama de Wireflow 2: Representación visual del flujo de usuario entre pantallas."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Wireflow 2.
+  </figcaption>
+</figure>
+
+
+### **User Goal 3**:
+Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero revisar las estadísticas completas de mis equipos.
+
+**Task Flow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/UserGoal3Task.png"
+       alt="Diagrama de Taskflow 3: Secuencia de tareas para una interacción compleja."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Taskflow 3.
+  </figcaption>
+</figure>
+
+
+**Wireflow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/usergoal3wireflow.png"
+       alt="Diagrama de Wireflow 3: Detalle del flujo de usuario con elementos de la interfaz."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Wireflow 3.
+  </figcaption>
+</figure>
+
+
+### **User Goal 4**:
+Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero pedir nuevos equipos a un proveedor de manera sencilla.
+
+**Task Flow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/UserGoal4Task.png"
+       alt="Diagrama de Taskflow 4: Flujo de tareas para un caso de uso específico."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Taskflow 4.
+  </figcaption>
+</figure>
+
+
+**Wireflow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/usergoal4wireflow.png"
+       alt="Diagrama de Wireflow 4: Visión general del flujo de navegación y pantallas."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Wireflow 4.
+  </figcaption>
+</figure>
+
+
+### **User Goal 5**:
+Como proveedor de máquinas de gimnasio quiero estar pendiente de los órdenes de pedidos de mis clientes.
+
+**Task Flow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/UserGoal5Task.png"
+       alt="Diagrama de Taskflow 5: Flujo de tareas para la interacción del usuario con el sistema."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Taskflow 5.
+  </figcaption>
+</figure>
+
+
+**Wireflow**
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/webapp/wireanduserflows/usergoal5wireflow.png"
+       alt="Diagrama de Wireflow 5: Resumen visual del flujo de interacción y las pantallas clave."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 10:</strong> Wireflow 5.
+  </figcaption>
+</figure>
+
+
+#### 4.4.3. Web Applications Mock-ups
+En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
+![Inicio App.png](assets/webapp/mockups/Inicio%20App.png)
+
+
+
+- **Mockups Gimnasio o entrenador:**
+![Inicio Sesion - Clientes.png](assets/webapp/mockups/Inicio%20Sesion%20-%20Clientes.png)
+![Registro-Clientes.png](assets/webapp/mockups/Registro-Clientes.png)
+![Inicio-Clientes.png](assets/webapp/mockups/Inicio-Clientes.png)
+![Inicio-Empresa.png](assets/webapp/mockups/Inicio-Empresa.png)
+![AlquilarEquipos-Clientes.png](assets/webapp/mockups/AlquilarEquipos-Clientes.png)
+![AnadirEquipo-Clientes.png](assets/webapp/mockups/AnadirEquipo-Clientes.png)
+![Contacto-Clientes.png](assets/webapp/mockups/Contacto-Clientes.png)
+![Control-Clientes.png](assets/webapp/mockups/Control-Clientes.png)
+![EstadoCuenta-Clientes.png](assets/webapp/mockups/EstadoCuenta-Clientes.png)
+![Full Analiticas-Clientes.png](assets/webapp/mockups/Full%20Analiticas-Clientes.png)
+![Mantenimiento-Clientes.png](assets/webapp/mockups/Mantenimiento-Clientes.png)
+![MiCuenta-Clientes.png](assets/webapp/mockups/MiCuenta-Clientes.png)
+![MisEquipos-Clientes.png](assets/webapp/mockups/MisEquipos-Clientes.png)
+![Notificaciones-Clientes.png](assets/webapp/mockups/Notificaciones-Clientes.png)
+
+
+- **Mockups Proveedor:**
+![Inicio Sesion - Empresa.png](assets/webapp/mockups/Inicio%20Sesion%20-%20Empresa.png)
+![Registro-Empresa.png](assets/webapp/mockups/Registro-Empresa.png)
+![Inicio-Empresa.png](assets/webapp/mockups/Inicio-Empresa.png)
+![Contacto-Empresa.png](assets/webapp/mockups/Contacto-Empresa.png)
+![EstadoCuenta-Empresa.png](assets/webapp/mockups/EstadoCuenta-Empresa.png)
+![MiCuenta-Empresa.png](assets/webapp/mockups/MiCuenta-Empresa.png)
+![MisClientes,Técnicos-Empresa.png](assets/webapp/mockups/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Empresa.png](assets/webapp/mockups/MisEquipos-Empresa.png)
+![Notificaciones-Empresa.png](assets/webapp/mockups/Notificaciones-Empresa.png)
+![Registro-Empresa.png](assets/webapp/mockups/Registro-Empresa.png)
+![Solicitudes-Empresa.png](assets/webapp/mockups/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png](assets/webapp/mockups/%C3%93rdenesDeTrabajo-Empresa.png)
+
+
+Link de los mockups: https://www.figma.com/design/Ys9J5pptHtokr8eKylv5PK/CoolGym--TB1-?node-id=2313-3&t=amLUNup4SstukKS7-1
+
+#### 4.4.4. Web Applications User Flow Diagrams
+### User Goal 1:
+- Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero estar pendiente del estado de cada equipo registrado.
+![userflow1.png](assets/webapp/wireanduserflows/userflow1.png)
+
+### User Goal 2:
+- Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero revisar las estadísticas completas de mis equipos.
+![userflow2.png](assets/webapp/wireanduserflows/userflow2.png)
+
+### User Goal 3:
+- Como dueño de un gimnasio que adquiere máquinas de ejercicio quiero lograr administrar los nuevos equipos que registre.
+
+![userflow3.png](assets/webapp/wireanduserflows/userflow3.png)
+
+
+### 4.5. Web Applications Prototyping
+A continuación se presenta el prototipo de la aplicación web de CoolGym, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
+Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--TB1-?node-id=4328-1170&p=f&t=l1t8VlkaLtyNTjZq-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=4328%3A1170
 
 
 
