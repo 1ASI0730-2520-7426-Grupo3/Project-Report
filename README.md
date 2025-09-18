@@ -565,6 +565,22 @@ Sin embargo, debido a la variación de botones y fondos que tendrá la plataform
 
 ---
 
+### 4.2. Information Architecture
+
+#### 4.2.1. Organization Systems
+
+En **CoolGym**, hemos implementado diferentes sistemas de organización basados en los grupos de información más relevantes para gimnasios y proveedores. La disposición visual del contenido se ha realizado de las siguientes maneras:
+
+- **Jerárquica (visual hierarchy):**  
+  Para resaltar los elementos más importantes, como el estado de los equipos fitness, la utilización diaria y las alertas críticas. Esto facilita que los usuarios accedan de manera rápida e intuitiva a la información clave.
+
+- **Organización secuencial (step-by-step):**  
+  Utilizada en procesos que requieren una guía clara, como la adquisición o leasing de equipos inteligentes y la instalación de sensores IoT. Esto asegura un flujo lógico y fácil de seguir para el usuario.
+
+- **Organización matricial:**  
+  Aplicada en áreas donde se necesita comparar o analizar datos relacionados, como métricas de rendimiento de equipos, consumo energético y planes de leasing vs compra. Este enfoque proporciona al usuario una visión clara y estructurada de las opciones disponibles.
+
+---
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
