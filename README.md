@@ -524,6 +524,48 @@ Esta paleta asegura que la plataforma **CoolGym** proyecte una experiencia visua
 
 ---
 
+#### 4.1.2. Web Style Guidelines
+
+En esta sección definimos los estándares visuales e interacción para la versión web de **CoolGym**, asegurando una experiencia de usuario coherente, profesional y accesible en todos los dispositivos.  
+Es fundamental que las interfaces web sean **responsivas**, ya que esto ofrece ventajas tanto para el usuario (accesibilidad en cualquier dispositivo) como para el equipo desarrollador (eficiencia en costos, tiempos y satisfacción del cliente).
+
+Adoptando un enfoque **mobile-first**, utilizamos un sistema de **grid de 12 columnas** para que la interfaz se adapte a cualquier dispositivo.
+
+**Tipografía**  
+De acuerdo con la guía de estilos, se emplea la tipografía **Inter** como principal por su **claridad, modernidad y legibilidad digital**, acompañada de **Roboto** como secundaria en textos complementarios.  
+El tamaño de fuente se ajusta automáticamente para adaptarse al dispositivo, asegurando siempre una lectura clara y jerárquica.
+
+**Colores**  
+De acuerdo al rubro fitness tecnológico al que está orientado **CoolGym**, los colores reflejan **tecnología, energía y confianza**. La elección de colores es la siguiente:
+
+- **Azul eléctrico (#0A84FF):** Se usará para headers, botones principales y CTAs destacados.
+- **Blanco (#FFFFFF):** Fondos neutros y áreas de descanso visual.
+- **Negro carbón (#000000):** Botones secundarios, bordes y textos destacados.
+- **Gris medio (#808080):** Líneas, bordes, separadores y estados deshabilitados.
+- **Gris claro (#F3F5F7):** Fondos alternativos y secciones de apoyo.
+- **Teal tecnológico (#17B1A3):** Notificaciones positivas, métricas destacadas y estados de éxito.
+- **Rojo claro (#FF4B4B):** Alertas, errores y fallas críticas.
+- **Amarillo mandarina (#FFCC00):** Advertencias, calificaciones y recordatorios importantes.
+
+Sin embargo, debido a la variación de botones y fondos que tendrá la plataforma, no siempre se usará una única tonalidad. Por ello, se definió una **paleta ampliada de azules** para mantener consistencia visual en distintas vistas.
+
+**Paleta extendida de azules para CoolGym:**
+
+- `#0A84FF`
+- `#5C9BD0`
+- `#8AB3DC`
+- `#B3CCE8`
+- `#D9E5F3`
+
+![Sky_blue-color-Web Style Guidelines.png](assets/Sky_blue-color-Web%20Style%20Guidelines.png)
+*Figura 1: Guías de Estilo Web — CoolGym, color Sky Blue y paleta extendida.*
+
+![Red-color-Web Style Guidelines.png](assets/Red-color-Web%20Style%20Guidelines.png)
+*Figura 5: Esquema de alertas críticas — Error/Down.*
+
+---
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Managment 
