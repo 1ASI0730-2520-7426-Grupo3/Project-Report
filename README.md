@@ -37,8 +37,8 @@
       <td>Villogas Medina Oliver Paul</td>
     </tr>
     <tr>
-      <td>U2</td>
-      <td>Apellidos y Nombres</td>
+      <td>U20221F192</td>
+      <td>Saldaña De Souza Juan David</td>
     </tr>
     <tr>
       <td>U2</td>
@@ -124,13 +124,13 @@ Para lograr esto, FitConnect ha desarrollado un marketplace especializado que ce
 ---
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
-|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
-| ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales   | U202320684 | Ingeniería de Software | sadfasdfsadf|
-| ![Inserta tu foto al lado]()     | Oliver Paul Villogas Medina  | U202323562 | Ingeniería de Software |  Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo.|
+| Foto                                          | Nombre completo                      | Código     | Carrera                | Habilidades técnicas y rol                  |
+|-----------------------------------------------|--------------------------------------|------------|------------------------|---------------------------------------------|
+| ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales      | U202320684 | Ingeniería de Software | sadfasdfsadf|
+| ![Inserta tu foto al lado]()     | Oliver Paul Villogas Medina          | U202323562 | Ingeniería de Software |  Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo.|
 | ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | U202319025 | Ingeniería de Software | Desarrollo Backend, Bases de Datos, Frontend |
-| ![Inserta tu foto al lado]() | Juan  | U20 | Ingeniería de Software | sadfasdfasdf |
-| ![Inserta tu foto al lado]()        | Wilder Gonzalo | U20   | Ingeniería de Software | dsafasdfasdfasdf |
+| ![Foto de Juan.jpeg](assets/Foto%20de%20Juan.jpeg) | Juan David Saldaña De Souza          | U20221F192 | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo. |
+| ![Inserta tu foto al lado]()        | Wilder Gonzalo                       | U20        | Ingeniería de Software | dsafasdfasdfasdf |
 
 ---
 
