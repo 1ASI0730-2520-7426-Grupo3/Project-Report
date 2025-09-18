@@ -924,7 +924,23 @@ Link de los mockups: https://www.figma.com/design/Ys9J5pptHtokr8eKylv5PK/CoolGym
 A continuación se presenta el prototipo de la aplicación web de CoolGym, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
 Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--TB1-?node-id=4328-1170&p=f&t=l1t8VlkaLtyNTjZq-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=4328%3A1170
 
+## 4.6. Domain-Driven Software Architecture.
 
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1008,59 +1024,7 @@ Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym*
 
 ![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
 
-## 4.1. Style Guidelines
 
-### 4.1.1. General Style Guidelines
-
-### 4.1.2. Web Style Guidelines
-
-## 4.2. Information Architecture
-
-### 4.2.1. Organization Systems
-
-### 4.2.2. Labeling System
-
-### 4.2.3. SEO Tags and Meta Tags
-
-### 4.2.4. Searching Systems.
-
-### 4.2.5. Navigation Systems
-
-## 4.3. Landing Page UI Design
-
-### 4.3.1. Landing Page Wireframe
-
-### 4.3.2. Landing Page Mock-up.
-
-## 4.4. Web Aplications UX/UI Design
-
-### 4.4.1. Web Applications Wireframes
-
-### 4.4.2. Web Applications Wireflow Diagrams
-
-### 4.4.3. Web Applications Mock-ups.
-
-### 4.4.4. Web Applications User Flow Diagrams.
-
-## 4.5. Web Applications Prototyping.
-
-## 4.6. Domain-Driven Software Architecture.
-
-### 4.6.1. Software Architecture Context Diagram.
-
-### 4.6.2. Software Architecture Container Diagrams.
-
-### 4.6.3. Software Architecture Components Diagrams.
-
-## 4.7. Software Object-Oriented Design.
-
-### 4.7.1. Class Diagrams
-
-### 4.7.2. Class Dictionary
-
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
 
 # Capitulo V: Product Implementation, Validation & Deployment
 
@@ -1069,4 +1033,42 @@ Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym*
 ### 5.1.1. Software Development Environment Configuration
 
 ### 5.1.2. Source Code Management.
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">15ad028</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">33ad2a9</td>
+        <td colspan="2">Actualización de index.html e imágenes de beneficios</td>
+        <td colspan="2">Actualización de index.html e imágenes de beneficios</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">3694000</td>
+        <td colspan="2">Actualización en script.js (carga de idioma y configuración de video)</td>
+        <td colspan="2">Actualización en script.js (carga de idioma y configuración de video)</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+</table>
 
