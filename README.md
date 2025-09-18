@@ -33,8 +33,8 @@
       <td>Ventosilla Trujillo Anderson Ricardo</td>
     </tr>
     <tr>
-      <td>U2</td>
-      <td>Apellidos y Nombres</td>
+      <td>U202323562</td>
+      <td>Villogas Medina Oliver Paul</td>
     </tr>
     <tr>
       <td>U2</td>
@@ -53,7 +53,7 @@
 
 | **Versión** | **Fecha**   | **Autores**                                                                                     | **Descripción de Modificación**                                                                                                                                                                  |
 |-------------|-------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0         | 11/09/2025  | - Alberto Alejandro Ponce Perales <br> - Oliver Villogas Medina  <br> - Anderson <br> - Juan <br> - Wilder Gonzalo | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
+| 1.0         | 11/09/2025  | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson <br> - Juan <br> - Wilder Gonzalo | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
 
 ---
 # Project Report Collaboration Insights
@@ -104,8 +104,8 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: asdasasd.<br>**Anderson**<br>TB1: asdasdasds.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: asdasdasd. | TB1: asdasdasds. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: asdasdasd. <br>**Anderson**<br>TB1: asdasdas. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: asdasdasdsd. | TB1: asdasdas. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables.<br>**Anderson**<br>TB1: asdasdasds.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: asdasdasd. | TB1: asdasdasds. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. <br>**Anderson**<br>TB1: asdasdas. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: asdasdasdsd. | TB1: asdasdas. |
 
 ---
 
@@ -114,6 +114,10 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
+FitConnect es una startup tecnológica que busca transformar el sector del fitness al resolver el problema clave de la dificultad que tienen los gimnasios para acceder a equipos de alta calidad debido a su elevado costo. Nuestro objetivo es reemplazar los métodos de adquisición tradicionales y la falta de datos precisos sobre el rendimiento de los equipos con una solución integral que ofrezca digitalización, flexibilidad y eficiencia en la gestión de equipos.
+Para lograr esto, FitConnect ha desarrollado un marketplace especializado que centraliza y digitaliza las transacciones de compra, alquiler y leasing de equipos. Este modelo no solo facilita el acceso a tecnología de punta sin grandes inversiones iniciales, sino que también ofrece un sistema de monitoreo en tiempo real del estado y rendimiento de la maquinaria. De esta forma, la plataforma permite a los gimnasios realizar mantenimiento predictivo, optimizar el uso de sus recursos y garantizar una experiencia superior para sus usuarios. 
+<br><strong>Misión:</strong> Digitalizar y optimizar la adquisición y el mantenimiento de equipos de fitness, brindando a gimnasios y entrenadores las herramientas necesarias para una gestión eficiente.
+<br><strong>Visión:</strong> Liderar la transformación digital de la industria del fitness en Latinoamérica, convirtiéndonos en el principal referente para la adquisición y gestión de equipos inteligentes.
 
 
 
@@ -122,25 +126,71 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 
 | Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
 |-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
-| ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales   | u202320684 | Ingeniería de Software | sadfasdfsadf|
-| ![Inserta tu foto al lado]()     | Oliver Villogas  | u20 | Ingeniería de Software |  asfasfasf |
-| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend |
-| ![Inserta tu foto al lado]() | Juan  | u20 | Ingenieria de Software | sadfasdfasdf |
-| ![Inserta tu foto al lado]()        | Wilder Gonzalo | u20   | Ingeniería de Software | dsafasdfasdfasdf |
+| ![Inserta tu foto al lado]()           | Alberto Alejandro Ponce Perales   | U202320684 | Ingeniería de Software | sadfasdfsadf|
+| ![Inserta tu foto al lado]()     | Oliver Paul Villogas Medina  | U202323562 | Ingeniería de Software |  Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo.|
+| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4)            | Anderson Ricardo Ventosilla Trujillo | U202319025 | Ingeniería de Software | Desarrollo Backend, Bases de Datos, Frontend |
+| ![Inserta tu foto al lado]() | Juan  | U20 | Ingeniería de Software | sadfasdfasdf |
+| ![Inserta tu foto al lado]()        | Wilder Gonzalo | U20   | Ingeniería de Software | dsafasdfasdfasdf |
 
 ---
 
 ## 1.2 Solution Profile
+CoolGym es una aplicación que funciona como un marketplace bidireccional, diseñada para transformar la forma en que los gimnasios, entrenadores y proveedores de máquinas de fitness acceden y gestionan sus equipos de fitness. La plataforma aborda la problemática de la alta inversión inicial y la falta de información en tiempo real sobre el uso de la maquinaria, creando un ecosistema de mutuo beneficio para proveedores de equipos y clientes.
+El núcleo de la solución es la capacidad de CoolGym para conectar a los usuarios con un catálogo de equipos fitness inteligentes que pueden ser adquiridos a través de un modelo de compra, alquiler o leasing flexible. A través de la aplicación, los gimnasios pueden explorar diferentes opciones, comparar especificaciones y seleccionar la maquinaria que mejor se adapte a sus necesidades y presupuesto.
+<br>La propuesta de valor diferencial de CoolGym reside en su sistema de monitoreo en tiempo real. Los equipos están conectados a la plataforma y envían métricas clave sobre su estado, rendimiento, uso y posibles fallas. Esta funcionalidad brinda a los clientes la capacidad de tomar decisiones basadas en datos para optimizar sus operaciones, gestionar el mantenimiento de los equipos y mejorar la experiencia de sus usuarios. A su vez, los proveedores de equipos pueden dar un seguimiento preciso al uso de su inventario, lo que les permite ofrecer mantenimiento preventivo y servicios de soporte proactivo, asegurando el rendimiento de sus productos y facilitando la renovación de contratos.
+
 
 ### 1.2.1 Antecedentes y problemática
+**What?  ¿Cuál es el problema?**
+<br>La gestión ineficiente de equipos dentro del sector fitness. Específicamente, la dificultad que tienen los gimnasios y entrenadores independientes para acceder a equipos de alta calidad debido a su elevado costo de adquisición inicial. Adicionalmente, los equipos existentes en el mercado carecen de sistemas de monitoreo en tiempo real, lo que impide un control efectivo de su rendimiento, uso y estado general. Esta falta de datos genera una gestión ineficiente del ciclo de vida de la maquinaria, afectando la rentabilidad y la calidad del servicio ofrecido.<br>
 
+**When? ¿Cuándo sucede el problema?**
+<br>El problema es una constante que se presenta a lo largo de todo el ciclo de vida de un gimnasio. Se inicia con la barrera de entrada para la adquisición de equipos de alta gama y continúa durante la fase de operación, donde la falta de información en tiempo real se traduce en ineficiencias, fallas inesperadas y costos de mantenimiento elevados. El problema se agrava con el tiempo, a medida que los equipos envejecen y la incertidumbre sobre su estado aumenta, generando una constante presión sobre la rentabilidad del negocio.<br>
+
+**Where? ¿Dónde sucede el problema?**
+<br>Se presenta en gimnasios y centros de entrenamiento de pequeña y mediana escala. Si bien es un desafío en el sector, la falta de soluciones flexibles para la adquisición y monitoreo de equipos es particularmente notable en mercados donde el acceso a capital para inversiones de alto costo es limitado. La problemática se evidencia en el proceso de adquisición de equipos y durante su uso diario, afectando directamente la operación interna del gimnasio y, por ende, la experiencia de sus usuarios.<br>
+
+**Why? ¿Por qué sucede el problema?**
+<br>Debido a la ausencia de herramientas digitales para la gestión y adquisición de equipos en el sector fitness. Los gimnasios no cuentan con soluciones integradas que les permitan acceder a maquinaria de alta calidad de forma flexible ni controlar su ciclo de vida, desde su compra hasta su mantenimiento. Esta falta de trazabilidad y visibilidad en tiempo real no solo genera fallas inesperadas, sino que también crea una barrera de entrada para negocios más pequeños, que no pueden afrontar los altos costos de la inversión inicial.<br>
+
+**Who? ¿Quién está involucrado?**
+<br>El problema afecta a dos actores principales en la cadena de valor del fitness: los gimnasios y entrenadores independientes y los proveedores de equipos de fitness. Los primeros, al ser los solicitantes, enfrentan barreras para acceder a tecnología de punta y carecen de control sobre el rendimiento de sus máquinas una vez instaladas. Por su parte, los proveedores se ven perjudicados por la ausencia de canales de venta eficientes y la falta de información en tiempo real sobre cómo sus productos se utilizan en el mercado, lo que dificulta el soporte post-venta y la toma de decisiones estratégicas.<br>
+
+**How? ¿Cómo se va a llevar a cabo?**
+<br>CoolGym digitaliza y automatiza todo el flujo de gestión: desde la selección y adquisición de equipos, hasta la centralización del monitoreo en tiempo real de su rendimiento. La aplicación unifica toda la información, lo que permite a los clientes gestionar sus recursos de manera proactiva y a los proveedores ofrecer un soporte técnico eficiente. A través de una interfaz intuitiva y con trazabilidad de datos, la plataforma mejora la comunicación, reduce errores y optimiza la toma de decisiones para todos los actores involucrados.<br>
+
+**How much? ¿Cuánto costará o qué recursos se necesitarán?**
+<br>Se requerirán recursos técnicos como un equipo de desarrollo de software, servidores en la nube y sistemas de seguridad e integración para la plataforma. A nivel de recursos humanos, se necesitará personal para soporte, ventas y atención al cliente. También se considerarán inversiones en marketing, relaciones comerciales con proveedores y gimnasios, y análisis constante del sector fitness para adaptar la solución a las necesidades del mercado y asegurar un crecimiento sostenido.<br>
 
 ---
-
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
+
+**Gimnasios y Entrenadores Independientes**
+<br>Los gimnasios y entrenadores independientes enfrentan dificultades significativas al adquirir y gestionar equipos de alta calidad, debido a la falta de un canal de adquisición formal y a la ausencia de datos en tiempo real sobre el rendimiento de sus máquinas.
+Esta falta de formalidad genera inversiones no optimizadas, costos de mantenimiento elevados y una notable ausencia de trazabilidad, lo que provoca fallas inesperadas en los equipos y posibles interrupciones en la operación del negocio.
+Nuestra solución, CoolGym, propone un marketplace bidireccional que permite a estas empresas digitalizar la adquisición y el monitoreo de sus equipos, asegurando transparencia y eficiencia en todo el proceso.
+Sin embargo, la adopción de un modelo digital que involucra transacciones de alto valor (como el leasing y el alquiler) puede ser un desafío si la plataforma no genera la confianza necesaria para manejar contratos y acuerdos comerciales complejos.<br>
+
+**¿Cómo podemos diseñar una experiencia de usuario que simplifique la complejidad de las transacciones de alto valor y genere la confianza necesaria para asegurar una adopción masiva en el sector fitness?**
+
+**Proveedores de Equipos de Fitness**
+<br>Los distribuidores y fabricantes de equipos de fitness enfrentan dificultades significativas al gestionar sus inventarios y al ofrecer soporte post-venta, debido a la falta de un canal formal y centralizado que les brinde visibilidad sobre el rendimiento de sus productos.
+Esta falta de visibilidad genera una gestión reactiva de los activos, dificultades para planificar el mantenimiento preventivo y una notable ausencia de datos sobre la utilización de su maquinaria. Esto, a su vez, afecta la retención de clientes y la rentabilidad de sus contratos de alquiler o leasing.
+Nuestra solución, CoolGym, propone un marketplace bidireccional que permite a los proveedores digitalizar sus procesos de venta y tener acceso a métricas en tiempo real sobre el uso de sus equipos. Esto asegura la trazabilidad y la eficiencia en su operación.
+No obstante, la implementación de un nuevo sistema puede encontrar resistencia si los beneficios no son evidentes y medibles. Esto podría dificultar la adopción por parte de los proveedores que tienen métodos de trabajo ya establecidos.<br>
+
+**¿Cómo podemos demostrar de manera efectiva a los proveedores que el acceso a datos en tiempo real les permitirá optimizar el mantenimiento preventivo y aumentar la rentabilidad de sus activos?**
+
+**Visión Estratégica y del Producto**
+<br>El mercado latinoamericano de equipos de fitness carece actualmente de una solución SaaS especializada que ofrezca una gestión integral y trazabilidad completa de los activos entre proveedores y clientes.
+Esta ausencia crea una brecha significativa entre las prácticas operativas actuales, caracterizadas por su informalidad, y la necesidad creciente de procesos más modernos, eficientes y transparentes.
+CoolGym aspira a cerrar esta brecha proporcionando una plataforma escalable y adaptable que se convierta en el estándar digital para la gestión de equipos de fitness en la región.
+Sin embargo, dada la complejidad del ecosistema y la diversidad de actores involucrados (gimnasios de distinto tamaño, tipos de proveedores), es esencial una estrategia de introducción al mercado cuidadosamente planificada.<br>
+
+**¿Cómo podemos identificar y abordar un segmento inicial que nos permita validar nuestra propuesta de valor, generar aceptación en el mercado y establecer una base sólida para una expansión escalable?**
 
 
 #### 1.2.2.2 Lean UX Assumptions
@@ -436,7 +486,13 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
+Para comprender a nuestros usuarios principales, hemos diseñado dos perfiles de User Persona que representan a nuestros segmentos clave: los dueños o entrenadores de gimnasios y los proveedores de equipos fitness. Estos perfiles nos ayudan a identificar sus motivaciones, frustraciones y necesidades, permitiéndonos desarrollar una plataforma que resuelva sus problemas reales y mejore significativamente su proceso de compra y venta de equipos.<br>
 
+**User Persona 1: Dueños o entrenadores de gimnasios**
+<br>Foto de David Torres
+
+**User Persona 2: Proveedores de equipos de fitness**
+<br>Foto de Kevin Castillo
 ### 2.3.2. User Task Matrix.
 mi parte
 
@@ -447,18 +503,112 @@ mi parte
 ### 2.3.5. As-is Scenario Mapping. 
 
 ## 2.4. Ubiquitous Language. 
+|Término (Inglés)    |Término (Español) |Definición     |
+|-----------------------------------------------|-----------------|------------|
+|     User      | Usuario  |Persona que interactúa con la plataforma. Puede ser un Cliente o un Proveedor.| 
+|     Client      | Cliente   | Gimnasio o entrenador que adquiere o gestiona equipos de fitness. |
+|       Provider    | Proveedor | Empresa o distribuidor que ofrece equipos de fitness en la plataforma.|
+|   Support Ticket        | Ticket de Soporte   | Registro de una solicitud de ayuda o un problema reportado por un usuario. |
+|     Notification      | Notificación   | Mensaje o alerta automática enviada a un usuario para informarle sobre un evento relevante. |
+|      Order     | Pedido   | Registro de la adquisición de un equipo, que puede ser una compra, alquiler o leasing. |
+|       Order Status    | Estado del Pedido  | Condición actual de un Pedido. |
+|      Invoice     | Factura   | Documento contable que detalla los productos y servicios de un Pedido. |
+|      Maintenance     | Mantenimiento   | Servicio de reparación o prevención de fallas de un equipo. |
+|        Payment   | Pago  | Registro de una transacción monetaria realizada por un cliente para saldar un Pedido. |
+|       Equipment    | Equipo  | Un activo físico (por ejemplo, una caminadora) que se gestiona en la plataforma. |
+|      Category     | Categoría   | Tipo de Equipo de fitness (por ejemplo: cardio, fuerza, bicicleta estática). |
+|      Equipment Status     | Estado del Equipo   | La condición operativa actual de un Equipo.|
+|      Equipment Monitoring     | Monitoreo del Equipo   | El proceso de recolección y registro de datos en tiempo real de un Equipo. |
+|       Monitoring Data    | Dato de Monitoreo   | El valor específico y la información que un Equipo inteligente envía a la plataforma (por ejemplo: horas de uso, rendimiento). |
+|       Traceability    |Trazabilidad   | La capacidad de rastrear y monitorear el historial completo de un Equipo. |
+|      Monitoring Dashboard     | Dashboard de Monitoreo   | La interfaz de usuario que visualiza de forma gráfica y en tiempo real el Monitoreo del Equipo. |
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
 
 ## 3.2. User Stories
+**Epics:**
+|Epic ID    | Título |Descripción   |
+|-----------------------------------------------|-----------------|------------|
+|    EP01   | Gestión de equipos  |Conectar, registrar y visualizar el estado de las máquinas en el gimnasio.| 
+|     EP02      | Gestión de mantenimiento   | Programar mantenimientos, recibir alertas y consultar el historial de incidencias. |
+|       EP03   | Gestión de reportes y analíticas | Generar reportes y dashboards en tiempo real para apoyar la toma de decisiones.|
+|   EP04       | Ventas y retención de clientes   | Facilitar pruebas gratuitas, planes de precios, soporte técnico y contacto con clientes/proveedores. |
+|     EP05    | Gestión de suscripciones y pagos   | Automatizar y simplificar la gestión de pagos y suscripciones, tanto para los proveedores que pagan por el servicio, como para los dueños de gimnasios que pagan por el alquiler de equipos.|
+|      EP06     |Autenticación y gestión de perfiles   | Cubre los procesos iniciales para los nuevos usuarios, como el registro y el inicio de sesión. Además, incluye las funcionalidades para la recuperación de contraseñas y la configuración de los perfiles de cuenta. |
+|       EP07   | Gestión de compras y alquileres  | Abarca la experiencia de adquisición de equipos para los dueños de gimnasios. Incluye la búsqueda en el catálogo, la selección de máquinas, la gestión del carrito y el envío de solicitudes de compra o alquiler a los proveedores. |
+|       EP08   | Gestión de pedidos y envíos  | Abarca la recepción y el procesamiento de las solicitudes por parte de los proveedores. Incluye la aceptación o rechazo de pedidos, la coordinación de la logística, el seguimiento del envío y la confirmación de la entrega de los equipos. |
+|       EP09    | Sistema de notificaciones y alertas  | Configuración de notificaciones sobre fallas de equipos, pedidos, recordatorios de pagos, actualizaciones, etc. |
+|       EP10   |Versión multilenguaje  | La interfaz y el contenido estarán disponibles en el idioma español e inglés, asegurando que cada usuario tenga una experiencia fluida en su idioma preferido.|
+
+**User Stories:**
+| User Story ID   | Título | Descripción    | Criterios de Aceptación           | Epic ID       |
+|-----------------|-----------------|------------|------------------------|---------------------------------------------|
+| US01 | Conectar máquinas al sistema   |Como administrador de gimnasio, quiero conectar mis máquinas al sistema, para tener un control centralizado de su estado y uso. | Escenario 1: Registro exitoso de máquina <br>Dado que un administrador accede al panel de conexión, cuando ingresa los datos de una máquina (marca, modelo, ID), entonces la máquina queda registrada en el sistema. <br>Escenario 2: Visualización en dashboard <br>Dado que la máquina está conectada, cuando el administrador abre el panel de control, entonces la máquina aparece listada con su estado actual.|EP01|
 
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling System
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems.
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up.
+
+## 4.4. Web Aplications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups.
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+## 4.5. Web Applications Prototyping.
+
+## 4.6. Domain-Driven Software Architecture.
+
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
+El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK), atributos  y relaciones establecidas:
+<br> Insertar diagrama
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -542,65 +692,36 @@ Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym*
 
 ![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
 
-## 4.1. Style Guidelines
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
+En este primer sprint se desarrolló el landing page. 
+#### 5.2.1.1. Sprint Planning 1
+|Sprint #    | Sprint 1|
+|-----------------------------------------------|-----------------|
+| Sprint Planning Background | 
+|     Date     | 01/09/2025  |
+|    Time     | 3:30 PM   |
+|     Location     | Google Meet   |
+|     Prepared By    | Ponce Perales, Alberto Alejandro   |
+|Attendees (to planning meeting)| Ponce Perales, Alberto Alejandro<br> Villogas Medina, Oliver Paul<br> Aliaga Urbina, Wilder Gonzalo<br> Saldaña De Souza, Juan David<br> Ventosilla Trujillo, Anderson Ricardo|
+|     Sprint 1 Review Summary     | Durante este sprint, el equipo se enfocó en sentar las bases estratégicas del proyecto. Se completaron entregables clave de UX como User Personas, Journey Maps y la arquitectura de información del sitio, que guiaron el diseño de la plataforma. Con esta base, se desarrolló, diseñó y desplegó la primera versión funcional de la landing page. Esta página incluye componentes clave como la descripción del servicio, los planes de suscripción, una sección que destaca los beneficios tanto para los clientes como para los proveedores y la funcionalidad de cambio de idioma entre español e inglés, asegurando que un público más amplio pueda entender la propuesta de valor del proyecto CoolGym.|
+|   Sprint 1 Retrospective Summary     | Los miembros del equipo coincidieron en que la colaboración fue muy productiva y fluida. Se destacó la sinergia en el uso de herramientas como UXPressia y Figma, lo que permitió una ejecución eficiente del diseño y el desarrollo de la página web. Para el siguiente sprint, se identificó la oportunidad de mejorar la estimación de las tareas y la capacidad para elegir adecuadamente las funcionalidades a desarrollar en base a las prioridades del proyecto.|
+|     Sprint Goal & User Stories  |
+|     Sprint 1 Goal     | Nos enfocamos en entregar una primera versión de la landing page y toda la documentación del informe del proyecto. Creemos que esto entrega una propuesta de valor validada y una presencia web inicial que atrae a nuestros segmentos objetivo y potenciales usuarios. Esto se confirmará cuando la landing page esté desplegada y la documentación del informe esté finalizada.|
+|     Sprint 1 Velocity     | 20  |
+|     Sum of Story Points     | 20   |
 
-### 4.1.1. General Style Guidelines
+#### 5.2.1.2. Aspect Leaders and Collaborators
+| Team Member                                         | GitHub Username | Landing Page     | Diseño UI/UX                |Documentación                  |
+|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
+| Ponce Perales, Alberto Alejandro | aponceperales   | C | C | L|
+| Villogas Medina, Oliver Paul | OliverVillogas   | C | C | C|
+| Aliaga Urbina, Wilder Gonzalo| gonzalo1905   | L | L | C|
+| Saldaña De Souza, Juan David | jndesouza  | C | C | C|
+| Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C | C | C|
 
-### 4.1.2. Web Style Guidelines
 
-## 4.2. Information Architecture
 
-### 4.2.1. Organization Systems
 
-### 4.2.2. Labeling System
 
-### 4.2.3. SEO Tags and Meta Tags
-
-### 4.2.4. Searching Systems.
-
-### 4.2.5. Navigation Systems
-
-## 4.3. Landing Page UI Design
-
-### 4.3.1. Landing Page Wireframe
-
-### 4.3.2. Landing Page Mock-up.
-
-## 4.4. Web Aplications UX/UI Design
-
-### 4.4.1. Web Applications Wireframes
-
-### 4.4.2. Web Applications Wireflow Diagrams
-
-### 4.4.3. Web Applications Mock-ups.
-
-### 4.4.4. Web Applications User Flow Diagrams.
-
-## 4.5. Web Applications Prototyping.
-
-## 4.6. Domain-Driven Software Architecture.
-
-### 4.6.1. Software Architecture Context Diagram.
-
-### 4.6.2. Software Architecture Container Diagrams.
-
-### 4.6.3. Software Architecture Components Diagrams.
-
-## 4.7. Software Object-Oriented Design.
-
-### 4.7.1. Class Diagrams
-
-### 4.7.2. Class Dictionary
-
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
-
-# Capitulo V: Product Implementation, Validation & Deployment
-
-## 5.1. Software Configuration Management.
-
-### 5.1.1. Software Development Environment Configuration
-
-### 5.1.2. Source Code Management.
 
