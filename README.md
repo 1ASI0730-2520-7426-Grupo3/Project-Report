@@ -59,7 +59,7 @@
 # Project Report Collaboration Insights
 
 **Link del repositorio del informe:**  
-[https://github.com/aponceperales/1ASI0730-2520-7426-Grupo3/blob/main/README.md](https://github.com/aponceperales/1ASI0730-2520-7426-Grupo3/blob/main/README.md)
+[https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md)
 
 **Link de los repositorios de la organización:**  
 []()
