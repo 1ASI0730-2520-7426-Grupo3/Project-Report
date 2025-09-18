@@ -582,6 +582,24 @@ En **CoolGym**, hemos implementado diferentes sistemas de organización basados 
 
 ---
 
+#### 4.2.2. Labeling Systems
+
+En **CoolGym**, aplicamos los siguientes sistemas de organización visual:
+
+- **Jerarquía Visual:**  
+  Destacamos información clave como el nivel de uso de cada equipo, las métricas de salud (estado operativo) y las alertas críticas para su rápida identificación por parte de administradores y proveedores.
+
+- **Organización Secuencial:**  
+  El proceso de **agendar mantenimiento**, instalar equipos inteligentes o activar contratos de leasing se organiza paso a paso para guiar al usuario de forma clara.
+
+- **Organización Matricial:**  
+  Usamos **tablas comparativas** para mostrar diferencias entre modelos de equipos fitness (bicicletas, caminadoras, elípticas), así como entre planes de leasing y compra, facilitando la decisión de los gimnasios y la oferta de los proveedores.
+
+
+
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Managment 
