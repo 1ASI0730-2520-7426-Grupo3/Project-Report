@@ -501,7 +501,29 @@ mi parte
 
 ### 2.3.3. User Journey Mapping.
 
+Segmento 1: Proveedores de Equipos Fitness Inteligentes
+
+Este User Journey Map representa el recorrido actual de Kevin Castillo. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio. Esta sección refleja la situación actual sin la intervención de una solución tecnológica, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Kevin para gestionar y optimizar la operación de su negocio.
+
+![Customer journey map Kevin Castillo.png](assets/Customer%20journey%20map%20Kevin%20Castillo.png)
+
+
+Segmento 2: Clientes (Gimnasios y Entrenadores)
+
+Este User Journey Map representa el recorrido actual de David Torres. El mapa ilustra su experiencia completa desde que considera adquirir un equipo de fitness hasta el seguimiento post-compra o alquiler. Esta sección refleja la situación actual sin la intervención de una solución tecnológica, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta David para adquirir y mantener equipos en su negocio.
+
+![Customer journey map David Torres.png](assets/Customer%20journey%20map%20David%20Torres.png)
+
+
 ### 2.3.4. Empathy Mapping.
+
+Segmento 1: Proveedores de Equipos Fitness Inteligentes
+
+![Kevin Castillo.png](assets/Kevin%20Castillo.png)
+
+Segmento 2: Clientes (Gimnasios y Entrenadores)
+
+![David Torres.png](assets/David%20Torres.png)
 
 ### 2.3.5. As-is Scenario Mapping. 
 
@@ -615,6 +637,8 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 | US40 | Ver notificaciones dentro de la app| Como usuario, quiero ver todas mis notificaciones en un solo lugar dentro de la aplicación, para no perderme ninguna alerta importante y poder consultarlas en cualquier momento. |Escenario 1: Visualizar la bandeja de notificaciones <br>Dado que el usuario ha recibido notificaciones nuevas, cuando hace clic en el ícono de notificaciones, entonces se abre una lista que muestra todas las alertas recibidas, con las no leídas destacadas. <br>Escenario 2: Desactivar solo las notificaciones de la app <br>Dado que el usuario quiere controlar si ve las notificaciones dentro de la app, cuando navega a la configuración y desactiva la opción para Notificaciones de la app, entonces el usuario deja de recibir notificaciones dentro de la app. | EP09 |
 
 ## 3.3. Impact Mapping
+
+El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de CoolGym para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
 ## 3.4. Product Backlog
 
