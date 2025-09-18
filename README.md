@@ -620,6 +620,7 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 # Capítulo IV: Product Design
 
+<<<<<<< HEAD
 ## 4.1. Style Guidelines
 
 ### 4.1.1. General Style Guidelines
@@ -1092,18 +1093,236 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-## 4.7. Software Object-Oriented Design.
+## 4.7 Software Object-Oriented Design 
 
-### 4.7.1. Class Diagrams
+### 4.7.1 Class Diagrams
 
-### 4.7.2. Class Dictionary
+En esta sección planteamos nuestro **diagrama de clases**, el cual nos permitirá modelar la estructura de nuestro sistema y facilitar el desarrollo del backend.  
+Cada clase incluye sus atributos principales y los métodos que encapsulan la lógica del negocio, sirviendo como base para la implementación.  
+
+![Diagrama de Clases](https://media.discordapp.net/attachments/814677457042276372/1418170883213623457/Diagrama_en_blanco.png?ex=68cd260e&is=68cbd48e&hm=f254b9a0cb98c4378986dd4e9761bd8eb7c75120239b4900500a4b48a09d5bb8&=&format=webp&quality=lossless&width=1257&height=879)
+
+# 4.7.2. Class Dictionary
+
+## **Usuario**
+**Descripción:** Clase base que representa a un usuario del sistema de gestión de equipos de gimnasio, conteniendo información común de autenticación y datos personales.
+
+**Atributos:**
+- `idUsuario: int` - Identificador único del usuario
+- `nombreUsuario: String` - Nombre de usuario único en el sistema
+- `nombreCompleto: String` - Nombre completo del usuario
+- `correo: String` - Dirección de correo electrónico
+- `contraseña: String` - Contraseña encriptada para autenticación
+- `rol: String` - Rol del usuario en el sistema
+
+**Métodos:**
+- `iniciarSesion(): boolean` - Autentica las credenciales del usuario
+- `registrar(): void` - Registra un nuevo usuario en el sistema
+- `actualizarPerfil(): void` - Actualiza la información del perfil
+- `validarCredenciales(): boolean` - Valida las credenciales proporcionadas
+- `cambiarContraseña(): boolean` - Permite cambiar la contraseña actual
+
+---
+
+## **Cliente**
+**Descripción:** Clase que extiende Usuario, representando a los propietarios de gimnasios que alquilan equipos, siendo uno de los segmentos objetivo del negocio.
+
+**Atributos:**
+- `idCliente: int` - Identificador único del cliente
+- `nombreGimnasio: String` - Nombre del gimnasio del cliente
+- `telefono: String` - Número de teléfono de contacto
+- `direccion: String` - Dirección física del gimnasio
+
+**Métodos:**
+- `registrarCliente(): void` - Registra un nuevo cliente en el sistema
+- `verEquiposAlquilados(): List<Equipo>` - Obtiene equipos actualmente alquilados
+- `solicitarMantenimiento(): void` - Solicita servicio de mantenimiento
+- `consultarHistorialPedidos(): List<Pedido>` - Consulta historial de pedidos
+
+---
+
+## **Proveedor**
+**Descripción:** Clase que extiende Usuario, representando a las empresas que suministran equipos de gimnasio, siendo el segundo segmento objetivo del negocio.
+
+**Atributos:**
+- `idProveedor: int` - Identificador único del proveedor
+- `nombreEmpresa: String` - Razón social de la empresa proveedora
+- `ruc: String` - Registro Único de Contribuyente
+- `telefono: String` - Número de teléfono empresarial
+- `direccion: String` - Dirección de la empresa
+
+**Métodos:**
+- `registrarProveedor(): void` - Registra un nuevo proveedor
+- `ofrecerEquipo(): void` - Publica nuevos equipos en el catálogo
+- `generarFactura(): Factura` - Genera facturas por ventas/alquileres
+- `consultarVentas(): List<Pedido>` - Consulta historial de ventas
+
+---
+
+## **Equipo**
+**Descripción:** Clase que representa un equipo de gimnasio disponible en el sistema, siendo el producto principal del inventario de la aplicación.
+
+**Atributos:**
+- `idEquipo: int` - Identificador único del equipo
+- `modelo: String` - Modelo específico del equipo
+- `descripcion: String` - Descripción detallada de características
+- `precio: double` - Precio de alquiler o venta del equipo
+- `estadoEquipo: EstadoEquipo` - Estado actual del equipo
+
+**Métodos:**
+- `asignarMantenimiento(): void` - Asigna servicio de mantenimiento
+- `cambiarEstado(EstadoEquipo): void` - Actualiza el estado del equipo
+- `calcularPrecioAlquiler(int): double` - Calcula precio por días de alquiler
+- `verificarDisponibilidad(): boolean` - Verifica si está disponible
+- `obtenerHistorialMantenimiento(): List<Mantenimiento>` - Obtiene historial de servicios
+
+---
+
+## **Categoria**
+**Descripción:** Clase que representa las categorías de clasificación de equipos de gimnasio, facilitando la organización y búsqueda en el inventario.
+
+**Atributos:**
+- `idCategoria: int` - Identificador único de la categoría
+- `nombre: String` - Nombre descriptivo de la categoría
+
+**Métodos:**
+- `crearCategoria(): void` - Crea una nueva categoría
+- `actualizarCategoria(): void` - Actualiza información de la categoría
+- `eliminarCategoria(): boolean` - Elimina categoría si no tiene equipos asociados
+- `listarEquiposPorCategoria(): List<Equipo>` - Lista equipos de esta categoría
+
+---
+
+## **Pedido**
+**Descripción:** Clase que representa una orden de alquiler o compra de equipos, gestionando las transacciones comerciales entre clientes y proveedores.
+
+**Atributos:**
+- `idPedido: int` - Identificador único del pedido
+- `fechaCreacion: Date` - Fecha de creación del pedido
+- `montoTotal: double` - Monto total de la transacción
+- `estadoPedido: EstadoPedido` - Estado actual del pedido
+
+**Métodos:**
+- `agregarItem(ItemPedido): void` - Añade un item al pedido
+- `eliminarItem(int): void` - Remueve un item del pedido
+- `calcularTotal(): double` - Calcula el monto total del pedido
+- `actualizarEstado(EstadoPedido): void` - Actualiza el estado
+- `confirmarPedido(): boolean` - Confirma y procesa el pedido
+- `cancelarPedido(): boolean` - Cancela el pedido si es posible
+
+---
+
+## **ItemPedido**
+**Descripción:** Clase que representa un elemento individual dentro de un pedido, detallando cantidad y precios específicos de cada equipo solicitado.
+
+**Atributos:**
+- `idItem: int` - Identificador único del item
+- `cantidad: int` - Cantidad de equipos solicitados
+- `precioUnitario: double` - Precio unitario del equipo
+
+**Métodos:**
+- `calcularSubtotal(): double` - Calcula subtotal del item
+- `actualizarCantidad(int): void` - Modifica la cantidad solicitada
+- `validarDisponibilidad(): boolean` - Verifica disponibilidad del stock
+
+---
+
+## **Factura**
+**Descripción:** Clase que representa un documento fiscal generado por las transacciones, manejando la información financiera y tributaria del sistema.
+
+**Atributos:**
+- `idFactura: int` - Identificador único de la factura
+- `numeroFactura: String` - Número correlativo oficial
+- `fechaEmision: Date` - Fecha de emisión del documento
+- `montoTotal: double` - Monto total facturado
+- `estadoFactura: EstadoFactura` - Estado de pago de la factura
+
+**Métodos:**
+- `generarPDF(): File` - Genera documento PDF de la factura
+- `cambiarEstado(EstadoFactura): void` - Actualiza estado de pago
+- `calcularImpuestos(): double` - Calcula impuestos aplicables
+- `enviarPorCorreo(): boolean` - Envía factura por email
+- `anularFactura(): boolean` - Anula la factura si es permitido
+
+---
+
+## **Pago**
+**Descripción:** Clase que representa un pago realizado hacia una factura, gestionando los métodos de pago y confirmaciones financieras.
+
+**Atributos:**
+- `idPago: int` - Identificador único del pago
+- `monto: double` - Monto pagado
+- `fechaPago: Date` - Fecha en que se realizó el pago
+- `metodo: String` - Método utilizado para el pago
+
+**Métodos:**
+- `procesarPago(): boolean` - Procesa el pago a través del método seleccionado
+- `validarPago(): boolean` - Valida la información del pago
+- `generarComprobante(): String` - Genera comprobante de pago
+- `revertirPago(): boolean` - Revierte el pago si es necesario
+
+---
+
+## **Mantenimiento**
+**Descripción:** Clase que representa un servicio de mantenimiento aplicado a equipos, similar a las vacunas que mantienen la salud, mantiene el funcionamiento óptimo de los equipos.
+
+**Atributos:**
+- `idMantenimiento: int` - Identificador único del servicio
+- `descripcionProblema: String` - Descripción del problema o mantenimiento
+- `fechaSolicitud: Date` - Fecha de solicitud del servicio
+- `estadoMantenimiento: EstadoMantenimiento` - Estado del servicio
+
+**Métodos:**
+- `registrarSolicitud(): void` - Registra nueva solicitud de mantenimiento
+- `actualizarEstado(EstadoMantenimiento): void` - Actualiza estado del servicio
+- `asignarTecnico(String): void` - Asigna técnico responsable
+- `completarMantenimiento(): void` - Marca el servicio como completado
+- `calcularCosto(): double` - Calcula costo del mantenimiento
+
+---
+
+## **Notificacion**
+**Descripción:** Clase que representa una notificación del sistema hacia los usuarios, gestionando la comunicación de eventos importantes de la aplicación.
+
+**Atributos:**
+- `idNotificacion: int` - Identificador único de la notificación
+- `mensaje: String` - Contenido del mensaje a enviar
+- `tipo: String` - Tipo de notificación (INFO, ALERTA, ERROR)
+- `canal: String` - Canal de envío (EMAIL, SMS, PUSH)
+- `fecha: Date` - Fecha de creación de la notificación
+- `leida: boolean` - Indica si fue leída por el destinatario
+
+**Métodos:**
+- `enviar(): boolean` - Envía la notificación al destinatario
+- `marcarComoLeida(): void` - Marca la notificación como leída
+- `programarEnvio(Date): void` - Programa envío para fecha específica
+- `reenviar(): boolean` - Reenvía la notificación si es necesario
+
+---
+
+## **TicketSoporte**
+**Descripción:** Clase que representa un ticket de soporte técnico generado por usuarios, gestionando las solicitudes de ayuda y resolución de problemas en la aplicación.
+
+**Atributos:**
+- `idTicket: int` - Identificador único del ticket
+- `asunto: String` - Asunto o título del problema reportado
+- `mensaje: String` - Descripción detallada del problema
+- `fechaCreacion: Date` - Fecha de creación del ticket
+- `estado: String` - Estado actual del ticket (ABIERTO, EN_PROCESO, CERRADO)
+- `fechaCierre: Date` - Fecha de resolución del ticket
+
+**Métodos:**
+- `abrirTicket(): void` - Crea y abre un nuevo ticket de soporte
+- `cerrarTicket(): void` - Cierra el ticket marcándolo como resuelto
+- `responder(String): void` - Añade respuesta al hilo del ticket
+- `asignarAgente(String): void` - Asigna agente de soporte responsable
+- `escalarTicket(): void` - Escala el ticket a nivel superior
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
 El siguiente diagrama entidad‑relación (ER) muestra las tablas principales con claves primarias (PK), claves foráneas (FK), atributos  y relaciones establecidas:
 <br><br>![DiagramaBaseDatosCoolGym.jpg](assets/DiagramaBaseDatosCoolGym.jpg)
-
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
