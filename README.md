@@ -460,6 +460,70 @@ mi parte
 
 # Capítulo IV: Product Design
 
+### 4.1. Style Guidelines
+
+#### 4.1.1. General Style Guidelines
+
+El tono de CoolGym es profesional y accesible, con lenguaje claro, directo y empático para atraer y retener gimnasios y proveedores.
+
+- **Personalidad de marca:** tecnológica, confiable, enérgica y cercana.
+- **Paleta:** fría-dinámica (azules/teales) con acentos energéticos (verde lima) que evocan tecnología + rendimiento.
+- **Tipografía:** moderna y de alta legibilidad en pantallas.
+
+**Branding**
+
+La identidad visual de **CoolGym** busca transmitir **confianza, innovación y performance** dentro del sector fitness inteligente.
+
+- **Logo:** Representa una **bicicleta estática** con un estilo minimalista y un efecto de **neón azul**, evocando **tecnología, energía y modernidad**.  
+  Este recurso visual conecta directamente con el mundo del entrenamiento indoor y el monitoreo digital en tiempo real.  
+  El logo está disponible en versiones para **fondos claros y oscuros**, así como en formatos **monocromáticos** y en **ícono de aplicación** para su uso en dispositivos móviles y web.
+
+<img src="assets/CoolGymImage.png" alt="Logo CoolGym" width="500"/>
+
+**Typography**
+
+Se emplearán **Inter** (primaria) y **Roboto** (secundaria) por su legibilidad, métricas consistentes y soporte amplio en web y móviles.
+
+![coolgymInter.png](assets/coolgymInter.png)
+*Figura 1: Tipografía Inter (Primaria).*
+
+![coolgymRoboto.png](assets/coolgymRoboto.png)
+*Figura 2: Tipografía Roboto (Secundaria).*
+
+**Colors**
+
+La paleta de colores de **CoolGym** fue diseñada para reflejar un entorno **tecnológico, moderno y enérgico**, transmitiendo **confianza, dinamismo y rendimiento**.
+
+El color principal elegido es el **azul eléctrico**, ya que simboliza innovación, frescura y tecnología, valores que se alinean con la propuesta de la plataforma. Se complementa con tonos neutros (negro, blanco y gris) que sirven como base para textos y fondos. Finalmente, se incluyen colores secundarios vibrantes (verde, rojo y amarillo) que se utilizan para representar **estados del sistema**, **alertas** y **acciones clave** dentro de la aplicación.
+
+- **Primario**
+  - Azul eléctrico: `#0884C4`
+
+- **Neutros**
+  - Gris medio: `#808080`
+  - Negro: `#000000`
+  - Blanco: `#FFFFFF`
+
+- **Secundarios**
+  - Blanco azul mar: `#F4FCFC` → fondos alternativos y secciones claras
+  - Verde medio primavera: `#00CC66` → notificaciones positivas, éxito
+  - Rojo claro: `#FF4B4B` → errores, fallas críticas
+  - Amarillo mandarina: `#FFCC00` → advertencias, calificaciones, avisos
+
+Esta paleta asegura que la plataforma **CoolGym** proyecte una experiencia visual coherente, clara y alineada con la identidad fitness tecnológica de la marca.
+
+
+![Colors-General Style Guidelines.png](assets/Colors-General%20Style%20Guidelines.png)
+*Figura 3: Paleta de colores — CoolGym.*
+
+**Spacing**
+
+- **Escala base:** 8 px (8, 16, 24, 32, 40, 48…)
+- **Margen mínimo:** 16 px
+- **Grid:** 12 columnas (web), 4 columnas (móvil). Gutters de 16–24 px.
+
+---
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Managment 
