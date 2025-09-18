@@ -595,7 +595,19 @@ En **CoolGym**, aplicamos los siguientes sistemas de organización visual:
 - **Organización Matricial:**  
   Usamos **tablas comparativas** para mostrar diferencias entre modelos de equipos fitness (bicicletas, caminadoras, elípticas), así como entre planes de leasing y compra, facilitando la decisión de los gimnasios y la oferta de los proveedores.
 
+#### 4.2.3. SEO Tags and Meta Tags
 
+**Landing Page**
+- **Title:** CoolGym - Leasing y Monitoreo Inteligente de Equipos Fitness
+- **Meta Description:** CoolGym conecta gimnasios con proveedores de equipos fitness inteligentes, permitiendo alquilar o comprar máquinas modernas con monitoreo en tiempo real. Optimiza el rendimiento de tus equipos, reduce fallas y mantén tu gimnasio siempre operativo con mantenimiento predictivo.
+- **Meta Keywords:** leasing equipos gimnasio, monitoreo fitness IoT, mantenimiento preventivo, CoolGym, bicicletas estáticas, caminadoras inteligentes, consumo energético
+- **Meta Author:** CoolGym
+
+**Aplicación Web**
+- **Title:** CoolGym - Plataforma de Gestión y Telemetría de Equipos Fitness
+- **Meta Description:** CoolGym facilita la gestión integral de tus equipos fitness: telemetría en tiempo real, mantenimiento preventivo y análisis de uso. Supervisa la salud de cada máquina, recibe alertas críticas y optimiza costos con planes de leasing o compra flexibles.
+- **Meta Keywords:** gestión equipos gimnasio, telemetría fitness, mantenimiento predictivo, CoolGym, alertas de fallas, eficiencia energética, leasing gimnasios
+- **Meta Author:** CoolGym
 
 
 
