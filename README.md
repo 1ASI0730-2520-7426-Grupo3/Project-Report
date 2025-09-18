@@ -555,6 +555,16 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento 1: Proveedores de Equipos Fitness Inteligentes**  
+
+&nbsp; 
+![To-Be Scenario Mapping - Proveedores](https://media.discordapp.net/attachments/814677457042276372/1418343979740827648/image.png?ex=68cdc744&is=68cc75c4&hm=79c65cb4ff606cc9276c3d6e46341ba5e53897fde9da9c3641ec9f5dbdc112ad&=&format=webp&quality=lossless)
+
+**Segmento 2: Clientes (Gimnasios y Entrenadores)**  
+
+&nbsp; 
+![To-Be Scenario Mapping - Clientes](https://media.discordapp.net/attachments/814677457042276372/1418344103955009566/image.png?ex=68cdc761&is=68cc75e1&hm=76cd44175fa9fea068a7eb6077fbca03c4d4a7384eec9662f381f0c727f6e8cc&=&format=webp&quality=lossless&width=1562&height=775)
+
 ## 3.2. User Stories
 **Epics:**
 |Epic ID    | Título |Descripción   |
