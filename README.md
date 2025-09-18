@@ -1637,7 +1637,7 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 
 7. Podemos visualizar el resultado.
-
+![producto final.png](assets/producto%20final.png)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
