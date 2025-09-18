@@ -1099,7 +1099,7 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 En esta sección planteamos nuestro **diagrama de clases**, el cual nos permitirá modelar la estructura de nuestro sistema y facilitar el desarrollo del backend.  
 Cada clase incluye sus atributos principales y los métodos que encapsulan la lógica del negocio, sirviendo como base para la implementación.  
 
-![Diagrama de Clases](https://media.discordapp.net/attachments/814677457042276372/1418170883213623457/Diagrama_en_blanco.png?ex=68cd260e&is=68cbd48e&hm=f254b9a0cb98c4378986dd4e9761bd8eb7c75120239b4900500a4b48a09d5bb8&=&format=webp&quality=lossless&width=1257&height=879)
+![Diagrama de Clases](https://media.discordapp.net/attachments/814677457042276372/1418250417866801172/Diagrama_en_blanco_1.png?ex=68cd7021&is=68cc1ea1&hm=63941b8c060d25268816b5c6d3af779d0931e1ac48d73c2f8f2768148bf790fc&=&format=webp&quality=lossless&width=1823&height=1271)
 
 # 4.7.2. Class Dictionary
 
