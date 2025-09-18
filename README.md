@@ -1072,3 +1072,28 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
     </tr>
 </table>
 
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
+
+- Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
+  ![e1.png](assets/executionevidence/e1.png)
+
+- Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
+  ![e2.png](assets/executionevidence/e2.png)
+
+
+- Esta sección describe las funcionalidades claves principales de nuestra plataforma CoolGym.
+![e3.png](assets/executionevidence/e3.png)
+
+- Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
+![e4.png](assets/executionevidence/e4.png)
+![e5.png](assets/executionevidence/e5.png)
+
+- También se encuentra la sección de nuestra misión y visión.
+![e6.png](assets/executionevidence/e6.png)
+
+- Por último, está la sección donde podemos solicitar una demo.
+![e7.png](assets/executionevidence/e7.png)
+
+- Para más detalles, visualizar el video: [Video demostrativo de la landing page]()
