@@ -670,7 +670,7 @@ La estructura de navegación y las opciones disponibles en CoolGym están diseñ
 El wireframe de la página de inicio de OsitoPolar organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece OsitoPolar. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/Landing-Page-Wireframe.png"
+  <img src="assets/LandingWireframe.png"
        alt="Wireframe de la Landing Page: Diseño de baja fidelidad de la página principal."
        style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
@@ -684,7 +684,7 @@ El wireframe de la página de inicio de OsitoPolar organiza los elementos clave 
 El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/Landing-Page-Mockup.png"
+  <img src="assets/LandingMockup.png"
        alt="Mockup 1 de la Landing Page: Diseño visual de la sección superior."
        style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">
