@@ -522,7 +522,7 @@ Esta paleta asegura que la plataforma **CoolGym** proyecte una experiencia visua
 - **Margen mínimo:** 16 px
 - **Grid:** 12 columnas (web), 4 columnas (móvil). Gutters de 16–24 px.
 
----
+
 
 #### 4.1.2. Web Style Guidelines
 
@@ -563,7 +563,7 @@ Sin embargo, debido a la variación de botones y fondos que tendrá la plataform
 ![Red-color-Web Style Guidelines.png](assets/Red-color-Web%20Style%20Guidelines.png)
 *Figura 5: Esquema de alertas críticas — Error/Down.*
 
----
+
 
 ### 4.2. Information Architecture
 
@@ -580,7 +580,7 @@ En **CoolGym**, hemos implementado diferentes sistemas de organización basados 
 - **Organización matricial:**  
   Aplicada en áreas donde se necesita comparar o analizar datos relacionados, como métricas de rendimiento de equipos, consumo energético y planes de leasing vs compra. Este enfoque proporciona al usuario una visión clara y estructurada de las opciones disponibles.
 
----
+
 
 #### 4.2.2. Labeling Systems
 
@@ -608,6 +608,62 @@ En **CoolGym**, aplicamos los siguientes sistemas de organización visual:
 - **Meta Description:** CoolGym facilita la gestión integral de tus equipos fitness: telemetría en tiempo real, mantenimiento preventivo y análisis de uso. Supervisa la salud de cada máquina, recibe alertas críticas y optimiza costos con planes de leasing o compra flexibles.
 - **Meta Keywords:** gestión equipos gimnasio, telemetría fitness, mantenimiento predictivo, CoolGym, alertas de fallas, eficiencia energética, leasing gimnasios
 - **Meta Author:** CoolGym
+
+#### 4.2.4. Searching Systems
+
+Estas decisiones están orientadas a facilitar la navegación eficiente dentro de CoolGym, evitando que los usuarios se sientan abrumados por grandes volúmenes de datos y asegurando que encuentren rápidamente lo que necesitan, ya sea para reservar máquinas, contratar servicios o conocer el estado de los equipos.
+
+**Opciones de Búsqueda**  
+**Barra de Búsqueda**  
+La barra de búsqueda permite a los usuarios ingresar términos específicos, como el nombre de una máquina, tipo de plan o estado de disponibilidad, para encontrar rápidamente información relevante. Los resultados se muestran de manera instantánea conforme se escriben los términos.
+
+**Categorías**  
+Los usuarios pueden seleccionar entre diferentes categorías de servicios y equipos, como "Máquinas de Cardio", "Máquinas de Fuerza", "Planes de Membresía", "Entrenadores Personales" y "Clases Grupales", para limitar los resultados a un grupo específico.
+
+**Etiquetas Populares**  
+Las etiquetas populares, como "Disponible Ahora", "Top Rated" o "Mantenimiento Programado", permiten a los usuarios localizar servicios o equipos relacionados con términos comunes, facilitando el acceso a opciones más demandadas o especializadas.
+
+**Filtros Disponibles**  
+**Filtros por Tipo de Máquina**
+- Cardio (Caminadoras, Elípticas, Bicicletas)
+- Fuerza (Pesas, Prensas, Máquinas Guiadas)
+- Funcional (Cuerdas, Kettlebells, TRX)
+
+**Filtros por Estado de Disponibilidad**
+- Disponible
+- En Uso
+- En Mantenimiento
+
+**Filtro por Horario**  
+Los usuarios pueden ajustar el filtro para ver disponibilidad de equipos o clases en periodos específicos, como "Mañana", "Tarde" o "Noche".
+
+
+
+#### 4.2.5. Navigation Systems
+
+La estructura de navegación y las opciones disponibles en CoolGym están diseñadas para ofrecer una experiencia de usuario fluida, moderna y enfocada en la gestión de equipos y servicios fitness. A continuación, se resumen las secciones y elementos clave:
+
+1. **Páginas Principales**
+  - **Inicio**: Página principal del sitio web.
+  - **Funcionalidades**: Detalles sobre las herramientas y servicios que ofrece CoolGym.
+  - **Planes y Membresías**: Información sobre las suscripciones y beneficios disponibles.
+  - **Nosotros**: Información sobre la misión y visión de CoolGym.
+  - **Contacto**: Información de contacto y formulario para soporte o consultas.
+
+2. **Opciones de Usuario**
+  - **Login**: Acceso a cuentas de usuario.
+  - **Sign-up**: Registro de nuevos usuarios.
+  - **Perfil de Usuario**: Acceso a historial de reservas, progreso y configuraciones personales.
+
+3. **Búsqueda y Navegación**
+  - **Búsqueda**: Barra de búsqueda para encontrar equipos.
+  - **Categorías**: Filtros por tipo de máquina.
+  - **Explorar**: Opciones para navegar por secciones como "Equipos Disponibles".
+
+4. **Branding y Identidad**
+  - **CoolGym**: Logo y nombre de la marca, presentes en todas las secciones para mantener la identidad visual y reforzar la confianza de los usuarios.
+
+
 
 
 
