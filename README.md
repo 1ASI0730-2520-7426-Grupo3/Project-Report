@@ -620,7 +620,6 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 # Capítulo IV: Product Design
 
-<<<<<<< HEAD
 ## 4.1. Style Guidelines
 
 ### 4.1.1. General Style Guidelines
@@ -1381,14 +1380,14 @@ A continuación, se describe el procedimiento para desplegar el proyecto **CoolG
 ## 1. Ubicar el repositorio del proyecto
 Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio.  
 
-![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1418247295555735622/image.png?ex=68cd6d39&is=68cc1bb9&hm=2589272e38ce864deb5e4ee1ec8f55db4282e7376edd90ce2a923cdf629d5fe6&=&format=webp&quality=lossless)
 
 ---
 
 ## 2. Ir a la sección de configuración (Settings)
 En la barra superior del repositorio, se hace clic en la pestaña **Settings**.  
 
-![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1418248449492779120/image.png?ex=68cd6e4c&is=68cc1ccc&hm=f1905aaf169c14e3f7b84752882dbf0c12ed09832791d8bf9b5122dc8c973cca&=&format=webp&quality=lossless)
 
 ---
 
@@ -1396,7 +1395,7 @@ En la barra superior del repositorio, se hace clic en la pestaña **Settings**.
 En la sección **Pages**, dentro de *Build and deployment*, se selecciona la opción **Deploy from a branch**.  
 Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del contenido.  
 
-![Configuración GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+![Configuración GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1418249265192370321/image.png?ex=68cd6f0e&is=68cc1d8e&hm=5e5c491c112fcb495634c6fcd065d51ff1b1d605d0527ec6ab23b1cafeeb5c12&=&format=webp&quality=lossless)
 
 ---
 
@@ -1509,7 +1508,3 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 
 ## Conclusiones
 ## Bibliografía 
-
-
-
-
