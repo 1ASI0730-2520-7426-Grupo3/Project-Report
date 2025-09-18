@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo de la Universidad upc" />
   
-  <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h2>
+  <h1>Universidad: Universidad Peruana de Ciencias Aplicadas</h1>
   <p><strong>Carrera:</strong> Ingeniería de Software</p>
   <p><strong>Ciclo:</strong> 2025-20</p>
 
