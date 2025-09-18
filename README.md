@@ -1600,7 +1600,46 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 - Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZeUoBs)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, el equipo se concentró en la creación de la Landing Page. Al ser una fase inicial, no se trabajaron funcionalidades de backend, por lo tanto, no se generó nueva documentación de APIs en formato OpenAPI. La siguiente etapa del proyecto se enfocará en las funcionalidades principales de la plataforma.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, el equipo completó el despliegue de la Landing Page de la plataforma CoolGym. Para la publicación, se utilizó GitHub Pages como servicio de hosting. Esta actividad marca el primer paso en el proceso de lanzamiento, haciendo que el producto sea visible y accesible para los usuarios.
+
+### Pasos realizados
+
+1. Iniciamos sesión en GitHub. En caso de no tener cuenta o querer trabajar con una nueva, nos registramos.
+![1. Iniciamos sesión en GitHub.png](assets/1.%20Iniciamos%20sesi%C3%B3n%20en%20GitHub.png)
+
+
+2. Luego de iniciar sesión o registrarnos, seleccionamos a nuestro perfil de usuario y luego elegimos "Your organizations".
+![Your organization.png](assets/Your%20organization.png)
+
+![Your organizatio.png](assets/Your%20organizatio.png)
+
+3. En la nueva pestaña seleccionamos "New organization", luego seleccionamos el plan gratuito y finalmente rellenamos los datos para crear la organización
+![New organization.png](assets/New%20organization.png)
+
+
+4. Dentro de la organización seleccionamos "People" para invitar a los miembros del equipo.
+![People.png](assets/People.png)
+
+
+5. Luego de tener al equipo completo en la organización, creamos un nuevo repositorio. En nuestro caso tenemos solo dos repositorios por el momento, uno para
+   el informe y el otro para el Landing Page. Nos dirigimos a este último.
+
+![create repo.png](assets/create%20repo.png)
+
+6. Al estar en el repositorio "Landing Page", nos dirigimos a settings y seleccionamos "pages" (1). Luego seleccionamos la rama y ruta en la que está el código que
+   deseamos desplegar (2). Guardamos (3) y finalmente tendremos que esperar unos minutos para que el enlace esté disponible (4).
+![landin.png](assets/landin.png)
+
+
+7. Podemos visualizar el resultado.
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
