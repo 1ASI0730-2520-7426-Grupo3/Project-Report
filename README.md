@@ -278,6 +278,7 @@ Lo habremos demostrado cuando al menos el 60% de las transacciones se realicen b
 #### 1.2.2.4 Lean UX Canvas
 
 
+
 ## 1.3 Segmentos objetivo
 
 ### Segmento 1: Proveedores de Equipos Fitness Inteligentes  
