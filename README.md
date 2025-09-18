@@ -1192,17 +1192,48 @@ En este primer sprint se desarrolló el landing page.
 
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">15ad028</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">33ad2a9</td>
+        <td colspan="2">Actualización de index.html e imágenes de beneficios</td>
+        <td colspan="2">Actualización de index.html e imágenes de beneficios</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">1ASI0730-2520-7426-Grupo3/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">3694000</td>
+        <td colspan="2">Actualización en script.js (carga de idioma y configuración de video)</td>
+        <td colspan="2">Actualización en script.js (carga de idioma y configuración de video)</td>
+        <td colspan="2">16/09/2025</td>
+    </tr>
+</table>
+
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-## Conclusiones
-## Bibliografía 
-
-
-
-##### 5.2.1.5. Execution Evidence for Sprint Review
 
 Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
 
@@ -1214,16 +1245,26 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 
 
 - Esta sección describe las funcionalidades claves principales de nuestra plataforma CoolGym.
-![e3.png](assets/executionevidence/e3.png)
+  ![e3.png](assets/executionevidence/e3.png)
 
 - Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
-![e4.png](assets/executionevidence/e4.png)
-![e5.png](assets/executionevidence/e5.png)
+  ![e4.png](assets/executionevidence/e4.png)
+  ![e5.png](assets/executionevidence/e5.png)
 
 - También se encuentra la sección de nuestra misión y visión.
-![e6.png](assets/executionevidence/e6.png)
+  ![e6.png](assets/executionevidence/e6.png)
 
 - Por último, está la sección donde podemos solicitar una demo.
-![e7.png](assets/executionevidence/e7.png)
+  ![e7.png](assets/executionevidence/e7.png)
 
 - Para más detalles, visualizar el video: [Video demostrativo de la landing page]()
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Conclusiones
+## Bibliografía 
+
+
+
