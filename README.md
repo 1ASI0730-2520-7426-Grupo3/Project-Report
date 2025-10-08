@@ -1649,8 +1649,6 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 </table>
 
 
-
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
