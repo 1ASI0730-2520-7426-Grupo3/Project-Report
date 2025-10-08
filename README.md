@@ -558,50 +558,8 @@ Segmento 2: Clientes (Gimnasios y Entrenadores)
 
 ### 2.2.2. Registro de entrevistas
 
-**Segmento objetivo #1: Proveedores de Equipos Fitness Inteligentes**
-
-**Entrevista 1:**
-
-![Entrevista -Segmento 1.png](assets/Entrevista%20-Segmento%201.png)
-
-**Nombre: Luis David Hidalgo Chong**
-
-**Edad: 25 años**
-
-**Ocupación: Médico**
-
-**Vive solo en San Isidro**
-
-**Estado civil: Soltero**
-
-**Se describe como un proveedor del rubro fitness interesado en nuevas tecnologías y plataformas para expandir su negocio.**
-
-**Resumen: Luis David es un médico de 25 años que reside solo en el distrito de San Isidro. En su faceta como proveedor de equipos de fitness, utiliza su smartphone y redes como Instagram y WhatsApp para comunicarse. Sigue a marcas influyentes en el mundo del fitness como Dragon Pharma y Gymshark. El principal desafío que enfrenta en su negocio es la dificultad para encontrar clientes y concretar ventas a través de los canales actuales. Se muestra muy receptivo a la idea de una plataforma que le ofrezca un canal de ventas adicional y datos sobre el mercado. Además, está de acuerdo con ofrecer a sus clientes opciones de pago más flexibles, como el alquiler, y consideraría pagar una comisión por cada transacción exitosa generada a través de una nueva plataforma, reconociendo el valor del servicio.**
-
-**Segmento objetivo #2: Clientes (Gimnasios y Entrenadores)**
-
-**Entrevista 1:**
-
-![Entrevista -Segmento 2.png](assets/Entrevista%20-Segmento%202.png)
-
-**Nombre: Juan Pedro Manosalva Pérez**
-
-**Edad: 22 años**
-
-**Ocupación: Estudiante y Administrador de gimnasio**
-
-**Vive con sus padres y hermano en Santa Anita**
-
-**Estado civil: Soltero**
-
-**Se describe como un joven emprendedor que busca hacer crecer su gimnasio de manera eficiente y rentable.**
-
-**Resumen: Juan Pedro es un estudiante de 22 años que administra un pequeño gimnasio en Santa Anita, donde vive con su familia. Utiliza activamente su laptop y teléfono, informándose a través de TikTok y YouTube, y sigue marcas relacionadas con un estilo de vida saludable. Su principal desafío como nuevo empresario es el alto costo inicial que implica adquirir equipos de calidad y duraderos. Considera que el acceso a datos sobre el uso de sus máquinas es fundamental para optimizar el mantenimiento y la distribución en su local. Se muestra muy interesado en el alquiler de equipos como un modelo económico flexible que le permitiría acceder a tecnología moderna sin una gran inversión. Finalmente, asigna un "valor altísimo" a una plataforma que pueda predecir fallas en las máquinas, ya que le permitiría programar mantenimientos preventivos, reducir costos y evitar la inactividad de los equipos.**
-
 
 ### 2.2.3. Análisis de entrevistas
-
-
 
 ## 2.3. Needfinding.
 
@@ -1766,29 +1724,9 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ### 5.2.2. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2
-| Sprint #                        | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |
-| Date                            | 0/10/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Time                            | 5:21 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Location                        | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Prepared By                     | Ponce Perales, Alberto Alejandro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Attendees (to planning meeting) | Ponce Perales, Alberto Alejandro<br> Villogas Medina, Oliver Paul<br> Aliaga Urbina, Wilder Gonzalo<br> Saldaña De Souza, Juan David<br> Ventosilla Trujillo, Anderson Ricardo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Sprint 2 Review Summary         | Durante este sprint, el equipo se enfocó en desarrollar las funcionalidades principales de gestión de usuarios y el dashboard inicial. Se completó el desarrollo del módulo de registro y autenticación (login). Además, se maquetó y desarrolló la estructura del dashboard principal para dos tipos de usuarios: clientes y proveedores. Esto permite a los usuarios registrados acceder a una vista personalizada donde podrán navegar a las futuras secciones de la plataforma, sentando las bases para la interacción con los servicios principales de CoolGym.                                                                                                   |
-| Sprint 2 Retrospective Summary  | El equipo concluyó que la definición detallada de los criterios de aceptación en las historias de usuario fue clave para el éxito del sprint, evitando ambigüedades. La sinergia entre el equipo de desarrollo y UX/UI mejoró notablemente, permitiendo ajustes rápidos en el flujo de usuario. Para el próximo sprint, se identificó la necesidad de establecer un entorno de pruebas más robusto para agilizar la validación de las nuevas funcionalidades y asegurar la calidad del software desplegado.                                                                                                                                                            |
-| Sprint Goal & User Stories      |
-| Sprint 2 Goal                   | Desarrollar y desplegar el sistema de registro y autenticación de usuarios, junto con el dashboard principal, para permitir la creación de cuentas y el acceso inicial a la plataforma. User Stories: 1. Como nuevo usuario, quiero poder registrarme en la plataforma usando mi correo y contraseña para poder crear una cuenta. (8 Story Points) 2. Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi perfil. (5 Story Points) 3. Como usuario que ha iniciado sesión, quiero ver un dashboard principal con la bienvenida y las opciones de navegación principales para poder interactuar con la aplicación. (8 Story Points) |
-| Sprint 2 Velocity               | 21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Sum of Story Points             | 21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
-| Team Member                                         | GitHub Username | Landing Page     | Frontend                |Documentación                  |
-|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
-| Ponce Perales, Alberto Alejandro | aponceperales   | C | C | L|
-| Villogas Medina, Oliver Paul | OliverVillogas   | C | C | C|
-| Aliaga Urbina, Wilder Gonzalo| gonzalo1905   | L | L | C|
-| Saldaña De Souza, Juan David | jndesouza  | C | C | C|
-| Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C | C | C|
 
 
 ##### 5.2.2.3. Sprint Backlog 2
@@ -1905,10 +1843,6 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Se respetó el Design System (paleta, tipografía, componentes) y se mantuvo consistencia con wireframes y mockups ya definidos.
 - Se sostuvo el flujo de trabajo con GitFlow + Conventional Commits, facilitando revisión de PRs e insights de colaboración.
 - Se documentó ejecución del Frontend con capturas y se actualizó el informe del proyecto con la traza del avance.
-- Se siguió una evolución lógica y escalonada, que permitió consolidar el valor del proyecto e ir mitigando los riesgos de manera incremental.
-- Se demostró una notable madurez ágil, reflejada en la aplicación de acciones concretas de mejora y un aumento constante de la velocidad del equipo (de 20 a 23 story points).
-- Se priorizó el desarrollo de un frontend navegable y funcional, lo que resultó un acierto para acelerar la validación temprana del producto y la obtención de feedback.
-- Se estableció una estructura de equipo con liderazgo definido, asegurando la consistencia y calidad en áreas críticas (Diseño y Documentación), lo que facilitó la ejecución organizada.
 
 
 ## Bibliografía 
