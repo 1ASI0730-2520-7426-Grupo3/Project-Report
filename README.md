@@ -1374,7 +1374,7 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 En esta sección planteamos nuestro **diagrama de clases**, el cual nos permitirá modelar la estructura de nuestro sistema y facilitar el desarrollo del backend.  
 Cada clase incluye sus atributos principales y los métodos que encapsulan la lógica del negocio, sirviendo como base para la implementación.  
 
-![Diagrama de Clases](https://media.discordapp.net/attachments/814677457042276372/1418250417866801172/Diagrama_en_blanco_1.png?ex=68cd7021&is=68cc1ea1&hm=63941b8c060d25268816b5c6d3af779d0931e1ac48d73c2f8f2768148bf790fc&=&format=webp&quality=lossless&width=1823&height=1271)
+![Diagrama de Clases](assets/diagramaclases.webp)
 
 # 4.7.2. Class Dictionary
 
@@ -1655,14 +1655,14 @@ A continuación, se describe el procedimiento para desplegar el proyecto **CoolG
 ## 1. Ubicar el repositorio del proyecto
 Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio.  
 
-![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1418247295555735622/image.png?ex=68cd6d39&is=68cc1bb9&hm=2589272e38ce864deb5e4ee1ec8f55db4282e7376edd90ce2a923cdf629d5fe6&=&format=webp&quality=lossless)
+![Repositorio en GitHub](assets/5.1.4.primeraimagen.webp)
 
 ---
 
 ## 2. Ir a la sección de configuración (Settings)
 En la barra superior del repositorio, se hace clic en la pestaña **Settings**.  
 
-![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1418248449492779120/image.png?ex=68cd6e4c&is=68cc1ccc&hm=f1905aaf169c14e3f7b84752882dbf0c12ed09832791d8bf9b5122dc8c973cca&=&format=webp&quality=lossless)
+![Pestaña Settings](assets/5.1.4.segundaimagen.webp)
 
 ---
 
@@ -1670,7 +1670,7 @@ En la barra superior del repositorio, se hace clic en la pestaña **Settings**.
 En la sección **Pages**, dentro de *Build and deployment*, se selecciona la opción **Deploy from a branch**.  
 Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del contenido.  
 
-![Configuración GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1418249265192370321/image.png?ex=68cd6f0e&is=68cc1d8e&hm=5e5c491c112fcb495634c6fcd065d51ff1b1d605d0527ec6ab23b1cafeeb5c12&=&format=webp&quality=lossless)
+![Configuración GitHub Pages](assets/5.1.4.terceraimagen.webp)
 
 ---
 
@@ -1678,7 +1678,7 @@ Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del c
 Tras guardar la configuración, GitHub Pages generará automáticamente el despliegue del sitio.  
 Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym**.  
 
-![Sitio desplegado en GitHub Pages](https://media.discordapp.net/attachments/814677457042276372/1417952932128882909/image.png?ex=68cc5b13&is=68cb0993&hm=28292e1e548b577d8b90912c0f9c4f3b6b696c44c8c235eca7cc0268cc4ba2d8&=&format=webp&quality=lossless&width=1543&height=775)
+![Sitio desplegado en GitHub Pages](assets/5.1.4.primeraimagen.webp)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
