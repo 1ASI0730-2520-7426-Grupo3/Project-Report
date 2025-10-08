@@ -1669,6 +1669,7 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 ![4.png](assets/TP/executionEvidence/4.png)
 ![5.png](assets/TP/executionEvidence/5.png)
 ![6.png](assets/TP/executionEvidence/6.png)
+![7.png](assets/TP/executionEvidence/7.png)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
