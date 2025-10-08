@@ -375,10 +375,10 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
   </tr>
   <tr>
     <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
-    <td><strong>CoolGym</strong><br><img src="logo_coolgym.png" height="80"/></td>
-    <td><strong>Fitco</strong><br><img src="https://www.fitcolatam.com/wp-content/uploads/2024/12/Logo_Blanco-1.png" height="80"/></td>
+    <td><strong>CoolGym</strong><br><img src="assets/CoolGymImage.png" height="80"/></td>
+    <td><strong>Fitco</strong><br><img src="assets/Fitco.png" height="80"/></td>
     <td><strong>SportManager</strong><br><img src="https://www.sportmanager.app/logo-sm-black.png" height="80"/></td>
-    <td><strong>Fit Home Pro</strong><br><img src="https://scontent.flim12-1.fna.fbcdn.net/v/t39.30808-6/310668425_550353193758743_3476732583718692295_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH-vTEvOqoZapTq6SIisTFZYkmCGxsx5NtiSYIbGzHk27-6z72TcedYY2dRKqIMqdRRoHxciLVM4rnxRGnydsXD&_nc_ohc=AVFtgGnUZw4Q7kNvwEtq_Oi&_nc_oc=AdmqJd2N5ywQRmuQiKWgCX_ny43JHTheU9tfVfeKrY9kDSxUcWRaN4N61KBamaMxmcQPvfMgStr61FzoDBiqX-jo&_nc_zt=23&_nc_ht=scontent.flim12-1.fna&_nc_gid=HQLnbSGM0UavpBg39xTlMg&oh=00_AfY7Xmha327BDKej4PIykGsP6vXvkizXi1U9OEyby2R4yg&oe=68CD3E17" height="80"/></td>
+    <td><strong>Fit Home Pro</strong><br><img src="assets/Fithomepro.png" height="80"/></td>
   </tr>
 
   <!-- Perfil -->
@@ -1853,6 +1853,7 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
 - Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 - Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
+
 
 
 
