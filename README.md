@@ -1662,12 +1662,13 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-**Landing Page**
-
-
-
 **Frontend**
-
+![1.png](assets/TP/executionEvidence/1.png)
+![2.png](assets/TP/executionEvidence/2.png)
+![3.png](assets/TP/executionEvidence/3.png)
+![4.png](assets/TP/executionEvidence/4.png)
+![5.png](assets/TP/executionEvidence/5.png)
+![6.png](assets/TP/executionEvidence/6.png)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -1677,7 +1678,6 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
-
 
 **LandingPage**
 
