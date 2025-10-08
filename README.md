@@ -2023,6 +2023,9 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 ![deployment.png](assets/deployment3.webp)
 ![deployment.png](assets/deployment4.webp)
 
+Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.app/?_vercel_share=2UVyWL6QxG0PaDO2fcbGJZKAqvAk9Ru9
+
+[Link de deployment](https://frontend-coolgym-git-main-and12326s-projects.vercel.app/?_vercel_share=2UVyWL6QxG0PaDO2fcbGJZKAqvAk9Ru9)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
