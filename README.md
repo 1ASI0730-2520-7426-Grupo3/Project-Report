@@ -1697,4 +1697,17 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 
 
 ## Conclusiones
+
+- Se implementó la primera versión del Web Application (vistas núcleo y navegación básica) enfocada en entregar valor inicial y validar el diseño con usuarios internos.
+- Se respetó el Design System (paleta, tipografía, componentes) y se mantuvo consistencia con wireframes y mockups ya definidos.
+- Se sostuvo el flujo de trabajo con GitFlow + Conventional Commits, facilitando revisión de PRs e insights de colaboración.
+- Se documentó ejecución del Frontend con capturas y se actualizó el informe del proyecto con la traza del avance.
+
+
 ## Bibliografía 
+
+- Conventional Commits. (s.f.). *Conventional commits*. Recuperado el 10 de julio de 2025, de https://www.conventionalcommits.org/
+- Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
+- Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
+- Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
+
