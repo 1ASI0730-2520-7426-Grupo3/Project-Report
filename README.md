@@ -111,10 +111,8 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 
 | **Criterio Específico** | **Acciones Realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Conclusiones**  |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables. TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. 
-<br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, colaborando con el equipo en la integración de estos artefactos.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend.                                                                                                                         | TB1: asdasdasds. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls.
-<br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.  | TB1: asdasdas. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables. TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, colaborando con el equipo en la integración de estos artefactos.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend.                                                                                                                         | TB1: asdasdasds. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls.<br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.  | TB1: asdasdas. |
 
 ---
 
@@ -483,10 +481,80 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Hemos identificado diversas estrategias y tácticas para diferenciarse y competir eficazmente con los actores del mercado del fitness. A continuación, se detallan las principales:
+
+#### 1. Estrategias de Diferenciación
+
+   •	Monitoreo y Mantenimiento Preventivo en Tiempo Real: A diferencia de los proveedores de equipos fitness tradicionales, FitConnect se enfoca en ofrecer una solución integral. Los equipos inteligentes conectados a nuestra plataforma permiten un monitoreo en tiempo real del uso, el desgaste y el estado, lo que facilita el mantenimiento preventivo y evita fallas inesperadas. Esto permite a los gimnasios operar de manera más eficiente y reducir costos, a diferencia de un simple modelo de compra-venta de equipos.
+
+   •	Gestión Centralizada y Datos de Uso: Nuestra plataforma CoolGym ofrece un dashboard que centraliza estadísticas vitales sobre el rendimiento de los equipos, algo que la mayoría de los competidores no ofrece de forma especializada para el sector fitness. Esto le da a los gimnasios un control total sobre sus activos y les ayuda a optimizar el uso de sus equipos y el consumo de energía, mejorando la rentabilidad.
+
+   •	Modelo de Adquisición Flexible: A diferencia de la compra directa, que requiere una gran inversión inicial, FitConnect permite a los gimnasios acceder a equipos modernos a través de opciones de alquiler y leasing. Esta flexibilidad es un diferenciador clave frente a competidores que solo se centran en la venta, facilitando la adopción de tecnología de punta a negocios de cualquier tamaño.
+#### 2. Tácticas de Marketing
+
+   •	Marketing de Contenido y Demostraciones: Enfocaremos nuestras campañas en plataformas digitales como redes sociales y blogs, mostrando demostraciones en vivo de cómo el dashboard de CoolGym ayuda a los gimnasios a tomar mejores decisiones. Destacaremos historias de éxito que muestren cómo la plataforma ha ayudado a reducir costos y mejorar la experiencia del cliente.
+
+   •	Alianzas Estratégicas con Proveedores: Colaboraremos estrechamente con proveedores de equipos fitness inteligentes para promover sus productos a través de nuestra plataforma. Esto no solo nos diferencia, sino que también nos posiciona como un socio clave para la industria, al ofrecerles un canal de distribución y gestión de activos más eficiente.
+#### 3. Estrategias de Precios
+
+   •	Comisión por Transacción: Nuestro modelo de negocio se basa en una comisión por cada venta, alquiler o leasing realizado a través de la plataforma. Esta estrategia es transparente y se alinea con el éxito de nuestros proveedores, a diferencia de modelos que exigen costos fijos más altos desde el inicio.
+
+   •	Suscripción al Dashboard: Ofrecemos planes de suscripción para que los gimnasios accedan al dashboard de estadísticas y mantenimiento. Este modelo de negocio recurrente nos permite generar ingresos estables y ofrece un valor continuo a los clientes más allá de la simple adquisición del equipo.
+#### 4. Expansión y Adaptabilidad
+
+   •	Enfoque Regional y Expansión Gradual: A diferencia de competidores que operan a nivel global, FitConnect comenzará en un mercado regional específico. Esto nos permitirá adaptarnos mejor a las necesidades de los gimnasios y entrenadores locales antes de expandirnos a nivel nacional.
+
+   •	Integración Abierta con Dispositivos: Diseñaremos nuestra plataforma para que sea compatible con equipos de diferentes marcas, lo que nos diferenciará de competidores que puedan estar limitados a una sola línea de productos. Esto nos permitirá ofrecer un catálogo más amplio y atractivo para los clientes.
+
+
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
----
+
+Preguntas Genéricas
+1. Datos Demográficos y de Contacto:
+
+* Nombre y Apellido
+* Edad
+* Distrito de Residencia
+* Estado Civil
+* Ocupación
+* Familia (Ej. "Número de miembros en la familia", "Con quién vive")
+
+2. Antecedentes (Background):
+
+* Biografia o Background (Ej. "Cuéntanos un poco sobre tu historia, tu educación y tu experiencia laboral.")
+
+3. Tecnología y Preferencias Digitales:
+
+* Dispositivos de preferencia (Ej. "Qué tipo de dispositivos tecnológicos usas con más frecuencia: smartphone, laptop, tablet, etc.")
+* Canales digitales de interacción (Ej. "Cuáles redes sociales o plataformas digitales
+  sueles usar para comunicarte o informarte?")
+* Marcas e Influencias (Ej. "Qué marcas o figuras públicas te inspiran o sigues regularmente?")
+
+
+
+Preguntas dependiendo de cada segmento
+
+Segmento 1: Proveedores de Equipos Fitness Inteligentes
+
+* ¿Cuáles son sus principales desafíos al momento de vender o arrendar equipos a gimnasios y entrenadores?
+* ¿Le gustaría tener una forma de ofrecer a sus clientes opciones de pago más flexibles, como el alquiler o el leasing?
+* ¿Qué valor tendría para su negocio poder monitorear el rendimiento y el uso de sus equipos una vez que han sido vendidos o arrendados?
+* ¿Estaría interesado en una plataforma que le brinde un canal de ventas adicional y le proporcione información sobre el mercado y la demanda de sus productos?
+* ¿Consideraría pagar una comisión por cada transacción (venta, alquiler, leasing) que se genere a través de nuestra plataforma?
+
+
+
+
+Segmento 2: Clientes (Gimnasios y Entrenadores)
+
+* ¿Cuáles son sus principales desafíos al momento de adquirir equipos nuevos para su negocio?
+* ¿Cómo manejan actualmente el mantenimiento de las máquinas de ejercicio? ¿Les preocupa el tiempo de inactividad de las máquinas?
+* ¿Qué tan importante es para usted tener acceso a datos sobre el uso de sus equipos?
+* ¿Consideraría el alquiler o el leasing de equipos si le permitiera acceder a tecnología más moderna sin una inversión inicial grande?
+* ¿Qué valor tendría para usted una plataforma que le avise de posibles fallas en las máquinas antes de que ocurran y le permita gestionar mejor sus recursos?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -1193,10 +1261,11 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-
+<br><br> ![CoolGym-Context.png](assets/CoolGym-Context.png)
 ### 4.6.2. Software Architecture Container Diagrams.
-
+<br><br> ![CoolGym-Containers.png](assets/CoolGym-Containers.png)
 ### 4.6.3. Software Architecture Components Diagrams.
+<br><br> ![CoolGym-Components.png](assets/CoolGym-Components.png)
 
 ## 4.7 Software Object-Oriented Design 
 
@@ -1712,5 +1781,6 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
 - Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 - Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
+
 
 
