@@ -1925,7 +1925,9 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+![allcommits2sprint.png](assets/commits-front2sprint.webp)
 
+![trello.png](assets/trello.webp)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
