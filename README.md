@@ -60,15 +60,10 @@
 # Project Report Collaboration Insights
 
 **Link del repositorio del informe:**  
-[https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md](https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md)
+(https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md)
 
 **Link de los repositorios de la organización:**  
-
-Landing Page:
-[https://github.com/1ASI0730-2520-7426-Grupo3/Landing-Page](https://github.com/1ASI0730-2520-7426-Grupo3/Landing-Page)
-
-Frontend App:
-[https://github.com/1ASI0730-2520-7426-Grupo3/Frontend-Coolgym](https://github.com/1ASI0730-2520-7426-Grupo3/Frontend-Coolgym)
+[]()
 
 Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplicando GitFlow y Conventional Commits. Cada integrante del equipo ha contribuido mediante ramas independientes, commits individuales y revisiones de Pull Requests.
 
@@ -78,14 +73,13 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplican
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
+A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
+
 ![insights.png](assets/TP/insights.png)
 
 
----
-
 # Contenido
 
-- [Carátula](#carátula)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
@@ -102,17 +96,87 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
-
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4 Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2 User Stories](#32-user-stories)
+  - [3.3 Impact Mapping](#33-impact-mapping)
+  - [3.4 Product Backlog](#34-product-backlog)
+-[Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1 Style Guidelines](#41-style-guidelines)
+    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2 Information Architecture](#43-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling System](#422-labeling-system)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation System](#425-navigation-system)
+  - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1 Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2 Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1 Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2 Web Applications Mock-ups](#442-web-applications-mock-ups)
+    - [4.4.3 Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+  - [4.5 Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6 Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1 Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2 Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3 Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7 Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1 Class Diagrams](#471-class-diagrams)
+    - [4.7.2 Class Dictionary](#472-class-dictionary)
+  - [4.8 Database Design](#48-database-design)
+    - [4.8.1 Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1 Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2 Source Code Management](#512-source-code-management)
+    - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+      - [5.2.1.1 Sprint Planning](#5211-sprint-planning-1)
+      - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones heuristicas](#533-evaluaciones-heuristicas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones)
+- [Bibliografia](#bibliografia)
+- [Anexos](#anexos)
 ---
 
 # Student Outcome
 
 *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
 
-| **Criterio Específico** | **Acciones Realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Conclusiones**  |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables. TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, colaborando con el equipo en la integración de estos artefactos.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend. | El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final.|
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls.<br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.  | El equipo generó un entorno colaborativo e inclusivo, planificando tareas conherramientas digitales, estableciendo metas claras y cumpliendo los objetivos mediante la organización, la comunicación constante y la entrega oportuna de los artefactos del proyecto.|
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
+|---|---|---|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: Participé activamente en el desarrollo del proyecto, asumiendo un rol de liderazgo compartido al organizar tareas en GitHub, coordinar la integración de ramas y apoyar a mis compañeros en la solución de problemas técnicos y de documentación. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables.<br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, colaborando con el equipo en la integración de estos artefactos.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. | TB1: El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: Fomenté un entorno colaborativo e inclusivo mediante la planificación de tareas, definición de metas claras y el uso de herramientas como Structurizr, Figma y GitHub, asegurando la organización del trabajo y el cumplimiento de los objetivos del equipo. <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. <br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones. <br>**Juan**<br>TB1: Coloca tu parte Juan. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. | TB1: asdasEl equipo generó un entorno colaborativo e inclusivo, planificando tareas con herramientas digitales, estableciendo metas claras y cumpliendo los objetivos mediante la organización, la comunicación constante y la entrega oportuna de los artefactos del proyecto. |
 
 ---
 
@@ -134,11 +198,11 @@ Para lograr esto, FitConnect ha desarrollado un marketplace especializado que ce
 
 | Foto                                                                      | Nombre completo                      | Código     | Carrera                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------|--------------------------------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Inserta tu foto al lado]()                                              | Alberto Alejandro Ponce Perales      | u202320684 | Ingeniería de Software | sadfasdfsadf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|    ![Foto de Oliver](assets/oliver-profile.jpeg) | Oliver Paul Villogas Medina                     | U202323562 | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ![Foto de Juan.jpeg](assets/Foto%20de%20Juan.jpeg)                                              | Juan David Saldaña De Souza                                 | u20221f192 | Ingenieria de Software | Soy estudiante de Ingeniería de Software y me apasiona la innovación tecnológica, la programación y la automatización de procesos mediante inteligencia artificial. Me considero una persona comprometida y responsable que prioriza sus responsabilidades y se esfuerza por cumplir con los plazos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ![Foto de Gonzalo](assets/gonzalo-profile-picture.png)                                                      | Wilder Gonzalo Aliaga Urbina         | u202222001 | Ingeniería de Software | Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. |
+| ![Foto de Alberto](assets/FotoAlberto.jpg)                                              | Alberto Alejandro Ponce Perales      | U202320684 | Ingeniería de Software | Actualmente cuento con conocimientos en lenguajes de programación como C + + y manejo de Java. Considero que mis mayores virtudes son: la responsabilidad, capacidad de adaptarme, trabajar en equipo y la resiliencia. Soy entusiasta a aprender y sobre todo a apoyar con mis conocimientos en el siguiente proyecto para poder alcanzar los objetivos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|    ![Foto de Oliver](assets/oliver-profile.jpeg) | Oliver Paul Villogas Medina                     |U202323562      | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | U202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![Foto de Juan](assets/Foto%20de%20Juan.jpeg)                                              | Juan                                 | U20221F192        | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de software en la Universidad Peruana de ciencias aplicadas (UPC), dispuesto a apoyar en todo lo necesario al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![Foto de Gonzalo](assets/gonzalo-profile-picture.png)                                                      | Wilder Gonzalo Aliaga Urbina         | U202222001 | Ingeniería de Software | Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. |
 
 ---
 
@@ -335,6 +399,8 @@ Lo habremos demostrado cuando al menos el 60% de las transacciones se realicen b
 
 #### 1.2.2.4 Lean UX Canvas
 
+![LeanUXCanvas01](assets/Canvas01.jpg)
+![LeanUxCanvas02](assets/Canvas02.jpg)
 
 ## 1.3 Segmentos objetivo
 
@@ -483,36 +549,34 @@ Startup con presencia en Colombia y México que se centra en la renta de equipos
 
 Hemos identificado diversas estrategias y tácticas para diferenciarse y competir eficazmente con los actores del mercado del fitness. A continuación, se detallan las principales:
 
-#### 1. Estrategias de Diferenciación
+1. Estrategias de Diferenciación
+• Monitoreo y Mantenimiento Preventivo en Tiempo Real: A diferencia de los proveedores de equipos fitness tradicionales, FitConnect se enfoca en ofrecer una solución integral. Los equipos inteligentes conectados a nuestra plataforma permiten un monitoreo en tiempo real del uso, el desgaste y el estado, lo que facilita el mantenimiento preventivo y evita fallas inesperadas. Esto permite a los gimnasios operar de manera más eficiente y reducir costos, a diferencia de un simple modelo de compra-venta de equipos.
 
-   •	Monitoreo y Mantenimiento Preventivo en Tiempo Real: A diferencia de los proveedores de equipos fitness tradicionales, FitConnect se enfoca en ofrecer una solución integral. Los equipos inteligentes conectados a nuestra plataforma permiten un monitoreo en tiempo real del uso, el desgaste y el estado, lo que facilita el mantenimiento preventivo y evita fallas inesperadas. Esto permite a los gimnasios operar de manera más eficiente y reducir costos, a diferencia de un simple modelo de compra-venta de equipos.
+• Gestión Centralizada y Datos de Uso: Nuestra plataforma CoolGym ofrece un dashboard que centraliza estadísticas vitales sobre el rendimiento de los equipos, algo que la mayoría de los competidores no ofrece de forma especializada para el sector fitness. Esto le da a los gimnasios un control total sobre sus activos y les ayuda a optimizar el uso de sus equipos y el consumo de energía, mejorando la rentabilidad.
 
-   •	Gestión Centralizada y Datos de Uso: Nuestra plataforma CoolGym ofrece un dashboard que centraliza estadísticas vitales sobre el rendimiento de los equipos, algo que la mayoría de los competidores no ofrece de forma especializada para el sector fitness. Esto le da a los gimnasios un control total sobre sus activos y les ayuda a optimizar el uso de sus equipos y el consumo de energía, mejorando la rentabilidad.
+• Modelo de Adquisición Flexible: A diferencia de la compra directa, que requiere una gran inversión inicial, FitConnect permite a los gimnasios acceder a equipos modernos a través de opciones de alquiler y leasing. Esta flexibilidad es un diferenciador clave frente a competidores que solo se centran en la venta, facilitando la adopción de tecnología de punta a negocios de cualquier tamaño.
 
-   •	Modelo de Adquisición Flexible: A diferencia de la compra directa, que requiere una gran inversión inicial, FitConnect permite a los gimnasios acceder a equipos modernos a través de opciones de alquiler y leasing. Esta flexibilidad es un diferenciador clave frente a competidores que solo se centran en la venta, facilitando la adopción de tecnología de punta a negocios de cualquier tamaño.
-#### 2. Tácticas de Marketing
+2. Tácticas de Marketing
+• Marketing de Contenido y Demostraciones: Enfocaremos nuestras campañas en plataformas digitales como redes sociales y blogs, mostrando demostraciones en vivo de cómo el dashboard de CoolGym ayuda a los gimnasios a tomar mejores decisiones. Destacaremos historias de éxito que muestren cómo la plataforma ha ayudado a reducir costos y mejorar la experiencia del cliente.
 
-   •	Marketing de Contenido y Demostraciones: Enfocaremos nuestras campañas en plataformas digitales como redes sociales y blogs, mostrando demostraciones en vivo de cómo el dashboard de CoolGym ayuda a los gimnasios a tomar mejores decisiones. Destacaremos historias de éxito que muestren cómo la plataforma ha ayudado a reducir costos y mejorar la experiencia del cliente.
+• Alianzas Estratégicas con Proveedores: Colaboraremos estrechamente con proveedores de equipos fitness inteligentes para promover sus productos a través de nuestra plataforma. Esto no solo nos diferencia, sino que también nos posiciona como un socio clave para la industria, al ofrecerles un canal de distribución y gestión de activos más eficiente.
 
-   •	Alianzas Estratégicas con Proveedores: Colaboraremos estrechamente con proveedores de equipos fitness inteligentes para promover sus productos a través de nuestra plataforma. Esto no solo nos diferencia, sino que también nos posiciona como un socio clave para la industria, al ofrecerles un canal de distribución y gestión de activos más eficiente.
-#### 3. Estrategias de Precios
+3. Estrategias de Precios
+• Comisión por Transacción: Nuestro modelo de negocio se basa en una comisión por cada venta, alquiler o leasing realizado a través de la plataforma. Esta estrategia es transparente y se alinea con el éxito de nuestros proveedores, a diferencia de modelos que exigen costos fijos más altos desde el inicio.
 
-   •	Comisión por Transacción: Nuestro modelo de negocio se basa en una comisión por cada venta, alquiler o leasing realizado a través de la plataforma. Esta estrategia es transparente y se alinea con el éxito de nuestros proveedores, a diferencia de modelos que exigen costos fijos más altos desde el inicio.
+• Suscripción al Dashboard: Ofrecemos planes de suscripción para que los gimnasios accedan al dashboard de estadísticas y mantenimiento. Este modelo de negocio recurrente nos permite generar ingresos estables y ofrece un valor continuo a los clientes más allá de la simple adquisición del equipo.
 
-   •	Suscripción al Dashboard: Ofrecemos planes de suscripción para que los gimnasios accedan al dashboard de estadísticas y mantenimiento. Este modelo de negocio recurrente nos permite generar ingresos estables y ofrece un valor continuo a los clientes más allá de la simple adquisición del equipo.
-#### 4. Expansión y Adaptabilidad
+4. Expansión y Adaptabilidad
+• Enfoque Regional y Expansión Gradual: A diferencia de competidores que operan a nivel global, FitConnect comenzará en un mercado regional específico. Esto nos permitirá adaptarnos mejor a las necesidades de los gimnasios y entrenadores locales antes de expandirnos a nivel nacional.
 
-   •	Enfoque Regional y Expansión Gradual: A diferencia de competidores que operan a nivel global, FitConnect comenzará en un mercado regional específico. Esto nos permitirá adaptarnos mejor a las necesidades de los gimnasios y entrenadores locales antes de expandirnos a nivel nacional.
-
-   •	Integración Abierta con Dispositivos: Diseñaremos nuestra plataforma para que sea compatible con equipos de diferentes marcas, lo que nos diferenciará de competidores que puedan estar limitados a una sola línea de productos. Esto nos permitirá ofrecer un catálogo más amplio y atractivo para los clientes.
-
-
+• Integración Abierta con Dispositivos: Diseñaremos nuestra plataforma para que sea compatible con equipos de diferentes marcas, lo que nos diferenciará de competidores que puedan estar limitados a una sola línea de productos. Esto nos permitirá ofrecer un catálogo más amplio y atractivo para los clientes.
 
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
 
 Preguntas Genéricas
+
 1. Datos Demográficos y de Contacto:
 
 * Nombre y Apellido
@@ -533,8 +597,6 @@ Preguntas Genéricas
   sueles usar para comunicarte o informarte?")
 * Marcas e Influencias (Ej. "Qué marcas o figuras públicas te inspiran o sigues regularmente?")
 
-
-
 Preguntas dependiendo de cada segmento
 
 Segmento 1: Proveedores de Equipos Fitness Inteligentes
@@ -544,9 +606,6 @@ Segmento 1: Proveedores de Equipos Fitness Inteligentes
 * ¿Qué valor tendría para su negocio poder monitorear el rendimiento y el uso de sus equipos una vez que han sido vendidos o arrendados?
 * ¿Estaría interesado en una plataforma que le brinde un canal de ventas adicional y le proporcione información sobre el mercado y la demanda de sus productos?
 * ¿Consideraría pagar una comisión por cada transacción (venta, alquiler, leasing) que se genere a través de nuestra plataforma?
-
-
-
 
 Segmento 2: Clientes (Gimnasios y Entrenadores)
 
@@ -558,8 +617,135 @@ Segmento 2: Clientes (Gimnasios y Entrenadores)
 
 ### 2.2.2. Registro de entrevistas
 
+Entrevista 1
+
+Nombres: Lewis Alexis
+
+Apellidos: Rengifo Pizango
+
+Edad: 25
+
+Distrito: Miraflores
+
+Captura de la entrevista:
+
+![Entrevista01](assets/AlbertoEntrevista1.jpg)
+![Entrevistado01](assets/Entrevistado1.jpg)
+
+Inicio / Fin: 00:00 - 06:00
+
+Duración: 6 minutos
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EW94wtAG3VtIlqkCZ2-P13kBRghtqge8-UubYvV2q48aug?e=FGOdV1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen:
+
+Lewis, de 25 años, es analista comercial y estudió Ingeniería Industrial. Inició su carrera en el rubro de la mecánica, lo cual despertó su interés en el desarrollo de soluciones más eficientes, llevándolo al sector de equipos fitness inteligentes. Su visión es consolidar su marca en el segmento premium, ofreciendo equipos de gimnasio conectados, con análisis de datos y personalización del entrenamiento.
+Entre sus principales desafíos destacan los ciclos de ventas prolongados, la alta inversión inicial del sector premium, la capacitación constante del personal de ventas y mantenimiento, y la instalación de maquinaria en ubicaciones remotas. Lewis considera el leasing como una herramienta clave para reducir barreras de entrada y facilitar la adquisición de equipos por parte de nuevos clientes.
+Asimismo, reconoce el valor de una plataforma que optimice el mantenimiento, permita investigación y desarrollo, y recolecte datos para servicios de valor añadido. También ve con gran potencial un canal de ventas adicional, siempre que ofrezca herramientas de análisis de mercado, datos de competencia y análisis de precios, lo que facilitaría la toma de decisiones basadas en información confiable y eficaz.
+
+Segmento 2:
+Entrevista 2
+Nombres: Enrique Arturo
+
+Apellidos: Gutiérrez Vela
+
+Edad: 24
+
+Distrito: Surco
+
+Captura de la entrevista:
+
+![Entrevista02](assets/AlbertoEntrevista2.jpg)
+![Entrevistado02](assets/Entrevistado2.jpg)
+
+Inicio / Fin: 00:00 - 05:40
+
+Duración: 5 minutos y 40 segundos.
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EUCdcanMW8pHjefRFHiuz7oBSbTvZGESwO3CUbPgbUXkCg?e=EF3TDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen:
+
+Enrique, de 24 años, es biólogo de profesión y actualmente se encuentra emprendiendo con la apertura de un gimnasio la próxima semana. Utiliza principalmente su celular como dispositivo preferido.
+Entre los desafíos que ha enfrentado para adquirir equipos, destaca la relación calidad-precio de la maquinaria, la falta de información confiable sobre su calidad y los altos costos y demoras asociados a la importación. Actualmente, realiza mantenimientos preventivos, pero señala que aun así las máquinas se dañan, lo que genera molestias y pérdidas económicas al quedar inactivas.
+Considera fundamental contar con información sobre el uso y estado de cada máquina, ya que esto permite tomar decisiones tanto a corto como a largo plazo. Ve como un aspecto atractivo la posibilidad de adquirir equipos sin necesidad de una gran inversión inicial, y valora especialmente poder anticiparse a fallas para tomar medidas correctivas de forma oportuna.
 
 ### 2.2.3. Análisis de entrevistas
+
+<h5>Características objetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Edad entre 24 y 30 años</td><td>100%</td><td>Todos los entrevistados tienen entre 24 y 30 años.</td></tr>
+    <tr><td>Profesión/ocupación relacionada</td><td>100%</td><td>Es analista comercial con formación en Ingeniería Industrial.</td></tr>
+    <tr><td>Uso de dispositivos digitales</td><td>100%</td><td>Usa smartphone, laptop y tablet en su día a día..</td></tr>
+    <tr><td>Experiencia en sectores afines</td><td>100%</td><td>Trabajó en mecánica antes de ingresar al rubro fitness.</td></tr>
+    <tr><td>Orientación al sector premium</td><td>100%</td><td>Busca consolidar su marca en el segmento de alta gama.</td></tr>
+  </tbody>
+</table>
+
+<h5>Características subjetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Preocupación por ciclos de venta largos</td><td>100%</td><td>Reconoce que la venta en sector premium tiene tiempos prolongados.</td></tr>
+    <tr><td>Dificultad por alta inversión inicial</td><td>100%</td><td>Señala que la barrera económica limita la adquisición de equipos.</td></tr>
+    <tr><td>Valoración del leasing como estrategia</td><td>100%</td><td>Considera que facilita la entrada de nuevos clientes.</td></tr>
+    <tr><td>Necesidad de optimizar mantenimiento</td><td>100%</td><td>Destaca la importancia de recolectar datos y aplicar I+D.</td></tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h4><u>SEGMENTO 2: Proveedores de combustible</u></h4>
+
+<h5>Características objetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Edad entre 20 y 30 años</td><td>100%</td><td>Todos están en ese rango.</td></tr>
+    <tr><td>Profesión/ocupación relacionada</td><td>50%</td><td>Es biólogo, actualmente emprendedor con un gimnasio.</td></tr>
+    <tr><td>Uso de celular como principal dispositivor</td><td>100%</td><td>Prefiere el smartphone para gestionar sus actividades.</td></tr>
+    <tr><td>Adquisición de equipos compleja</td><td>100%</td><td>Señala problemas con importación costosa y lenta.</td></tr>
+  </tbody>
+</table>
+
+<h5>Características subjetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Necesidad de información confiable</td><td>100%</td><td>Reclama falta de datos sobre la calidad real de las máquinas.</td></tr>
+    <tr><td>Importancia del mantenimiento</td><td>100%</td><td>Indica que incluso con preventivo, los equipos fallan.</td></tr>
+    <tr><td>Deseo de monitoreo de uso y estado</td><td>100%</td><td>Considera clave saber qué máquinas se usan más y su condición.</td></tr>
+    <tr><td>Valoración de opciones con menor inversión inicial</td><td>100%</td><td>Encuentra atractivo adquirir sin alto desembolso.</td></tr>
+  </tbody>
+</table>
+
 
 ## 2.3. Needfinding.
 
@@ -574,7 +760,17 @@ Para comprender a nuestros usuarios principales, hemos diseñado dos perfiles de
 
 
 ### 2.3.2. User Task Matrix.
-mi parte
+
+| **Tarea**                                      | **David Torres – Frecuencia** | **David Torres – Importancia** | **Kevin Castillo – Frecuencia** | **Kevin Castillo – Importancia** |
+|------------------------------------------------|-------------------------------|---------------------------------|-----------------------------|------------------------------|
+| Gestionar ciclos de ventas prolongados          | Alta | Alta | Baja | Baja |
+| Ofrecer opciones de leasing a clientes                 | Media | Alta | Alta | Alta |
+| Capacitar continuamente al personal de ventas y mantenimiento                 | Alta | Alta | Alta | Alta |
+| Instalar maquinaria en diferentes ubicaciones (incluyendo remotas)                 | Alta | Alta | Alta | Alta |
+| Evaluar calidad-precio antes de adquirir maquinaria                | Media | Alta | Media | Media |
+| Gestionar la importación de equipos                  | Baja | Media | Alta | Alta |
+| Anticiparse a fallas para reducir pérdidas económicas                  | Media | Alta | Alta | Alta |
+| Tomar decisiones con base en datos de uso y desgaste                   | Baja | Media | Media | Alta |
 
 ### 2.3.3. User Journey Mapping.
 
@@ -1261,11 +1457,16 @@ Link del prototipo: https://www.figma.com/proto/Ys9J5pptHtokr8eKylv5PK/CoolGym--
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-<br><br> ![CoolGym-Context.png](assets/CoolGym-Context.png)
+
+![ContextDiagram](assets/Context.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
-<br><br> ![CoolGym-Containers.png](assets/CoolGym-Containers.png)
+
+![ContainerDiagrams](assets/Containers.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
-<br><br> ![CoolGym-Components.png](assets/CoolGym-Components.png)
+
+![ComponentsDiagrams](assets/Components.png)
 
 ## 4.7 Software Object-Oriented Design 
 
@@ -1500,11 +1701,39 @@ El siguiente diagrama entidad‑relación (ER) muestra las tablas principales co
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1 Software Configuration Managment 
+## 5.1 Software Configuration Managment
 
-### 5.1.1 Software Development Environment Configuration 
+### 5.1.1 Software Development Environment Configuration
+
+Project Management
+WhatsApp: Aplicación de mensajería usada por el equipo para coordinar tareas rápidas, compartir actualizaciones y resolver dudas en tiempo real.
+Google Meet: Herramienta de videoconferencias utilizada para reuniones de sincronización semanales, retrospectivas y planificación de sprints.
+Google Drive: Repositorio en la nube para centralizar documentación, entregables, diagramas y materiales del proyecto.
+
+Requirements Management
+UXPressia: Herramienta utilizada para construir User Personas, User Journey Maps y Impact Maps, alineando las funcionalidades con las necesidades del usuario final (gimnasios, entrenadores y proveedores).
+Zoom: Usada en entrevistas con usuarios potenciales (administradores de gimnasios y proveedores de equipos fitness), recopilando insights clave para definir requerimientos.
+
+Product UX/UI Design
+Figma: Plataforma principal para diseñar wireframes, mockups y prototipos interactivos de la plataforma FitConnect, asegurando consistencia en la experiencia de usuario.
+
+Software Deployment
+GitHub: Sistema de control de versiones donde se aloja el repositorio principal del proyecto. Permite gestionar ramas, levantar pull requests, automatizar integraciones y registrar issues.
+
+Software Development
+Visual Studio Code: Entorno de desarrollo integrado (IDE) utilizado para programar tanto el frontend (React/Next.js) como el backend (NestJS/.NET).
+Postman: Herramienta de pruebas de APIs, utilizada para validar endpoints, simular peticiones y verificar la comunicación entre microservicios.
+Google Chrome: Navegador de referencia para ejecutar pruebas de compatibilidad, experiencia de usuario y rendimiento de la aplicación.
+
+Software Documentation
+Google Docs: Espacio colaborativo para registrar acuerdos, decisiones de diseño, definición de requisitos y documentación técnica del proyecto.
+Structurizr: Herramienta utilizada para modelar la arquitectura en base a los diagramas C4 (Context, Containers, Components), mostrando cómo se organizan y comunican los distintos servicios del sistema.
 
 ### 5.1.2 Source Code Managment
+
+El proyecto utiliza GitHub como repositorio central para administrar y versionar el código fuente. El flujo de trabajo se basa en la metodología Gitflow de Vincent Driessen, con ramas organizadas para mantener un desarrollo colaborativo y ordenado.
+Main branch: Contiene el código estable y listo para despliegue en producción.
+Develop branch: Rama de integración, donde se consolidan las nuevas funcionalidades antes de pasar a producción.
 
 ### 5.1.3 Source Code Style Guide & Conventions 
 
@@ -1552,21 +1781,21 @@ A continuación, se describe el procedimiento para desplegar el proyecto **CoolG
 
 ---
 
-## 1. Ubicar el repositorio del proyecto
+### 1. Ubicar el repositorio del proyecto
 Se accede al repositorio público alojado en GitHub que contiene el código fuente del sitio.  
 
 ![Repositorio en GitHub](https://media.discordapp.net/attachments/814677457042276372/1418247295555735622/image.png?ex=68cd6d39&is=68cc1bb9&hm=2589272e38ce864deb5e4ee1ec8f55db4282e7376edd90ce2a923cdf629d5fe6&=&format=webp&quality=lossless)
 
 ---
 
-## 2. Ir a la sección de configuración (Settings)
+### 2. Ir a la sección de configuración (Settings)
 En la barra superior del repositorio, se hace clic en la pestaña **Settings**.  
 
 ![Pestaña Settings](https://media.discordapp.net/attachments/814677457042276372/1418248449492779120/image.png?ex=68cd6e4c&is=68cc1ccc&hm=f1905aaf169c14e3f7b84752882dbf0c12ed09832791d8bf9b5122dc8c973cca&=&format=webp&quality=lossless)
 
 ---
 
-## 3. Configurar GitHub Pages desde una rama
+### 3. Configurar GitHub Pages desde una rama
 En la sección **Pages**, dentro de *Build and deployment*, se selecciona la opción **Deploy from a branch**.  
 Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del contenido.  
 
@@ -1574,7 +1803,7 @@ Luego, se elige la rama **main** y la carpeta raíz `/ (root)` como origen del c
 
 ---
 
-## Resultado
+### Resultado
 Tras guardar la configuración, GitHub Pages generará automáticamente el despliegue del sitio.  
 Se mostrará un enlace con la URL pública donde se podrá visualizar **CoolGym**.  
 
@@ -1609,6 +1838,9 @@ En este primer sprint se desarrolló el landing page.
 | Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C | C | C|
 
 #### 5.2.1.3. Sprint Backlog 1
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
@@ -1722,7 +1954,8 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ![insightsTB1Landing.png](assets/insightsTB1Landing.png)
 
-### 5.2.2. Sprint 2
+#### 5.2.2. Sprint 2
+
 ##### 5.2.2.1. Sprint Planning 2
 
 
@@ -1730,6 +1963,7 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 
 ##### 5.2.2.3. Sprint Backlog 2
+
 <table>
     <tr>
         <th colspan="2">User Story Id</th>
@@ -1806,7 +2040,134 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
+<table>
+  <tr>
+    <th colspan="2">Repository</th>
+    <th colspan="2">Branch</th>
+    <th colspan="2">Commit Id</th>
+    <th colspan="2">Commit Message</th>
+    <th colspan="2">Commit Message Body (resumen)</th>
+    <th colspan="2">Committed on</th>
+  </tr>
 
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">abb4f5a</td>
+    <td colspan="2">fix(home): fix routing</td>
+    <td colspan="2">Se corrigió el enrutamiento en la página de inicio (home).</td>
+    <td colspan="2">Oct 8, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">8293ae9</td>
+    <td colspan="2">feat(http): added json server multiple endpoints fix</td>
+    <td colspan="2">Solución para manejar múltiples endpoints en JSON Server</td>
+    <td colspan="2">May 15, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">feat/my-machines</td>
+    <td colspan="2">e84c741</td>
+    <td colspan="2">feat: add my-machines page</td>
+    <td colspan="2">Se agregó la página de mis máquinas.</td>
+    <td colspan="2">Oct 7, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">210bb25</td>
+    <td colspan="2">feat(home): add page not found</td>
+    <td colspan="2">Se agregó la página de no encontrado (404) en Home.</td>
+    <td colspan="2">Oct 7, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">4abc208</td>
+    <td colspan="2">fix(home): fix routes</td>
+    <td colspan="2">Se corrigieron las rutas en la página de inicio (home).</td>
+    <td colspan="2">Oct 7, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">feat/home-customers</td>
+    <td colspan="2">589b9c6</td>
+    <td colspan="2">feat: add home-customers page</td>
+    <td colspan="2">Se agregó la página de inicio para clientes.</td>
+    <td colspan="2">Oct 7, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">feat/Rent-Gym-Machine</td>
+    <td colspan="2">47ae3a7</td>
+    <td colspan="2">feat: Add gym machine rental page</td>
+    <td colspan="2">Se agregó la página de alquiler de máquinas de gimnasio.</td>
+    <td colspan="2">Oct 7, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">feat/account-statement</td>
+    <td colspan="2">9827f10</td>
+    <td colspan="2">feat(account-statement): add account statement page</td>
+    <td colspan="2">Se agregó la página de estado de cuenta.</td>
+    <td colspan="2">Oct 4, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">a62b794</td>
+    <td colspan="2">fix(db): add database</td>
+    <td colspan="2">Se añadió la base de datos y se corrigió la configuración del módulo db.</td>
+    <td colspan="2">Oct 4, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">feat/maintenance</td>
+    <td colspan="2">5461376</td>
+    <td colspan="2">feat(maintenance): create maintenance page</td>
+    <td colspan="2">Se creó la página de mantenimiento.r</td>
+    <td colspan="2">Oct 4, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">main</td>
+    <td colspan="2">647f254</td>
+    <td colspan="2">fix(toolbar): delete devtools component</td>
+    <td colspan="2">Se eliminó el componente de DevTools de la barra de herramientas (toolbar).</td>
+    <td colspan="2">Oct 4, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">develop</td>
+    <td colspan="2">844b289</td>
+    <td colspan="2">fix(toolbar): fix subtitle</td>
+    <td colspan="2">Se corrigió el subtítulo en la barra de herramientas (toolbar).</td>
+    <td colspan="2">Oct 4, 2025</td>
+  </tr>
+
+   <tr>
+    <td colspan="2">Frontend-CoolGym</td>
+    <td colspan="2">main</td>
+    <td colspan="2">e20380f</td>
+    <td colspan="2">feat: add base app structure with contexts and router</td>
+    <td colspan="2">Se creó la estructura base de la app e inicializaron los contexts y el router para la navegación.</td>
+    <td colspan="2">Oct 3, 2025</td>
+  </tr>
+
+</table>
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1844,16 +2205,11 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Se sostuvo el flujo de trabajo con GitFlow + Conventional Commits, facilitando revisión de PRs e insights de colaboración.
 - Se documentó ejecución del Frontend con capturas y se actualizó el informe del proyecto con la traza del avance.
 
-
-## Bibliografía 
+## Bibliografía
 
 - Conventional Commits. (s.f.). *Conventional commits*. Recuperado el 10 de julio de 2025, de https://www.conventionalcommits.org/
 - Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
 - Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 - Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
 
-
-
-
-
-
+## Anexos
