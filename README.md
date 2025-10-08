@@ -1642,5 +1642,10 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+**Landing Page**
+
+![insightsTB1Landing.png](assets/insightsTB1Landing.png)
+
+
 ## Conclusiones
 ## Bibliografía 
