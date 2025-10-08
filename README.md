@@ -1724,7 +1724,7 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ![insightsTB1Landing.png](assets/insightsTB1Landing.png)
 
-#### 5.2.2. Sprint 2
+### 5.2.2. Sprint 2
 ##### 5.2.2.1. Sprint Planning 2
 
 
@@ -1732,6 +1732,78 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 
 ##### 5.2.2.3. Sprint Backlog 2
+<table>
+    <tr>
+        <th colspan="2">User Story Id</th>
+        <th colspan="2">User Story Title</th>
+        <th colspan="2">Work Item/Task Id</th>
+        <th colspan="2">Work Item/Task Title</th>
+        <th colspan="2">Description</th>
+        <th colspan="2">Estimation</th>
+        <th colspan="2">Assigned To</th>
+        <th colspan="2">Status</th>
+    </tr>
+    <tr>
+        <td colspan="2">US02</td>
+        <td colspan="2">Visualizar estado de equipos</td>
+        <td colspan="2">T01</td>
+        <td colspan="2">Diseño de control de máquina</td>
+        <td colspan="2">Desarrollar vista de control de las máquinas</td>
+        <td colspan="2">12h</td>
+        <td colspan="2">Oliver Villogas</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US17</td>
+        <td colspan="2">Consultar el estado de cuenta</td>
+        <td colspan="2">T02</td>
+        <td colspan="2">Diseño de sección estado de cuenta</td>
+        <td colspan="2">Desarrollar la interfaz del estado de cuenta</td>
+        <td colspan="2">10h</td>
+        <td colspan="2">Wilder Aliaga</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US27</td>
+        <td colspan="2">Buscar equipos de proveedores</td>
+        <td colspan="2">T03</td>
+        <td colspan="2">Diseño de la sección renta de máquinas</td>
+        <td colspan="2">Desarrollar la interfaz de las máquinas que pueden rentarse</td>
+        <td colspan="2">12h</td>
+        <td colspan="2">Alberto Ponce</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US15</td>
+        <td colspan="2">Cambiar el idioma de la interfaz</td>
+        <td colspan="2">T04</td>
+        <td colspan="2">Implementación del Selector de Idioma</td>
+        <td colspan="2">Desarrolar la funcionalidad de idiomas para permitir la selección de los idiomas disponibles, </td>
+        <td colspan="2">8h</td>
+        <td colspan="2">Anderson Ventosilla</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US03</td>
+        <td colspan="2">Programar mantenimientos preventivos</td>
+        <td colspan="2">T05</td>
+        <td colspan="2">Diseño de la sección mantenimientos</td>
+        <td colspan="2">Desarrollar vista de la programación de mantenimientos</td>
+        <td colspan="2">10h</td>
+        <td colspan="2">Wilder Aliaga</td>
+        <td colspan="2">Done</td>
+    </tr>
+    <tr>
+        <td colspan="2">US01</td>
+        <td colspan="2">Conectar máquinas al sistema</td>
+        <td colspan="2">T06</td>
+        <td colspan="2">Diseño de sección Mis máquinas</td>
+        <td colspan="2">Desarrolar la simulación de la vista de las máquinas conectadas</td>
+        <td colspan="2">16h</td>
+        <td colspan="2">Oliver Villogas y Alberto Ponce</td>
+        <td colspan="2">Done</td>
+    </tr>
+</table>
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
@@ -1781,6 +1853,7 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
 - Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 - Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
+
 
 
 
