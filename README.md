@@ -1971,9 +1971,33 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
-![allcommits2sprint.png](assets/commits-front2sprint.webp)
+En este segundo Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
 
-![trello.png](assets/trello.webp)
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|-------------|---------|------------|----------------|----------------------|----------------------|
+| Frontend-Coolgym | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | — | Oct 8, 2025 |
+| Frontend-Coolgym | main | abb4f5a | fix(home): fix routing | — | Oct 8, 2025 |
+| Frontend-Coolgym | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 70780d1 | Merge branch 'develop' into feat/my-machines | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | e84c741 | feat: add my-machines page | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 218bb25 | feat(home): add page not found | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 4abc288 | fix(home): fix routes | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | f58b894 | Merge branch 'develop' into feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | bf0f048 | Merge branch 'develop' into feat/maintenance | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | d00473a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 589b9c6 | feat: add home-customers page | — | Oct 6, 2025 |
+| Frontend-Coolgym | main | 47ae3a7 | feat: Add gym machine rental page | — | Oct 6, 2025 |
+| Frontend-Coolgym | develop | 9827f18 | feat(account-statement): add account statement page | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | a62b794 | fix(db): add database | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 5461376 | feat(maintenance): create maintenance page | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 6474254 | fix(toolbar): delete devtools component | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 844b289 | fix(toolbar): fix subtitle | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | e20389f | feat: add base app structure with contexts and router | — | Oct 3, 2025 |
+| Frontend-Coolgym | develop | 884b869 | Initial commit | — | Oct 2, 2025 |
+
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1985,6 +2009,8 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 ![5.png](assets/TP/executionEvidence/5.png)
 ![6.png](assets/TP/executionEvidence/6.png)
 ![7.png](assets/TP/executionEvidence/7.png)
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EQFXWJ1sX3NMpHlUCaLa8p4BIjNiqjkBXgjXlaLeJA2FKQ?e=CoRRBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EQFXWJ1sX3NMpHlUCaLa8p4BIjNiqjkBXgjXlaLeJA2FKQ?e=CoRRBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2026,8 +2052,14 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 - Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 - Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
 
+## Anexos
 
+- Video de exposicion TP : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EZ3ggT1LLJpAm38GXvGw1msBDzhyEa6hOiW_J6BmPiIyTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ph3BnB
 
+- [Video de exposicion TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EZ3ggT1LLJpAm38GXvGw1msBDzhyEa6hOiW_J6BmPiIyTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ph3BnB)
 
+- Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
+
+- [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
 
 
