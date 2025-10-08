@@ -1971,7 +1971,9 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
+![allcommits2sprint.png](assets/commits-front2sprint.webp)
 
+![trello.png](assets/trello.webp)
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1990,9 +1992,11 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![allcommits2sprint.png](assets/commits-front2sprint.webp)
+![deployment.png](assets/deployment1.webp)
+![deployment.png](assets/deployment2.webp)
+![deployment.png](assets/deployment3.webp)
+![deployment.png](assets/deployment4.webp)
 
-![trello.png](assets/trello.webp)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
