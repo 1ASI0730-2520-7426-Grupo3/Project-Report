@@ -51,18 +51,24 @@
 
 # Registro de Versiones del Informe
 
-| **Versión** | **Fecha**   | **Autores**                                                                                                                           | **Descripción de Modificación**                                                                                                                                                                  |
-|-------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0         | 17/09/2025  | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson <br> - Juan <br> - Wilder Gonzalo Aliaga Urbina | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
+| **Versión** | **Fecha**  | **Autores**                                                                                                                           | **Descripción de Modificación**                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0         | 17/09/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson <br> - Juan <br> - Wilder Gonzalo Aliaga Urbina | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
+| 2.0         | 08/10/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson <br> - Juan <br> - Wilder Gonzalo Aliaga Urbina | Actualizamos el reporte con los avances y trabajamos en el desarrollo de la aplicación frontend. Además, elaboramos el capítulo 5 y actualizamos nuevamente el reporte.                                                                                                                                                                                                                                                            |
 
 ---
 # Project Report Collaboration Insights
 
 **Link del repositorio del informe:**  
-[https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md)
+[https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md](https://github.com/1ASI0730-2520-7426-Grupo3/TB1/blob/main/README.md)
 
 **Link de los repositorios de la organización:**  
-[]()
+
+Landing Page:
+[https://github.com/1ASI0730-2520-7426-Grupo3/Landing-Page](https://github.com/1ASI0730-2520-7426-Grupo3/Landing-Page)
+
+Frontend App:
+[https://github.com/1ASI0730-2520-7426-Grupo3/Frontend-Coolgym](https://github.com/1ASI0730-2520-7426-Grupo3/Frontend-Coolgym)
 
 Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplicando GitFlow y Conventional Commits. Cada integrante del equipo ha contribuido mediante ramas independientes, commits individuales y revisiones de Pull Requests.
 
@@ -72,7 +78,8 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplican
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
-![]()
+![insights.png](assets/TP/insights.png)
+
 
 ---
 
@@ -1673,6 +1680,7 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+No se emplearon servicios adicionales, ya que este segundo sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -1681,10 +1689,11 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
 **LandingPage**
-
+![insightsLanding.png](assets/TP/insightsLanding.png)
 
 **Frontend**
 
+![insights.png](assets/TP/insights.png)
 
 
 ## Conclusiones
