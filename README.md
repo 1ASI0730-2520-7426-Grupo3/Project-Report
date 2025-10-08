@@ -558,6 +558,106 @@ Segmento 2: Clientes (Gimnasios y Entrenadores)
 
 ### 2.2.2. Registro de entrevistas
 
+Entrevista 1
+
+Nombres: Lewis Alexis
+
+Apellidos: Rengifo Pizango
+
+Edad: 25
+
+Distrito: Miraflores
+
+Captura de la entrevista:
+
+![Entrevista01](assets/AlbertoEntrevista1.jpg)
+![Entrevistado01](assets/Entrevistado1.jpg)
+
+Inicio / Fin: 00:00 - 06:00
+
+Duración: 6 minutos
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EW94wtAG3VtIlqkCZ2-P13kBRghtqge8-UubYvV2q48aug?e=FGOdV1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen:
+
+Lewis, de 25 años, es analista comercial y estudió Ingeniería Industrial. Inició su carrera en el rubro de la mecánica, lo cual despertó su interés en el desarrollo de soluciones más eficientes, llevándolo al sector de equipos fitness inteligentes. Su visión es consolidar su marca en el segmento premium, ofreciendo equipos de gimnasio conectados, con análisis de datos y personalización del entrenamiento.
+Entre sus principales desafíos destacan los ciclos de ventas prolongados, la alta inversión inicial del sector premium, la capacitación constante del personal de ventas y mantenimiento, y la instalación de maquinaria en ubicaciones remotas. Lewis considera el leasing como una herramienta clave para reducir barreras de entrada y facilitar la adquisición de equipos por parte de nuevos clientes.
+Asimismo, reconoce el valor de una plataforma que optimice el mantenimiento, permita investigación y desarrollo, y recolecte datos para servicios de valor añadido. También ve con gran potencial un canal de ventas adicional, siempre que ofrezca herramientas de análisis de mercado, datos de competencia y análisis de precios, lo que facilitaría la toma de decisiones basadas en información confiable y eficaz.
+
+Entrevista 2
+
+Nombres: Mathias Sebastian
+
+Apellidos: Villavicencio Viacava
+
+Edad: 23
+
+Distrito: San Juan de Lurigancho
+
+Captura de la entrevista:
+
+![Entrevista01](assets/AndersonEntrevista1.webp)
+
+Inicio / Fin: 00:00 - 03:24
+
+Duración: 03:24 minutos
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/personal/u202320684_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202320684%5Fupc%5Fedu%5Fpe%2FDocuments%2FAnderson02%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E34473130%2D39bf%2D4df6%2Db23b%2D7ef1def516ae)
+
+Resumen:
+
+Mathias, de 23 años, es entrenador personal y busca hacer crecer su negocio con un gimnasio propio. Uno de sus principales desafíos es el alto costo inicial de los equipos, sumado a la rápida obsolescencia tecnológica y la dificultad para elegir maquinaria duradera y eficiente. Actualmente realiza mantenimiento solo cuando una máquina falla, lo que genera tiempos de inactividad que afectan sus ingresos. Considera muy valioso contar con datos de uso para tomar decisiones estratégicas y prevenir fallas. Le interesa el alquiler o leasing de equipos por su menor impacto financiero y valora la idea de una plataforma que anticipe fallos para optimizar la operatividad del gimnasio.
+
+Segmento 2:
+Entrevista 2
+Nombres: Enrique Arturo
+
+Apellidos: Gutiérrez Vela
+
+Edad: 24
+
+Distrito: Surco
+
+Captura de la entrevista:
+
+![Entrevista02](assets/AlbertoEntrevista2.jpg)
+![Entrevistado02](assets/Entrevistado2.jpg)
+
+Inicio / Fin: 00:00 - 05:40
+
+Duración: 5 minutos y 40 segundos.
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EUCdcanMW8pHjefRFHiuz7oBSbTvZGESwO3CUbPgbUXkCg?e=EF3TDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen:
+
+Enrique, de 24 años, es biólogo de profesión y actualmente se encuentra emprendiendo con la apertura de un gimnasio la próxima semana. Utiliza principalmente su celular como dispositivo preferido.
+Entre los desafíos que ha enfrentado para adquirir equipos, destaca la relación calidad-precio de la maquinaria, la falta de información confiable sobre su calidad y los altos costos y demoras asociados a la importación. Actualmente, realiza mantenimientos preventivos, pero señala que aun así las máquinas se dañan, lo que genera molestias y pérdidas económicas al quedar inactivas.
+Considera fundamental contar con información sobre el uso y estado de cada máquina, ya que esto permite tomar decisiones tanto a corto como a largo plazo. Ve como un aspecto atractivo la posibilidad de adquirir equipos sin necesidad de una gran inversión inicial, y valora especialmente poder anticiparse a fallas para tomar medidas correctivas de forma oportuna.
+
+Entrevista 2
+Nombres: Thiago Imanol
+
+Apellidos: Paucar Aranda
+
+Edad: 22
+
+Distrito: San Juan de lurigancho
+
+Captura de la entrevista:
+
+![Entrevista02](assets/AndersonEntrevista2.webp)
+
+Inicio / Fin: 00:00 - 01:36
+
+Duración: 01 minuto y 36 segundos.
+
+URL de Entrevista: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EZqwF9uW2AJBpOeGFsJSXJMBHV6_r764nF-us6Fe2I7T3A?e=kvRPMk)
+
+Resumen:
+
+Thiago Paucar, de 22 años y residente en San Juan de Lurigancho, está iniciando su camino como entrenador independiente y planea montar su propio gimnasio. Entre los principales retos que enfrenta está el elevado costo de los equipos, lo que dificulta invertir sin comprometer su capital. Además, le preocupa que la tecnología de las máquinas quede rápidamente obsoleta y que la variedad del mercado complique elegir equipos duraderos. Su enfoque actual de mantenimiento es correctivo, esperando a que los equipos fallen para repararlos, lo que genera pérdidas por el tiempo que quedan inactivos. Thiago ve como una gran ventaja contar con datos sobre el uso de las máquinas para optimizar su distribución y prevenir fallos. También le interesa el leasing, ya que le permitiría acceder a equipos modernos sin una gran inversión inicial, y considera clave una plataforma que le alerte sobre posibles fallas para mantener operativa su infraestructura.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -614,7 +714,7 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 **Resultado** 
 
-![As-Is Mantenimiento](https://media.discordapp.net/attachments/814677457042276372/1418005089087655936/image.png?ex=68cc8ba6&is=68cb3a26&hm=dfc05903520950ce8e767045accd5f292bdb455fc90ce0e03a8cc1f3509afa82&=&format=webp&quality=lossless)
+![As-Is Mantenimiento](assets/asisescenariomapping1.webp)
 
 ---
 
@@ -627,7 +727,7 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
 **Resultado**  
 
-![As-Is Reportes](https://media.discordapp.net/attachments/814677457042276372/1418005217051545660/image.png?ex=68cc8bc5&is=68cb3a45&hm=12d3adfa49fe342d5f454e7d58ee2f0b0c3aabedda7be3bfab290ee552ad4869&=&format=webp&quality=lossless)
+![As-Is Reportes](assets/asisescenariomapping2.webp)
 
 ## 2.4. Ubiquitous Language. 
 |Término (Inglés)    |Término (Español) |Definición     |
@@ -657,12 +757,12 @@ Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 **Segmento 1: Proveedores de Equipos Fitness Inteligentes**  
 
 &nbsp; 
-![To-Be Scenario Mapping - Proveedores](https://media.discordapp.net/attachments/814677457042276372/1418343979740827648/image.png?ex=68cdc744&is=68cc75c4&hm=79c65cb4ff606cc9276c3d6e46341ba5e53897fde9da9c3641ec9f5dbdc112ad&=&format=webp&quality=lossless)
+![To-Be Scenario Mapping - Proveedores](assets/tobeScenarioMapping1.webp)
 
 **Segmento 2: Clientes (Gimnasios y Entrenadores)**  
 
 &nbsp; 
-![To-Be Scenario Mapping - Clientes](https://media.discordapp.net/attachments/814677457042276372/1418344103955009566/image.png?ex=68cdc761&is=68cc75e1&hm=76cd44175fa9fea068a7eb6077fbca03c4d4a7384eec9662f381f0c727f6e8cc&=&format=webp&quality=lossless&width=1562&height=775)
+![To-Be Scenario Mapping - Clientes](assets/tobeScenarioMapping2.webp)
 
 ## 3.2. User Stories
 **Epics:**
