@@ -2037,6 +2037,159 @@ Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.
 
 ![insights.png](assets/TP/insights.png)
 
+### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                        | Sprint 3 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |
+| Date                            | 27/10/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Time                            | 3:20 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Location                        | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Prepared By                     | Ponce Perales, Alberto Alejandro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Attendees (to planning meeting) | Ponce Perales, Alberto Alejandro<br> Villogas Medina, Oliver Paul<br> Aliaga Urbina, Wilder Gonzalo<br> Ventosilla Trujillo, Anderson Ricardo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Sprint 3 Review Summary         | Durante este sprint, el equipo se enfocó .                                                                                                                                                                                                                                                                                        |
+| Sprint 3 Retrospective Summary  |                                                                                                                                                                                                                                                                                                                                              |
+| Sprint Goal & User Stories      |
+| Sprint 3 Goal                   |  |
+| Sprint 3 Velocity               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Sum of Story Points             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member                                         | GitHub Username | Backend    | Frontend                |Documentación                  |
+|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
+| Ponce Perales, Alberto Alejandro | aponceperales   | C | C | L|
+| Villogas Medina, Oliver Paul | OliverVillogas   | L | C | C|
+| Aliaga Urbina, Wilder Gonzalo| gonzalo1905   | C | L | C|
+| Saldaña De Souza, Juan David | jndesouza  | C | C | C|
+| Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C | C | C|
+
+##### 5.2.3.3. Sprint Backlog 3
+<table>
+    <tr>
+        <th colspan="2">User Story Id</th>
+        <th colspan="2">User Story Title</th>
+        <th colspan="2">Work Item/Task Id</th>
+        <th colspan="2">Work Item/Task Title</th>
+        <th colspan="2">Description</th>
+        <th colspan="2">Estimation</th>
+        <th colspan="2">Assigned To</th>
+        <th colspan="2">Status</th>
+    </tr>
+    <tr>
+        <td colspan="2">US02</td>
+        <td colspan="2">Visualizar estado de equipos</td>
+        <td colspan="2">T01</td>
+        <td colspan="2">Diseño de control de máquina</td>
+        <td colspan="2">Desarrollar vista de control de las máquinas</td>
+        <td colspan="2">12h</td>
+        <td colspan="2">Oliver Villogas</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US17</td>
+        <td colspan="2">Consultar el estado de cuenta</td>
+        <td colspan="2">T02</td>
+        <td colspan="2">Diseño de sección estado de cuenta</td>
+        <td colspan="2">Desarrollar la interfaz del estado de cuenta</td>
+        <td colspan="2">10h</td>
+        <td colspan="2">Wilder Aliaga</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US27</td>
+        <td colspan="2">Buscar equipos de proveedores</td>
+        <td colspan="2">T03</td>
+        <td colspan="2">Diseño de la sección renta de máquinas</td>
+        <td colspan="2">Desarrollar la interfaz de las máquinas que pueden rentarse</td>
+        <td colspan="2">12h</td>
+        <td colspan="2">Alberto Ponce</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US15</td>
+        <td colspan="2">Cambiar el idioma de la interfaz</td>
+        <td colspan="2">T04</td>
+        <td colspan="2">Implementación del Selector de Idioma</td>
+        <td colspan="2">Desarrolar la funcionalidad de idiomas para permitir la selección de los idiomas disponibles, </td>
+        <td colspan="2">8h</td>
+        <td colspan="2">Anderson Ventosilla</td>
+        <td colspan="2">Done</td>
+    </tr>
+      <tr>
+        <td colspan="2">US03</td>
+        <td colspan="2">Programar mantenimientos preventivos</td>
+        <td colspan="2">T05</td>
+        <td colspan="2">Diseño de la sección mantenimientos</td>
+        <td colspan="2">Desarrollar vista de la programación de mantenimientos</td>
+        <td colspan="2">10h</td>
+        <td colspan="2">Wilder Aliaga</td>
+        <td colspan="2">Done</td>
+    </tr>
+    <tr>
+        <td colspan="2">US01</td>
+        <td colspan="2">Conectar máquinas al sistema</td>
+        <td colspan="2">T06</td>
+        <td colspan="2">Diseño de sección Mis máquinas</td>
+        <td colspan="2">Desarrolar la simulación de la vista de las máquinas conectadas</td>
+        <td colspan="2">16h</td>
+        <td colspan="2">Oliver Villogas y Alberto Ponce</td>
+        <td colspan="2">Done</td>
+    </tr>
+</table>
+
+
+##### 5.2.3.4. Development Evidence for Sprint Review
+
+En este tercer Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|-------------|---------|------------|----------------|----------------------|----------------------|
+| Frontend-Coolgym | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | — | Oct 8, 2025 |
+| Frontend-Coolgym | main | abb4f5a | fix(home): fix routing | — | Oct 8, 2025 |
+| Frontend-Coolgym | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 70780d1 | Merge branch 'develop' into feat/my-machines | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | e84c741 | feat: add my-machines page | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 218bb25 | feat(home): add page not found | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 4abc288 | fix(home): fix routes | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | f58b894 | Merge branch 'develop' into feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | bf0f048 | Merge branch 'develop' into feat/maintenance | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | d00473a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | — | Oct 7, 2025 |
+| Frontend-Coolgym | main | 589b9c6 | feat: add home-customers page | — | Oct 6, 2025 |
+| Frontend-Coolgym | main | 47ae3a7 | feat: Add gym machine rental page | — | Oct 6, 2025 |
+| Frontend-Coolgym | develop | 9827f18 | feat(account-statement): add account statement page | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | a62b794 | fix(db): add database | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 5461376 | feat(maintenance): create maintenance page | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 6474254 | fix(toolbar): delete devtools component | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | 844b289 | fix(toolbar): fix subtitle | — | Oct 4, 2025 |
+| Frontend-Coolgym | develop | e20389f | feat: add base app structure with contexts and router | — | Oct 3, 2025 |
+| Frontend-Coolgym | develop | 884b869 | Initial commit | — | Oct 2, 2025 |
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 ## Conclusiones
 
@@ -2065,6 +2218,7 @@ Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
