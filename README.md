@@ -2230,8 +2230,18 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 ![basedatos-coolgym.png](assets/evidence-equipments/basedatos-coolgym.png)
 <br>**Verificamos en la base de datos que se este aplicando el Soft Delete correctamente con todos los equipos.**<br><br>
 ![basedatos-softdelete.png](assets/evidence-equipments/basedatos-softdelete.png)
-
-
+<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa con un SerialNumber ya existente no debería crearlo.**<br><br>
+![POST-errorserialnumber.png](assets/evidence-equipments/POST-errorserialnumber.png)
+<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa sin un locationName no debería crearlo.**<br><br>
+![POST-errorlocation.png](assets/evidence-equipments/POST-errorlocation.png)
+<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el locationName no permite actualizarlo.**<br><br>
+![PUT-locationvacio.png](assets/evidence-equipments/PUT-locationvacio.png)
+<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el status no permite actualizarlo.**<br><br>
+![PUT-statusvacio.png](assets/evidence-equipments/PUT-statusvacio.png)
+<br>**Prueba del GET/type que me permite filtrar los equipos por su tipo.**<br><br>
+![GET-type.png](assets/evidence-equipments/GET-type.png)
+<br>**Prueba del GET/status que me permite filtrar los equipos según su estado.**<br><br>
+![GET-status.png](assets/evidence-equipments/GET-status.png)
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2278,6 +2288,7 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
