@@ -2244,7 +2244,30 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 ![GET-status.png](assets/evidence-equipments/GET-status.png)
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
+La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la primera versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints relacionados con la gestión de Equipments desarrollados en este sprint. <br><br>
+![CoolGym-Swaggerv1.png](assets/evidence-equipments/CoolGym-Swaggerv1.png)
+<br>Documentación del Método GET: Listado de Todos los Equipos<br>
+![Documentation-GET.png](assets/evidence-equipments/Documentation-GET.png)
+<br>Documentación del Método GET: Consulta de Equipo por ID<br>
+![Documentation-GETid.png](assets/evidence-equipments/Documentation-GETid.png)
+![Documentation-GETid2.png](assets/evidence-equipments/Documentation-GETid2.png)
+<br>Documentación del Método GET: Consulta de Equipos por Tipo<br>
+![Documentation-GETtype.png](assets/evidence-equipments/Documentation-GETtype.png)
+![Documentation-GETtype2.png](assets/evidence-equipments/Documentation-GETtype2.png)
+<br>Documentación del Método GET: Consulta de Equipos por Estado Operativo<br>
+![Documentation-GETstatus.png](assets/evidence-equipments/Documentation-GETstatus.png)
+![Documentation-GETstatus2.png](assets/evidence-equipments/Documentation-GETstatus2.png)
+<br>Documentación del Método POST: Creación de un Nuevo Equipo<br>
+![Documentation-POST.png](assets/evidence-equipments/Documentation-POST.png)
+![Documentation-POST2.png](assets/evidence-equipments/Documentation-POST2.png)
+<br>Documentación del Método PUT: Actualización de la Información de un Equipo<br>
+![Documentation-PUT.png](assets/evidence-equipments/Documentation-PUT.png)
+![Documentation-PUT2.png](assets/evidence-equipments/Documentation-PUT2.png)
+<br>Documentación del Método DELETE: Eliminación Lógica (Soft Delete) de un Equipo<br>
+![Documentation-DELETE.png](assets/evidence-equipments/Documentation-DELETE.png)
+![Documentation-DELETE2.png](assets/evidence-equipments/Documentation-DELETE2.png)
+<br>Prueba del Método GET: Listado de Todos los Equipos<br>
+![Ejecucion-GET.png](assets/evidence-equipments/Ejecucion-GET.png)
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2288,6 +2311,7 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
