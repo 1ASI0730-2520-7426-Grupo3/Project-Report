@@ -2174,22 +2174,22 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 **Primero, se ejecuto el backend de manera local.**<br><br>
 ![EjecucionBackend-Postman.png](assets/evidence-equipments/EjecucionBackend-Postman.png)
 <br>**Luego, se ingresaron datos de los equipos de gimnasio usando POST.**<br>
-<br>**POST de equipo 1**<br><br>
+<br>**POST del equipo 1**<br><br>
 ![POST-equipment1.png](assets/evidence-equipments/POST-equipment1.png)
-<br><br>**POST de equipo 2**<br><br>
+<br><br>**POST del equipo 2**<br><br>
 ![POST-equipment2.png](assets/evidence-equipments/POST-equipment2.png)
-<br><br>**POST de equipo 3**<br><br>
+<br><br>**POST del equipo 3**<br><br>
 ![POST-equipment3.png](assets/evidence-equipments/POST-equipment3.png)
-<br><br>**POST de equipo 4**<br><br>
+<br><br>**POST del equipo 4**<br><br>
 ![POST-equipment4.png](assets/evidence-equipments/POST-equipment4.png)
 <br><br>**Además, se actualizaron algunos datos de los equipos de gimnasio usando PUT para tener datos similares a los que teniamos en el db.json del frontend.**<br>
-<br>**PUT de equipo 1**<br><br>
+<br>**PUT del equipo 1**<br><br>
 ![PUT-equipment1.png](assets/evidence-equipments/PUT-equipment1.png)
-<br><br>**PUT de equipo 2**<br><br>
+<br><br>**PUT del equipo 2**<br><br>
 ![PUT-equipment2.png](assets/evidence-equipments/PUT-equipment2.png)
-<br><br>**PUT de equipo 3**<br><br>
+<br><br>**PUT del equipo 3**<br><br>
 ![PUT-equipment3.png](assets/evidence-equipments/PUT-equipment3.png)
-<br><br>**PUT de equipo 4**<br><br>
+<br><br>**PUT del equipo 4**<br><br>
 ![PUT-equipment4.png](assets/evidence-equipments/PUT-equipment4.png)
 <br><br>**Se implementó la configuración CORS en el backend utilizando AddCors para resolver las restricciones de seguridad del navegador.**<br>
 ![Ejecucion-Backend.png](assets/evidence-equipments/Ejecucion-Backend.png)
@@ -2201,7 +2201,35 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 ![Mymachines.png](assets/evidence-equipments/Mymachines.png)
 <br><br>**Prueba exitosa de carga de datos de equipos en Machine Controls del frontend.**<br>
 ![MachineControls1.png](assets/evidence-equipments/MachineControls1.png)
-
+<br><br>**Se ingresaron algunos datos de equipos para pruebas de validación.**<br>
+<br>**POST del equipo 5**<br><br>
+![POST-equipment5.png](assets/evidence-equipments/POST-equipment5.png)
+<br>**PUT del equipo 5 para encender el equipo.**<br><br>
+![PUT-equipment5.png](assets/evidence-equipments/PUT-equipment5.png)
+<br>**POST del equipo 6**<br><br>
+![POST-equipment6.png](assets/evidence-equipments/POST-equipment6.png)
+<br>**PUT del equipo 6 para cambiar su estado a mantenimiento.**<br><br>
+![PUT-equipment6.png](assets/evidence-equipments/PUT-equipment6.png)
+<br>**POST del equipo 7 lo crea apagado por defecto.**<br><br>
+![POST-equipment7.png](assets/evidence-equipments/POST-equipment7.png)
+<br>**Se intenta borrar el equipo 5 usando DELETE pero no se puede borrar un equipo encendido.**<br><br>
+![DELETE-encendido.png](assets/evidence-equipments/DELETE-encendido.png)
+<br>**Se intenta borrar el equipo 6 usando DELETE pero no se puede borrar un equipo con estado en mantenimiento.**<br><br>
+![DELETE-mantenimiento.png](assets/evidence-equipments/DELETE-mantenimiento.png)
+<br>**Se intenta borrar el equipo 7 usando DELETE y como no tiene ninguna restricción se borra exitosamente.**<br><br>
+![DELETE-exitoso.png](assets/evidence-equipments/DELETE-exitoso.png)
+<br>**Se verifica en la base de datos que se este aplicando el Soft Delete correctamente con el equipo 7.**<br><br>
+![Validacion-DELETE.png](assets/evidence-equipments/Validacion-DELETE.png)
+<br>**Probamos el GET equipments para validar que solo me devuelva las otros 6 equipos registrados.**<br><br>
+![GET-equipments.png](assets/evidence-equipments/GET-equipments.png)
+<br>**Probamos el GET equipments/7 para validar que no me devuelva información del equipo 7.**<br><br>
+![GET-equipment7.png](assets/evidence-equipments/GET-equipment7.png)
+<br>**Se intenta borrar el equipo 7 usando DELETE nuevamente y como ya fue borrado no deberia funcionar.**<br><br>
+![DELETE2-equipment7.png](assets/evidence-equipments/DELETE2-equipment7.png)
+<br>**Se realizan consultas básicas sobre la tabla equipments para validar que el backend este integrado correctamente a la base de datos coolgym-db.**<br><br>
+![basedatos-coolgym.png](assets/evidence-equipments/basedatos-coolgym.png)
+<br>**Verificamos en la base de datos que se este aplicando el Soft Delete correctamente con todos los equipos.**<br><br>
+![basedatos-softdelete.png](assets/evidence-equipments/basedatos-softdelete.png)
 
 
 
@@ -2250,6 +2278,7 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
