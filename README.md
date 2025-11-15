@@ -2298,6 +2298,21 @@ La documentación de los servicios del backend se generó automáticamente y se 
 ![Documentation-GET.png](assets/imagesbillings/delete.png)
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+<br>**Primero, hosteamos la base de datos de CoolGym en un servidor remoto.**<br>
+![Base-Desplegada.png](assets/deploy-azure/Base-Desplegada.png)
+<br><br>**Luego, configuramos nuestros appsettings para que se conecten a la base de datos remota.**<br>
+![App-settings.png](assets/deploy-azure/App-settings.png)
+<br><br>**Una vez terminado el último avance del Backend de este sprint y subido a la rama main del repositorio de Backend en GitHub, comenzamos a crear nuestra aplicación web en Azure.**<br>
+![DatosBasicos-Azure.png](assets/deploy-azure/DatosBasicos-Azure.png)
+<br><br>**Luego, habilitamos la implementación continua en Azure y vinculamos nuestro repositorio de GitHub correctamente.**<br>
+![Implementacion-continua.png](assets/deploy-azure/Implementacion-continua.png)
+<br><br>**Después, seguimos configurando todo por defecto y le damos crear.**<br>
+![Crear-Azure.png](assets/deploy-azure/Crear-Azure.png)
+<br><br>**Finalmente, esperamos unos minutos y veremos que ha sido creada e implementada la aplicación web de CoolGym correctamente.**<br>
+![Implementacion-correcta.png](assets/deploy-azure/Implementacion-correcta.png)
+<br><br>**Además, podemos verificar en el repositorio de GitHub que el archivo de workflow (.yml) se ha creado correctamente y que el despliegue de la aplicación se completó exitosamente.**<br>
+![Archivo-yml.png](assets/deploy-azure/Archivo-yml.png)
+![Verificacion-github.png](assets/deploy-azure/Verificacion-github.png)
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2339,6 +2354,7 @@ La documentación de los servicios del backend se generó automáticamente y se 
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
