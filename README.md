@@ -2052,8 +2052,8 @@ Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.
 | Sprint 3 Retrospective Summary  | El equipo concluyó que la colaboración fue altamente efectiva, resultando en la entrega exitosa y completa del dominio Equipments y la validación de sus servicios en Swagger.Como punto clave de mejora, se identificó una insuficiencia en la anticipación del tiempo de diseño para los nuevos dominios de negocio (Rent Machines, Maintenance y Billing Invoices). Por ello, el equipo se compromete a mejorar las técnicas de estimación y asignar tiempo específico a la fase de diseño de servicios al inicio del próximo sprint, garantizando un desarrollo más fluido y anticipado.                                                                                                                                                                                                                                                                                                                                         |
 | Sprint Goal & User Stories      |
 | Sprint 3 Goal                   |  Completar la funcionalidad total y documentada del dominio Equipments para asegurar la gestión completa del inventario de activos. Simultáneamente, establecer la capa de servicios base para los dominios Maintenance, Billing Invoices y Rent Machines, dejando la arquitectura del backend preparada para la siguiente fase de integración de datos.|
-| Sprint 3 Velocity               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Sum of Story Points             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Sprint 3 Velocity               |             23                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Sum of Story Points             |              23                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -2380,10 +2380,12 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Frontend:
+Backend:
+
 ![insights_backend.png](assets/TB2/insights_backend.PNG)
 
-Backend:
+Frontend:
+
 ![insights_frontend.png](assets/TB2/insights_frontend.PNG)
 
 ## 5.3. Validation Interviews
@@ -2423,6 +2425,7 @@ Backend:
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
