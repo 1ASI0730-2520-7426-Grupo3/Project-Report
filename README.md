@@ -2313,8 +2313,16 @@ La documentación de los servicios del backend se generó automáticamente y se 
 <br><br>**Además, podemos verificar en el repositorio de GitHub que el archivo de workflow (.yml) se ha creado correctamente y que el despliegue de la aplicación se completó exitosamente.**<br>
 ![Archivo-yml.png](assets/deploy-azure/Archivo-yml.png)
 ![Verificacion-github.png](assets/deploy-azure/Verificacion-github.png)
-
-
+<br><br>**Ahora procedemos a probar la ruta /swagger para verificar que nuestra documentación de la API carga correctamente.**<br>
+![Prueba-swagger.png](assets/deploy-azure/Prueba-swagger.png)
+<br><br>**En Postman, probamos el método GET en el endpoint /api/v1/equipments para verificar que los datos se obtienen correctamente.**<br>
+![Prueba-GET-equipments.png](assets/deploy-azure/Prueba-GET-equipments.png)
+<br><br>**En Postman, probamos el método POST en el endpoint /api/v1/equipments para insertar un nuevo equipo y verificar que la API funcione correctamente.**<br>
+![Prueba-POST-equipments.png](assets/deploy-azure/Prueba-POST-equipments.png)
+<br><br>**Finalmente, nos conectamos a la base de datos remota mediante MySQL Workbench para verificar que los registros insertados desde la API se guardaron correctamente en las tablas.**<br>
+![Verificacion-MySQL.png](assets/deploy-azure/Verificacion-MySQL.png)
+- **URL de la Web API desplegada:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/
+- **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
@@ -2354,6 +2362,7 @@ La documentación de los servicios del backend se generó automáticamente y se 
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
