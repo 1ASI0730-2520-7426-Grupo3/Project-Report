@@ -2297,6 +2297,37 @@ La documentación de los servicios del backend se generó automáticamente y se 
 <br>Documentación del Método DELETE: ELiminar un billing invoice por id<br>
 ![Documentation-GET.png](assets/imagesbillings/delete.png)
 
+Adicionalmente, se documentaron y probaron los endpoints del contexto MaintenanceRequests, encargados de gestionar las solicitudes de mantenimiento asociadas a los equipos. Estos endpoints permiten registrar nuevas solicitudes, consultarlas, actualizar su estado, eliminarlas y filtrarlas según su estado actual.
+
+![maintenanceRequestsController.png](assets/TB2/evidence-maintenance/maintenanceRequestsController.png)
+
+<!-- maintenance requests swagger -->
+<br>Documentación del Método POST: Registro de una nueva solicitud de mantenimiento<br>
+![mRPOST1.png](assets/TB2/evidence-maintenance/mRPOST1.png)
+![mRPOST2.png](assets/TB2/evidence-maintenance/mRPOST2.png)
+
+<br>Documentación del Método GET: Listado de todas las solicitudes de mantenimiento<br>
+![mRGetAll1.png](assets/TB2/evidence-maintenance/mRGetAll1.png)
+![mRGetAll2.png](assets/TB2/evidence-maintenance/mRGetAll2.png)
+
+<br>Documentación del Método GET: Consulta de una solicitud de mantenimiento por ID<br>
+![mRGetXId1.png](assets/TB2/evidence-maintenance/mRGetXId1.png)
+![mRGetXId2.png](assets/TB2/evidence-maintenance/mRGetXId2.png)
+
+<br>Documentación del Método PUT: Actualización del estado de una solicitud de mantenimiento existente<br>
+![mRPUT1.png](assets/TB2/evidence-maintenance/mRPUT1.png)
+![mRPUT2.png](assets/TB2/evidence-maintenance/mRPUT2.png)
+
+<br>Documentación del Método DELETE: Eliminación de una solicitud de mantenimiento del sistema<br>
+![mRDELETE1.png](assets/TB2/evidence-maintenance/mRDELETE1.png)
+![mRDELETE2.png](assets/TB2/evidence-maintenance/mRDELETE2.png)
+
+<br>Documentación del Método GET: Listado de solicitudes de mantenimiento filtradas por estado<br>
+![mRGetStatus1.png](assets/TB2/evidence-maintenance/mRGetStatus1.png)
+![mRGetStatus2.png](assets/TB2/evidence-maintenance/mRGetStatus2.png)
+
+
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 <br>**Primero, hosteamos la base de datos de CoolGym en un servidor remoto.**<br>
 ![Base-Desplegada.png](assets/deploy-azure/Base-Desplegada.png)
