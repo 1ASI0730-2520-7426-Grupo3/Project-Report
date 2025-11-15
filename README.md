@@ -2381,10 +2381,10 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Frontend:
-![insights backend.png](assets/TB2/insights backend.PNG)
+![insights_backend.png](assets/TB2/insights_backend.PNG)
 
 Backend:
-![insights frontend.png](assets/TB2/insights frontend.PNG)
+![insights_frontend.png](assets/TB2/insights_frontend.PNG)
 
 ## 5.3. Validation Interviews
 
@@ -2423,6 +2423,7 @@ Backend:
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
