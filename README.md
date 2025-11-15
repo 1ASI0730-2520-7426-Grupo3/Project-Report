@@ -2144,31 +2144,55 @@ Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.
 
 En este tercer Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|-------------|---------|------------|----------------|----------------------|----------------------|
-| Frontend-Coolgym | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | — | Oct 8, 2025 |
-| Frontend-Coolgym | main | abb4f5a | fix(home): fix routing | — | Oct 8, 2025 |
-| Frontend-Coolgym | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 70780d1 | Merge branch 'develop' into feat/my-machines | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | e84c741 | feat: add my-machines page | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 218bb25 | feat(home): add page not found | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 4abc288 | fix(home): fix routes | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | f58b894 | Merge branch 'develop' into feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | bf0f048 | Merge branch 'develop' into feat/maintenance | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | d00473a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 589b9c6 | feat: add home-customers page | — | Oct 6, 2025 |
-| Frontend-Coolgym | main | 47ae3a7 | feat: Add gym machine rental page | — | Oct 6, 2025 |
-| Frontend-Coolgym | develop | 9827f18 | feat(account-statement): add account statement page | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | a62b794 | fix(db): add database | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 5461376 | feat(maintenance): create maintenance page | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 6474254 | fix(toolbar): delete devtools component | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 844b289 | fix(toolbar): fix subtitle | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | e20389f | feat: add base app structure with contexts and router | — | Oct 3, 2025 |
-| Frontend-Coolgym | develop | 884b869 | Initial commit | — | Oct 2, 2025 |
+Frontend:
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Committed on (Date) |
+|-------------|---------|------------|----------------|---------------------|---------------------|
+| Frontend | main | 884b869 | Initial commit | - | 02/10/2025 |
+| Frontend | main | e20380f | feat: add base app structure with contexts and router | - | 03/10/2025 |
+| Frontend | main | 844b289 | fix(toolbar): fix subtitle | - | 04/10/2025 |
+| Frontend | main | 647f254 | fix(toolbar): delete devtools component | - | 04/10/2025 |
+| Frontend | main | 5461376 | feat(maintenance): create maintenance page | - | 04/10/2025 |
+| Frontend | main | a62b794 | fix(db): add database | - | 04/10/2025 |
+| Frontend | main | 9827f10 | feat(account-statement): add account statement page | - | 04/10/2025 |
+| Frontend | main | 47ae3a7 | feat: Add gym machine rental page | - | 07/10/2025 |
+| Frontend | main | 589b9c6 | feat: add home-customers page | - | 07/10/2025 |
+| Frontend | main | d0d073a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | - | 07/10/2025 |
+| Frontend | main | bf0f0d8 | Merge branch 'develop' into feat/maintenance | - | 07/10/2025 |
+| Frontend | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | - | 07/10/2025 |
+| Frontend | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | - | 07/10/2025 |
+| Frontend | main | f5b8894 | Merge branch 'develop' into feat/home-customers | - | 07/10/2025 |
+| Frontend | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | - | 07/10/2025 |
+| Frontend | main | 4abc208 | fix(home): fix routes | - | 07/10/2025 |
+| Frontend | main | 210bb25 | feat(home): add page not found | - | 07/10/2025 |
+| Frontend | main | e84c741 | feat: add my-machines page | - | 07/10/2025 |
+| Frontend | main | 7070bd1 | Merge branch 'develop' into feat/my-machines | - | 07/10/2025 |
+| Frontend | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | - | 07/10/2025 |
+| Frontend | main | abb4f5a | fix(home): fix routing | - | 08/10/2025 |
+| Frontend | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | - | 08/10/2025 |
 
+Backend:
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|---------|------------|-----------------|----------------------|----------------------|
+| Backend | main | 5b1f365 | Add or update the Azure App Service build and deployment workflow config | - | Nov 14, 2025 |
+| Backend | main | 73d3d5d | feat: add connection to deployed database and new context | - | Nov 14, 2025 |
+| Backend | main | d210b1d | Merge branch 'main' into develop | - | Nov 14, 2025 |
+| Backend | main | 95d9b06 | feat: add connection to deployed database | - | Nov 14, 2025 |
+| Backend | main | 4028282 | feat: refactor code | - | Nov 14, 2025 |
+| Backend | main | 3b5ba46 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feature/maintenance | - | Nov 14, 2025 |
+| Backend | main | 7493358 | Merge branch 'develop' into feature/maintenance | - | Nov 14, 2025 |
+| Backend | main | a4bf0d0 | feat: fix billing invoices bounded context | - | Nov 14, 2025 |
+| Backend | main | 1c07f20 | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feature/billing-invoices | - | Nov 14, 2025 |
+| Backend | main | e3603b7 | Merge branch 'develop' into feature/billing-invoices | - | Nov 14, 2025 |
+| Backend | main | 59f1d25 | feat: add documentation to maintenance bounded context | - | Nov 13, 2025 |
+| Backend | main | fa0f909 | feat: add put and delete in maintenance request bounded context | - | Nov 13, 2025 |
+| Backend | main | 14f87cf | feat: add maintenance request bounded context | - | Nov 13, 2025 |
+| Backend | main | d270ac2 | feat: implement billing invoices bounded context | - | Nov 11, 2025 |
+| Backend | main | 59e6a4b | feat: add swagger documentation v1 | - | Nov 10, 2025 |
+| Backend | main | 4f21b36 | Refactor: updated createdDate | - | Nov 10, 2025 |
+| Backend | main | cca3554 | feat: implement soft delete functionality | - | Nov 10, 2025 |
+| Backend | main | 70e7f8d | refactor: optimize code by adopting primary constructors | - | Nov 10, 2025 |
+| Backend | main | 626252e | feat: implement equipment exceptions | - | Nov 5, 2025 |
+| Backend | main | 28fb615 | feat: add context shared and equipments | - | Oct 30, 2025 |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 **Primero, se ejecuto el backend de manera local.**<br><br>
@@ -2356,6 +2380,12 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Frontend:
+![insights backend.png](assets/TB2/insights backend.PNG)
+
+Backend:
+![insights frontend.png](assets/TB2/insights frontend.PNG)
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -2393,6 +2423,7 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
