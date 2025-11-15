@@ -2191,6 +2191,24 @@ En este tercer Sprint hemos realizado la implementación de nuestra Single Page 
 ![PUT-equipment3.png](assets/evidence-equipments/PUT-equipment3.png)
 <br><br>**PUT del equipo 4**<br><br>
 ![PUT-equipment4.png](assets/evidence-equipments/PUT-equipment4.png)
+
+<!-- billing invoices -->
+<br>**Se ingresaron pagos usando el metodo post.**<br>
+![POST-billing.png](assets/imagesbillings/postman-creational.png)
+
+<br>**Se Procede a listar todos los pagos usando GET.**<br>
+![GET-billing.png](assets/imagesbillings/getall.png)
+
+<br>**Se Procede a eliminar un pago de la db.**<br>
+![DELETE-billing.png](assets/imagesbillings/deleting.png)
+
+<br>**Se procede a actualizar la db de un pago.**<br>
+![PUT-billing.png](assets/imagesbillings/updatePayment.png)
+
+<br>**Se procede a mostrar un antes y despues de la actualizacion de un pago "OBSERVANDO COMO PASA DE NULL A COMPLETARSE CON UNA FECHA EXACTA"**<br>
+![PUT-billing.png](assets/imagesbillings/paymentBefore.png)
+![PUT-billing.png](assets/imagesbillings/paymentThen.png)
+
 <br><br>**Se implementó la configuración CORS en el backend utilizando AddCors para resolver las restricciones de seguridad del navegador.**<br>
 ![Ejecucion-Backend.png](assets/evidence-equipments/Ejecucion-Backend.png)
 <br><br>**Luego, se definio el URL del backend en el frontend y se ejecuto el frontend para verificar que funcionen los datos de los equipos.**<br>
@@ -2268,6 +2286,16 @@ La documentación de los servicios del backend se generó automáticamente y se 
 ![Documentation-DELETE2.png](assets/evidence-equipments/Documentation-DELETE2.png)
 <br>Prueba del Método GET: Listado de Todos los Equipos<br>
 ![Ejecucion-GET.png](assets/evidence-equipments/Ejecucion-GET.png)
+
+<!-- billing invoices swagger -->
+<br>Documentación del Método GET: Listado de Todos los billing invoices<br>
+![Documentation-GET.png](assets/imagesbillings/swaggerall.png)
+
+<br>Documentación del Método GET: Listado de Todos los billing invoices por usuari0<br>
+![Documentation-GET.png](assets/imagesbillings/swagger-billingaget.png)
+
+<br>Documentación del Método DELETE: ELiminar un billing invoice por id<br>
+![Documentation-GET.png](assets/imagesbillings/delete.png)
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
