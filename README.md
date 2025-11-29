@@ -2450,8 +2450,7 @@ Frontend:
 
 
 ##### 5.2.4.4. Development Evidence for Sprint Review
-
-En este tercer Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
+Esta sección reúne la evidencia del trabajo desarrollado durante el sprint, incluyendo commits tanto en el frontend como en el backend, demostrando el avance logrado y el cumplimiento de los objetivos del Sprint.
 
 Frontend:
 
