@@ -1974,30 +1974,58 @@ Durante este Sprint, el equipo completó el despliegue de la Landing Page de la 
 
 En este segundo Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
 
+Frontend:
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |-------------|---------|------------|----------------|----------------------|----------------------|
-| Frontend-Coolgym | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | — | Oct 8, 2025 |
-| Frontend-Coolgym | main | abb4f5a | fix(home): fix routing | — | Oct 8, 2025 |
-| Frontend-Coolgym | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 70780d1 | Merge branch 'develop' into feat/my-machines | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | e84c741 | feat: add my-machines page | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 218bb25 | feat(home): add page not found | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 4abc288 | fix(home): fix routes | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | f58b894 | Merge branch 'develop' into feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | bf0f048 | Merge branch 'develop' into feat/maintenance | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | d00473a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | — | Oct 7, 2025 |
-| Frontend-Coolgym | main | 589b9c6 | feat: add home-customers page | — | Oct 6, 2025 |
-| Frontend-Coolgym | main | 47ae3a7 | feat: Add gym machine rental page | — | Oct 6, 2025 |
-| Frontend-Coolgym | develop | 9827f18 | feat(account-statement): add account statement page | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | a62b794 | fix(db): add database | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 5461376 | feat(maintenance): create maintenance page | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 6474254 | fix(toolbar): delete devtools component | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | 844b289 | fix(toolbar): fix subtitle | — | Oct 4, 2025 |
-| Frontend-Coolgym | develop | e20389f | feat: add base app structure with contexts and router | — | Oct 3, 2025 |
-| Frontend-Coolgym | develop | 884b869 | Initial commit | — | Oct 2, 2025 |
+| Frontend | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | — | Oct 8, 2025 |
+| Frontend | main | abb4f5a | fix(home): fix routing | — | Oct 8, 2025 |
+| Frontend | main | f36572a | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feat/my-machines | — | Oct 7, 2025 |
+| Frontend | main | 70780d1 | Merge branch 'develop' into feat/my-machines | — | Oct 7, 2025 |
+| Frontend | main | e84c741 | feat: add my-machines page | — | Oct 7, 2025 |
+| Frontend | main | 218bb25 | feat(home): add page not found | — | Oct 7, 2025 |
+| Frontend | main | 4abc288 | fix(home): fix routes | — | Oct 7, 2025 |
+| Frontend | main | acd5ec2 | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend | main | f58b894 | Merge branch 'develop' into feat/home-customers | — | Oct 7, 2025 |
+| Frontend | main | fa484c9 | Merge pull request #3 from 1ASI0730-2520-7426-Grupo3/feat/home-customers | — | Oct 7, 2025 |
+| Frontend | main | 6715385 | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feat/maintenance | — | Oct 7, 2025 |
+| Frontend | main | bf0f048 | Merge branch 'develop' into feat/maintenance | — | Oct 7, 2025 |
+| Frontend | main | d00473a | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feat/Rent-Gym-Machine | — | Oct 7, 2025 |
+| Frontend | main | 589b9c6 | feat: add home-customers page | — | Oct 6, 2025 |
+| Frontend | main | 47ae3a7 | feat: Add gym machine rental page | — | Oct 6, 2025 |
+| Frontend | develop | 9827f18 | feat(account-statement): add account statement page | — | Oct 4, 2025 |
+| Frontend | develop | a62b794 | fix(db): add database | — | Oct 4, 2025 |
+| Frontend | develop | 5461376 | feat(maintenance): create maintenance page | — | Oct 4, 2025 |
+| Frontend | develop | 6474254 | fix(toolbar): delete devtools component | — | Oct 4, 2025 |
+| Frontend | develop | 844b289 | fix(toolbar): fix subtitle | — | Oct 4, 2025 |
+| Frontend | develop | e20389f | feat: add base app structure with contexts and router | — | Oct 3, 2025 |
+| Frontend | develop | 884b869 | Initial commit | — | Oct 2, 2025 |
+
+
+Backend:
+
+| Repository | Branch | Commit Id | Commit Message                                                                                          | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|---------------------------------------------------------------------------------------------------------|----------------------|----------------------|
+| Backend    | main   | 5bf1365   | Add or update the Azure App Service build and deployment workflow config                               | —                    | Nov 14, 2025         |
+| Backend    | main   | 73d3d5d   | feat: add connection to deployed database and new context                                              | —                    | Nov 14, 2025         |
+| Backend    | main   | d210b1d   | Merge branch 'main' into develop                                                                       | —                    | Nov 14, 2025         |
+| Backend    | main   | 95d9b06   | feat: add connection to deployed database                                                              | —                    | Nov 14, 2025         |
+| Backend    | main   | 4022822   | feat: refactor code                                                                                    | —                    | Nov 14, 2025         |
+| Backend    | main   | 3b5ba46   | Merge pull request #2 from 1ASI0730-2520-7426-Grupo3/feature/maintenance                               | —                    | Nov 14, 2025         |
+| Backend    | main   | 7493358   | Merge branch 'develop' into feature/maintenance                                                        | —                    | Nov 14, 2025         |
+| Backend    | main   | a4bf0d0   | feat: fix billing invoices bounded context                                                             | —                    | Nov 14, 2025         |
+| Backend    | main   | 1c07720   | Merge pull request #1 from 1ASI0730-2520-7426-Grupo3/feature/billing-invoices                          | —                    | Nov 14, 2025         |
+| Backend    | main   | e3603b7   | Merge branch 'develop' into feature/billing-invoices                                                   | —                    | Nov 14, 2025         |
+| Backend    | main   | 59f1d25   | feat: add documentation to maintenance bounded context                                                 | —                    | Nov 14, 2025         |
+| Backend    | main   | fa0f909   | feat: add put and delete in maintenance request bounded context                                        | —                    | Nov 13, 2025         |
+| Backend    | main   | 14f87cf   | feat: add maintenance request bounded context                                                          | —                    | Nov 13, 2025         |
+| Backend    | main   | d270ac2   | feat: implement billing invoices bounded context                                                       | —                    | Nov 11, 2025         |
+| Backend    | main   | 59e6a4b   | feat: add swagger documentation v1                                                                     | —                    | Nov 10, 2025         |
+| Backend    | main   | 4f21b36   | Refactor: updated createdDate                                                                          | —                    | Nov 10, 2025         |
+| Backend    | main   | cca3554   | feat: implement soft delete functionality                                                              | —                    | Nov 10, 2025         |
+| Backend    | main   | 70e7f8d   | refactor: optimize code by adopting primary constructors                                               | —                    | Nov 10, 2025         |
+| Backend    | main   | 626525e   | feat: implement equipment exceptions                                                                   | —                    | Nov 5, 2025          |
+| Backend    | main   | 28fb615   | feat: add context shared and equipments                                                                | —                    | Oct 30, 2025         |
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
@@ -2388,6 +2416,235 @@ Frontend:
 
 ![insights_frontend.png](assets/TB2/insights_frontend.PNG)
 
+### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                        | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |
+| Date                            | 17/11/2025                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Time                            | 1:45 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Location                        | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Prepared By                     | Ponce Perales, Alberto Alejandro                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Attendees (to planning meeting) | Ponce Perales, Alberto Alejandro<br> Villogas Medina, Oliver Paul<br> Aliaga Urbina, Wilder Gonzalo<br> Ventosilla Trujillo, Anderson Ricardo                                                                                                                                                                                                                                                                                                          |
+| Sprint 3 Review Summary         | Durante este sprint, el equipo consolidó la entrega completa del dominio Equipments, incluyendo su lógica de negocio, validaciones, servicios y endpoints, todos verificados mediante pruebas en Swagger. Paralelamente, se avanzó en la estructura base y primeros servicios de los nuevos dominios de negocio: Maintenance y Billing Invoices.                                                                                                       |
+| Sprint 3 Retrospective Summary  | El equipo destacó que la comunicación y la colaboración fueron muy fluidas, lo que permitió cumplir con los compromisos del sprint y asegurar la correcta integración entre backend y frontend. Sin embargo, se identificó como punto de mejora la necesidad de reservar tiempo suficiente para la fase de diseño técnico, especialmente en los nuevos dominios, ya que parte de la complejidad se subestimó.                                          |
+| Sprint Goal & User Stories      |
+| Sprint 3 Goal                   | Finalizar las funcionalidades restantes del backend y frontend, incorporando mayor complejidad de lógica en todos los dominios, completando la internacionalización (i18n) tanto en backend como en frontend, y entregando las nuevas aplicaciones completas para Proveedores y Clientes. Asimismo, consolidar la integración total con el backend y realizar el deployment final de todos los servicios para dar por concluida la aplicación CoolGym. |
+| Sprint 3 Velocity               | 23                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Sum of Story Points             | 23                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member                                         | GitHub Username | Backend | Frontend | Documentación |
+|-----------------------------------------------|-----------------|---------|----------|---------------|
+| Ponce Perales, Alberto Alejandro | aponceperales   | C       | L        | C             |
+| Villogas Medina, Oliver Paul | OliverVillogas   | L       | C        | C             |
+| Aliaga Urbina, Wilder Gonzalo| gonzalo1905   | L       | C        | C             |
+| Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C       | L        | C             |
+
+
+##### 5.2.4.3. Sprint Backlog 4
+
+
+
+
+##### 5.2.4.4. Development Evidence for Sprint Review
+
+En este tercer Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
+
+Frontend:
+
+
+Backend:
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+**Primero, se ejecuto el backend de manera local.**<br><br>
+![EjecucionBackend-Postman.png](assets/evidence-equipments/EjecucionBackend-Postman.png)
+<br>**Luego, se ingresaron datos de los equipos de gimnasio usando POST.**<br>
+<br>**POST del equipo 1**<br><br>
+![POST-equipment1.png](assets/evidence-equipments/POST-equipment1.png)
+<br><br>**POST del equipo 2**<br><br>
+![POST-equipment2.png](assets/evidence-equipments/POST-equipment2.png)
+<br><br>**POST del equipo 3**<br><br>
+![POST-equipment3.png](assets/evidence-equipments/POST-equipment3.png)
+<br><br>**POST del equipo 4**<br><br>
+![POST-equipment4.png](assets/evidence-equipments/POST-equipment4.png)
+<br><br>**Además, se actualizaron algunos datos de los equipos de gimnasio usando PUT para tener datos similares a los que teniamos en el db.json del frontend.**<br>
+<br>**PUT del equipo 1**<br><br>
+![PUT-equipment1.png](assets/evidence-equipments/PUT-equipment1.png)
+<br><br>**PUT del equipo 2**<br><br>
+![PUT-equipment2.png](assets/evidence-equipments/PUT-equipment2.png)
+<br><br>**PUT del equipo 3**<br><br>
+![PUT-equipment3.png](assets/evidence-equipments/PUT-equipment3.png)
+<br><br>**PUT del equipo 4**<br><br>
+![PUT-equipment4.png](assets/evidence-equipments/PUT-equipment4.png)
+
+<!-- billing invoices -->
+<br>**Se ingresaron pagos usando el metodo post.**<br>
+![POST-billing.png](assets/imagesbillings/postman-creational.png)
+
+<br>**Se Procede a listar todos los pagos usando GET.**<br>
+![GET-billing.png](assets/imagesbillings/getall.png)
+
+<br>**Se Procede a eliminar un pago de la db.**<br>
+![DELETE-billing.png](assets/imagesbillings/deleting.png)
+
+<br>**Se procede a actualizar la db de un pago.**<br>
+![PUT-billing.png](assets/imagesbillings/updatePayment.png)
+
+<br>**Se procede a mostrar un antes y despues de la actualizacion de un pago "OBSERVANDO COMO PASA DE NULL A COMPLETARSE CON UNA FECHA EXACTA"**<br>
+![PUT-billing.png](assets/imagesbillings/paymentBefore.png)
+![PUT-billing.png](assets/imagesbillings/paymentThen.png)
+
+<br><br>**Se implementó la configuración CORS en el backend utilizando AddCors para resolver las restricciones de seguridad del navegador.**<br>
+![Ejecucion-Backend.png](assets/evidence-equipments/Ejecucion-Backend.png)
+<br><br>**Luego, se definio el URL del backend en el frontend y se ejecuto el frontend para verificar que funcionen los datos de los equipos.**<br>
+![Ejecucion-Frontend.png](assets/evidence-equipments/Ejecucion-Frontend.png)
+<br><br>**Prueba exitosa de carga de datos de equipos en Home Page del frontend.**<br>
+
+FALTA IMAGEN
+
+<br><br>**Prueba exitosa de carga de datos de equipos en My Machines Page del frontend.**<br>
+![Mymachines.png](assets/evidence-equipments/Mymachines.png)
+<br><br>**Prueba exitosa de carga de datos de equipos en Machine Controls del frontend.**<br>
+![MachineControls1.png](assets/evidence-equipments/MachineControls1.png)
+<br><br>**Se ingresaron algunos datos de equipos para pruebas de validación.**<br>
+<br>**POST del equipo 5**<br><br>
+![POST-equipment5.png](assets/evidence-equipments/POST-equipment5.png)
+<br>**PUT del equipo 5 para encender el equipo.**<br><br>
+![PUT-equipment5.png](assets/evidence-equipments/PUT-equipment5.png)
+<br>**POST del equipo 6**<br><br>
+![POST-equipment6.png](assets/evidence-equipments/POST-equipment6.png)
+<br>**PUT del equipo 6 para cambiar su estado a mantenimiento.**<br><br>
+![PUT-equipment6.png](assets/evidence-equipments/PUT-equipment6.png)
+<br>**POST del equipo 7 lo crea apagado por defecto.**<br><br>
+![POST-equipment7.png](assets/evidence-equipments/POST-equipment7.png)
+<br>**Se intenta borrar el equipo 5 usando DELETE pero no se puede borrar un equipo encendido.**<br><br>
+![DELETE-encendido.png](assets/evidence-equipments/DELETE-encendido.png)
+<br>**Se intenta borrar el equipo 6 usando DELETE pero no se puede borrar un equipo con estado en mantenimiento.**<br><br>
+![DELETE-mantenimiento.png](assets/evidence-equipments/DELETE-mantenimiento.png)
+<br>**Se intenta borrar el equipo 7 usando DELETE y como no tiene ninguna restricción se borra exitosamente.**<br><br>
+![DELETE-exitoso.png](assets/evidence-equipments/DELETE-exitoso.png)
+<br>**Se verifica en la base de datos que se este aplicando el Soft Delete correctamente con el equipo 7.**<br><br>
+![Validacion-DELETE.png](assets/evidence-equipments/Validacion-DELETE.png)
+<br>**Probamos el GET equipments para validar que solo me devuelva las otros 6 equipos registrados.**<br><br>
+![GET-equipments.png](assets/evidence-equipments/GET-equipments.png)
+<br>**Probamos el GET equipments/7 para validar que no me devuelva información del equipo 7.**<br><br>
+![GET-equipment7.png](assets/evidence-equipments/GET-equipment7.png)
+<br>**Se intenta borrar el equipo 7 usando DELETE nuevamente y como ya fue borrado no deberia funcionar.**<br><br>
+![DELETE2-equipment7.png](assets/evidence-equipments/DELETE2-equipment7.png)
+<br>**Se realizan consultas básicas sobre la tabla equipments para validar que el backend este integrado correctamente a la base de datos coolgym-db.**<br><br>
+![basedatos-coolgym.png](assets/evidence-equipments/basedatos-coolgym.png)
+<br>**Verificamos en la base de datos que se este aplicando el Soft Delete correctamente con todos los equipos.**<br><br>
+![basedatos-softdelete.png](assets/evidence-equipments/basedatos-softdelete.png)
+<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa con un SerialNumber ya existente no debería crearlo.**<br><br>
+![POST-errorserialnumber.png](assets/evidence-equipments/POST-errorserialnumber.png)
+<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa sin un locationName no debería crearlo.**<br><br>
+![POST-errorlocation.png](assets/evidence-equipments/POST-errorlocation.png)
+<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el locationName no permite actualizarlo.**<br><br>
+![PUT-locationvacio.png](assets/evidence-equipments/PUT-locationvacio.png)
+<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el status no permite actualizarlo.**<br><br>
+![PUT-statusvacio.png](assets/evidence-equipments/PUT-statusvacio.png)
+<br>**Prueba del GET/type que me permite filtrar los equipos por su tipo.**<br><br>
+![GET-type.png](assets/evidence-equipments/GET-type.png)
+<br>**Prueba del GET/status que me permite filtrar los equipos según su estado.**<br><br>
+![GET-status.png](assets/evidence-equipments/GET-status.png)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la primera versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints relacionados con la gestión de Equipments desarrollados en este sprint. <br><br>
+![CoolGymAPIv1.png](assets/TF/CoolGymAPIv1.png)
+
+
+Equipments
+
+![eq.png](assets/TF/eq.png)
+
+<br>Documentación del Método GET: Listado de Todos los Equipos<br>
+![e1.png](assets/TF/e1.png)
+
+<br>Documentación del Método GET: Consulta de Equipo por ID<br>
+![e2.png](assets/TF/e2.png)
+
+<br>Documentación del Método GET: Consulta de Equipos por Tipo<br>
+![e3.png](assets/TF/e3.png)
+
+<br>Documentación del Método GET: Consulta de Equipos por Estado Operativo<br>
+![e4.png](assets/TF/e4.png)
+
+<br>Documentación del Método POST: Creación de un Nuevo Equipo<br>
+![e5.png](assets/TF/e5.png)
+
+<br>Documentación del Método PUT: Actualización de la Información de un Equipo<br>
+![e6.png](assets/TF/e6.png)
+
+<br>Documentación del Método DELETE: Eliminación Lógica (Soft Delete) de un Equipo<br>
+![e7.png](assets/TF/e7.png)
+
+
+Billing Invoices
+
+![bi.png](assets/TF/bi.png)
+
+<br>Documentación del Método GET: Listado de Todos los billing invoices por usuario<br>
+![bi1.png](assets/TF/bi1.png)
+
+<br>Documentación del Método POST: Crea un nuevo billing invoice<br>
+![bi2.png](assets/TF/bi2.png)
+
+<br>Documentación del Método POST: Listar un billing invoice por su id<br>
+![bi3.png](assets/TF/bi3.png)
+
+<br>Documentación del Método GET: Listado de Todos los billing invoices en el sistema<br>
+![bi4.png](assets/TF/bi4.png)
+
+<br>Documentación del Método DELETE: ELiminar un billing invoice por id<br>
+![bi5.png](assets/TF/bi5.png)
+
+<br>Documentación del Método PUT: Marcar un billing invoice como pagado<br>
+![bi6.png](assets/TF/bi6.png)
+
+Adicionalmente, se documentaron y probaron los endpoints del contexto MaintenanceRequests, encargados de gestionar las solicitudes de mantenimiento asociadas a los equipos. Estos endpoints permiten registrar nuevas solicitudes, consultarlas, actualizar su estado, eliminarlas y filtrarlas según su estado actual.
+
+
+![mr.png](assets/TF/mr.png)
+
+<!-- maintenance requests swagger -->
+<br>Documentación del Método POST: Registro de una nueva solicitud de mantenimiento<br>
+![mr1.png](assets/TF/mr1.png)
+
+<br>Documentación del Método GET: Listado de todas las solicitudes de mantenimiento<br>
+![mr2.png](assets/TF/mr2.png)
+
+<br>Documentación del Método GET: Consulta de una solicitud de mantenimiento por ID<br>
+![mr3.png](assets/TF/mr3.png)
+
+<br>Documentación del Método PUT: Actualización del estado de una solicitud de mantenimiento existente<br>
+![mr41.png](assets/TF/mr41.png)
+![mr42.png](assets/TF/mr42.png)
+<br>Documentación del Método DELETE: Eliminación de una solicitud de mantenimiento del sistema<br>
+![mr5.png](assets/TF/mr5.png)
+
+<br>Documentación del Método GET: Listado de solicitudes de mantenimiento filtradas por estado<br>
+![mr6.png](assets/TF/mr6.png)
+
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+
+
+- **URL de la Web API desplegada:** 
+- **Documentación Swagger:** 
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -2397,6 +2654,15 @@ Frontend:
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                   |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | Se presenta una visión general del modelo de negocio de CoolGym junto con sus características principales. Además, se ofrece un recorrido por la aplicación mostrando las funcionalidades y acciones disponibles para el usuario. |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                              |
+| **Cuadro de Video Representativo**   | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                  |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                                                                     |
+
+
 
 ## Conclusiones
 
@@ -2408,6 +2674,16 @@ Frontend:
 - Se demostró una notable madurez ágil, reflejada en la aplicación de acciones concretas de mejora y un aumento constante de la velocidad del equipo (de 20 a 23 story points).
 - Se priorizó el desarrollo de un frontend navegable y funcional, lo que resultó un acierto para acelerar la validación temprana del producto y la obtención de feedback.
 - Se estableció una estructura de equipo con liderazgo definido, asegurando la consistencia y calidad en áreas críticas (Diseño y Documentación), lo que facilitó la ejecución organizada.
+
+## Video About-the-Team
+
+| **Sección**                          | **Descripción**                                                                                                                                                                     |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | En este video, cada miembro del equipo explica sus logros obtenidos con el curso, los outcomes alcanzados y las habilidades que desarrolló durante el proyecto CoolGym.             |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido del proveedor <br> **00:06:32**: Cierre y conclusiones |
+| **Cuadro de Video Representativo**   | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                                    |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                       |
+
 
 ## Bibliografía 
 
