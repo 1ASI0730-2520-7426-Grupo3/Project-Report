@@ -2625,102 +2625,52 @@ Backend:
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 **Primero, se ejecuto el backend de manera local.**<br><br>
-![EjecucionBackend-Postman.png](assets/evidence-equipments/EjecucionBackend-Postman.png)
-<br>**Luego, se ingresaron datos de los equipos de gimnasio usando POST.**<br>
-<br>**POST del equipo 1**<br><br>
-![POST-equipment1.png](assets/evidence-equipments/POST-equipment1.png)
-<br><br>**POST del equipo 2**<br><br>
-![POST-equipment2.png](assets/evidence-equipments/POST-equipment2.png)
-<br><br>**POST del equipo 3**<br><br>
-![POST-equipment3.png](assets/evidence-equipments/POST-equipment3.png)
-<br><br>**POST del equipo 4**<br><br>
-![POST-equipment4.png](assets/evidence-equipments/POST-equipment4.png)
-<br><br>**Además, se actualizaron algunos datos de los equipos de gimnasio usando PUT para tener datos similares a los que teniamos en el db.json del frontend.**<br>
-<br>**PUT del equipo 1**<br><br>
-![PUT-equipment1.png](assets/evidence-equipments/PUT-equipment1.png)
-<br><br>**PUT del equipo 2**<br><br>
-![PUT-equipment2.png](assets/evidence-equipments/PUT-equipment2.png)
-<br><br>**PUT del equipo 3**<br><br>
-![PUT-equipment3.png](assets/evidence-equipments/PUT-equipment3.png)
-<br><br>**PUT del equipo 4**<br><br>
-![PUT-equipment4.png](assets/evidence-equipments/PUT-equipment4.png)
+![Backend-local.png](assets/evidence-equipments/Backend-local.png)
+<br>**En el Postman se procede a crear un usuario cliente.**<br>
+![POST-register.png](assets/evidence-equipments/POST-register.png)
+<br><br>**Luego, nos logueamos con dicho usuario para obtener el accessToken.**<br><br>
+![POST-login.png](assets/evidence-equipments/POST-login.png)
+<br><br>**Para crear un nuevo equipo debemos ingresar en el Header la llave Authorization con su respectivo accessToken.**<br><br>
+![Authorization.png](assets/evidence-equipments/Authorization.png)
+<br><br>**Ahora si podremos crear al equipo exitosamente.**<br><br>
+![POST-EquipmentClient.png](assets/evidence-equipments/POST-EquipmentClient.png)
+<br><br>**De la misma forma, ingresamos en el Header la llave Authorization con su respectivo accessToken para crear un nuevo mantenimiento y una nueva factura.**<br>
+![Authorization-Maintence.png](assets/evidence-equipments/Authorization-Maintence.png)
+![POST-Maintence.png](assets/evidence-equipments/POST-Maintence.png)
+![Authorization-Billing.png](assets/evidence-equipments/Authorization-Billing.png)
+![POST-Billing.png](assets/evidence-equipments/POST-Billing.png)
+<br><br>**Luego, se ejecuto el frontend de manera local.**<br>
+![Frontend-local.png](assets/evidence-equipments/Frontend-local.png)
+<br><br>**Y lo primero que nos aparece es la sección de seleccionar el tipo de usuario.**<br>
+![Page-Inicial.png](assets/evidence-equipments/Page-Inicial.png)
+<br><br>**Ingresamos como cliente y nos logueamos con el usuario creado en el Postman.**<br>
+![Login-Client.png](assets/evidence-equipments/Login-Client.png)
+<br><br>**Logramos ingresar correctamente y nos encontramos ahora en la sección Home para clientes.**<br>
+![Home-Client.png](assets/evidence-equipments/Home-Client.png)
+<br><br>**Ahora podemos ingresar a la sección My Machines donde apareceran todas las máquinas registradas por el cliente.**<br>
+![MyMachines-Client.png](assets/evidence-equipments/MyMachines-Client.png)
+<br>**Luego, ingresando a control del equipo ingresamos a la sección Machine Controls.**<br><br>
+![MachineControls-Client.png](assets/evidence-equipments/MachineControls-Client.png)
+<br>**También, en la sección My Machines podemos agregar nuevos equipos.**<br><br>
+![AddEquipment-Client.png](assets/evidence-equipments/AddEquipment-Client.png)
+![Equipment2-Client.png](assets/evidence-equipments/Equipment2-Client.png)
+<br>**En la sección Rent se muestran las máquinas disponibles para alquilar.**<br><br>
+![Rent-Client.png](assets/evidence-equipments/Rent-Client.png)
+<br>**En la sección Billing se muestran las facturas pagadas o por pagar.**<br><br>
+![Account-Client.png](assets/evidence-equipments/Account-Client.png)
+<br>**En la sección Maintenance se pueden solicitar nuevos mantenimientos para los equipos que tiene registrado el cliente.**<br><br>
+![Maintence-Client.png](assets/evidence-equipments/Maintence-Client.png)
+<br>**También, desde la página inicial podemos registrar nuevos usuarios, en este caso registraremos un usuario proveedor.**<br><br>
+![Register-Provider.png](assets/evidence-equipments/Register-Provider.png)
+<br>**Luego, ingresamos como proveedor a la sección Home para proveedores.**<br><br>
+![Home-Provider.png](assets/evidence-equipments/Home-Provider.png)
 
-<!-- billing invoices -->
-<br>**Se ingresaron pagos usando el metodo post.**<br>
-![POST-billing.png](assets/imagesbillings/postman-creational.png)
 
-<br>**Se Procede a listar todos los pagos usando GET.**<br>
-![GET-billing.png](assets/imagesbillings/getall.png)
-
-<br>**Se Procede a eliminar un pago de la db.**<br>
-![DELETE-billing.png](assets/imagesbillings/deleting.png)
-
-<br>**Se procede a actualizar la db de un pago.**<br>
-![PUT-billing.png](assets/imagesbillings/updatePayment.png)
-
-<br>**Se procede a mostrar un antes y despues de la actualizacion de un pago "OBSERVANDO COMO PASA DE NULL A COMPLETARSE CON UNA FECHA EXACTA"**<br>
-![PUT-billing.png](assets/imagesbillings/paymentBefore.png)
-![PUT-billing.png](assets/imagesbillings/paymentThen.png)
-
-<br><br>**Se implementó la configuración CORS en el backend utilizando AddCors para resolver las restricciones de seguridad del navegador.**<br>
-![Ejecucion-Backend.png](assets/evidence-equipments/Ejecucion-Backend.png)
-<br><br>**Luego, se definio el URL del backend en el frontend y se ejecuto el frontend para verificar que funcionen los datos de los equipos.**<br>
-![Ejecucion-Frontend.png](assets/evidence-equipments/Ejecucion-Frontend.png)
-<br><br>**Prueba exitosa de carga de datos de equipos en Home Page del frontend.**<br>
-
-FALTA IMAGEN
-
-<br><br>**Prueba exitosa de carga de datos de equipos en My Machines Page del frontend.**<br>
-![Mymachines.png](assets/evidence-equipments/Mymachines.png)
-<br><br>**Prueba exitosa de carga de datos de equipos en Machine Controls del frontend.**<br>
-![MachineControls1.png](assets/evidence-equipments/MachineControls1.png)
-<br><br>**Se ingresaron algunos datos de equipos para pruebas de validación.**<br>
-<br>**POST del equipo 5**<br><br>
-![POST-equipment5.png](assets/evidence-equipments/POST-equipment5.png)
-<br>**PUT del equipo 5 para encender el equipo.**<br><br>
-![PUT-equipment5.png](assets/evidence-equipments/PUT-equipment5.png)
-<br>**POST del equipo 6**<br><br>
-![POST-equipment6.png](assets/evidence-equipments/POST-equipment6.png)
-<br>**PUT del equipo 6 para cambiar su estado a mantenimiento.**<br><br>
-![PUT-equipment6.png](assets/evidence-equipments/PUT-equipment6.png)
-<br>**POST del equipo 7 lo crea apagado por defecto.**<br><br>
-![POST-equipment7.png](assets/evidence-equipments/POST-equipment7.png)
-<br>**Se intenta borrar el equipo 5 usando DELETE pero no se puede borrar un equipo encendido.**<br><br>
-![DELETE-encendido.png](assets/evidence-equipments/DELETE-encendido.png)
-<br>**Se intenta borrar el equipo 6 usando DELETE pero no se puede borrar un equipo con estado en mantenimiento.**<br><br>
-![DELETE-mantenimiento.png](assets/evidence-equipments/DELETE-mantenimiento.png)
-<br>**Se intenta borrar el equipo 7 usando DELETE y como no tiene ninguna restricción se borra exitosamente.**<br><br>
-![DELETE-exitoso.png](assets/evidence-equipments/DELETE-exitoso.png)
-<br>**Se verifica en la base de datos que se este aplicando el Soft Delete correctamente con el equipo 7.**<br><br>
-![Validacion-DELETE.png](assets/evidence-equipments/Validacion-DELETE.png)
-<br>**Probamos el GET equipments para validar que solo me devuelva las otros 6 equipos registrados.**<br><br>
-![GET-equipments.png](assets/evidence-equipments/GET-equipments.png)
-<br>**Probamos el GET equipments/7 para validar que no me devuelva información del equipo 7.**<br><br>
-![GET-equipment7.png](assets/evidence-equipments/GET-equipment7.png)
-<br>**Se intenta borrar el equipo 7 usando DELETE nuevamente y como ya fue borrado no deberia funcionar.**<br><br>
-![DELETE2-equipment7.png](assets/evidence-equipments/DELETE2-equipment7.png)
-<br>**Se realizan consultas básicas sobre la tabla equipments para validar que el backend este integrado correctamente a la base de datos coolgym-db.**<br><br>
-![basedatos-coolgym.png](assets/evidence-equipments/basedatos-coolgym.png)
-<br>**Verificamos en la base de datos que se este aplicando el Soft Delete correctamente con todos los equipos.**<br><br>
-![basedatos-softdelete.png](assets/evidence-equipments/basedatos-softdelete.png)
-<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa con un SerialNumber ya existente no debería crearlo.**<br><br>
-![POST-errorserialnumber.png](assets/evidence-equipments/POST-errorserialnumber.png)
-<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa sin un locationName no debería crearlo.**<br><br>
-![POST-errorlocation.png](assets/evidence-equipments/POST-errorlocation.png)
-<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el locationName no permite actualizarlo.**<br><br>
-![PUT-locationvacio.png](assets/evidence-equipments/PUT-locationvacio.png)
-<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el status no permite actualizarlo.**<br><br>
-![PUT-statusvacio.png](assets/evidence-equipments/PUT-statusvacio.png)
-<br>**Prueba del GET/type que me permite filtrar los equipos por su tipo.**<br><br>
-![GET-type.png](assets/evidence-equipments/GET-type.png)
-<br>**Prueba del GET/status que me permite filtrar los equipos según su estado.**<br><br>
-![GET-status.png](assets/evidence-equipments/GET-status.png)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la segunda versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints con su correcta documentación en inglés. <br><br>
 ![CoolGymAPIv1.png](assets/TF/CoolGymAPIv1.png)
-
 
 Equipments
 
@@ -2797,14 +2747,13 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>**Verificamos el despliegue continuo del backend con Azure.**<br>
 
+<br><br>**Verificamos el despliegue del frontend.**<br>
 
-
-
-
-- **URL de la Web API desplegada:** 
-- **Documentación Swagger:** 
-
+- **URL de la Web API desplegada:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/
+- **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
+- **URL del frontend desplegado:** 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
@@ -2865,6 +2814,7 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
