@@ -2755,10 +2755,23 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 ![Login-UserClient.png](assets/deploy-azure/Login-UserClient.png)
 ![Post-EquipmentV2.png](assets/deploy-azure/Post-EquipmentV2.png)
 <br><br>**Verificamos el despliegue del frontend.**<br>
+- **URL del frontend desplegado (Vercel):** https://frontend-coolgym-tf.vercel.app/
+
+<br>**Evidencias del despliegue del frontend en Vercel.**<br>
+
+![Frontend-Vercel.png](assets/deploy-front/deployment-frontentd.png)  
+![Frontend-Home-dashboard.png](assets/deploy-front/deploy-front2.png)  
+![Frontend-forms.png](assets/deploy-front/deploy-fronturl.png)
+
+- El frontend se configuró y desplegó en **Vercel**, enlazando el repositorio correspondiente del proyecto.
+- Se configuraron las variables de entorno necesarias para que el frontend consuma la **Web API ya desplegada en Azure** (ver sección anterior).
+- Se verificó que, al acceder a la URL pública de Vercel, la aplicación carga correctamente (pantalla de inicio / login).
+- Se comprobó que las vistas principales (logueo de usuario y gestión de equipos) funcionan correctamente consumiendo los endpoints remotos del backend.
+
 
 - **URL de la Web API desplegada:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/
 - **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
-- **URL del frontend desplegado:** 
+- **URL del frontend desplegado:** https://frontend-coolgym-tf.vercel.app/
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
