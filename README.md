@@ -2618,6 +2618,8 @@ Frontend:
 ##### 5.2.4.4. Development Evidence for Sprint Review
 Esta sección reúne la evidencia del trabajo desarrollado durante el sprint, incluyendo commits tanto en el frontend como en el backend, demostrando el avance logrado y el cumplimiento de los objetivos del Sprint.
 
+1
+
 Frontend:
 
 
@@ -2842,12 +2844,12 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 ## 5.6 Video About-the-Team
 
-| **Sección**                          | **Descripción**                                                                                                                                                                     |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Resumen del Video**                | En este video, cada miembro del equipo explica sus logros obtenidos con el curso, los outcomes alcanzados y las habilidades que desarrolló durante el proyecto CoolGym.             |
-| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido del proveedor <br> **00:06:32**: Cierre y conclusiones |
-| **Cuadro de Video Representativo**   | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                                    |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                       |
+| **Sección**                          | **Descripción**                                                                                                                                                               |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | En este video, cada miembro del equipo explica sus logros obtenidos con el curso, los outcomes alcanzados y las habilidades que desarrolló durante el proyecto CoolGym.       |
+| **Pauta de Secuencias de Contenido** | **00:00:00**:  Testimonio  <br> **00:00:10**:  Testimonio <br> **00:01:08**:  Testimonio <br> **00:03:45**:  Testimonio |
+| **Imagen**                           | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                              |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                 |
 
 
 ## 5.7 Bibliografía 
