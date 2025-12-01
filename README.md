@@ -56,7 +56,7 @@
 | 1.0         | 17/09/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson Ventosilla <br> - Juan Saldaña <br> - Wilder Gonzalo Aliaga Urbina | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
 | 2.0         | 08/10/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson Ventosilla <br> - Juan Saldaña <br> - Wilder Gonzalo Aliaga Urbina | Actualizamos el reporte con los avances y trabajamos en el desarrollo de la aplicación frontend. Además, elaboramos el capítulo 5 y actualizamos nuevamente el reporte. |
 | 3.0         | 12/11/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson Ventosilla <br> - Juan Saldaña <br> - Wilder Gonzalo Aliaga Urbina | Actualizamos el reporte incluyendo los puntos 5.2.3. Sprint 3, 5.3. Validation Interviews, 5.4. Video About-the-Product y nos enfocamos en actualizar nuestro frontend y en avanzar la parte principal de nuestro backend. |
-
+| 4.0         | 02/12/2025 | - Alberto Alejandro Ponce Perales <br> - Oliver Paul Villogas Medina  <br> - Anderson Ventosilla  <br> - Wilder Gonzalo Aliaga Urbina | Se levantaron todas las observaciones y se completo la documentación del reporte. |
 ---
 # Project Report Collaboration Insights
 
@@ -246,8 +246,8 @@ Backend:
 
 | **Criterio Específico** | **Acciones Realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Conclusiones**  |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas**<br>TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables. TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. TB2: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de mi nueva page del frontend y de mi avance significativo del backend. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, colaborando con el equipo en la integración de estos artefactos.<br>**Juan**<br>TB1: asdasdasdasd.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. <br>TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend. <br> TB2: Colaboré con el equipo de frontend implementando y ajustando la pantalla de inicio para los providers, asegurando su correcta comunicación con los microservicios y documentando los servicios de mi bundle context para facilitar el trabajo del equipo y las pruebas end-to-end. <br> TF:<br>  Implementé la complejidad del backend en los bounded contexts Billing Invoices y Maintenance Requests, coordinando con el equipo para asegurar su integración correcta y documentando cada servicio para facilitar las pruebas y la colaboración entre contextos. | El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final.|
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos. TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls. TB2: Colaboré activamente con mis compañeros, cumplí con la realización de mi nueva page del frontend y realice un avance significativo del backend realizando el contexto shared, el contexto de equipments y las pruebas de integración del backend en el frontend.<br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones. <br>**Juan**<br>TB1: asdasd. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.<br> TB2: Elaboré y mantuve la documentación de los microservicios de mi bounded context, detallando flujos, contratos y ejemplos de consumo, lo que facilitó la colaboración entre contextos y permitió alcanzar las metas de integración y despliegue dentro de los plazos establecidos. <br> TF:<br>     Desarrollé la internacionalización (i18n) del backend y mantuve la documentación técnica de los nuevos servicios, apoyando al equipo en la planificación y cumplimiento de objetivos del sprint mediante entregas claras y alineadas a las metas del proyecto.                                                                                                                             | El equipo generó un entorno colaborativo e inclusivo, planificando tareas conherramientas digitales, estableciendo metas claras y cumpliendo los objetivos mediante la organización, la comunicación constante y la entrega oportuna de los artefactos del proyecto.|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas** <br> TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables.<br> TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. <br> TB2: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de mi nueva page del frontend y de mi avance significativo del backend.<br> TF: Apoyé en el desarrollo de la complejidad del backend del context Equipments, en la internacionalización del backend y en la integración del frontend con el backend coordinando con el equipo para asegurar su correcta implementación. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, además colaborando con el equipo en la integración de estos artefactos.<br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. <br>TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend. <br> TB2: Colaboré con el equipo de frontend implementando y ajustando la pantalla de inicio para los providers, asegurando su correcta comunicación con los microservicios y documentando los servicios de mi bundle context para facilitar el trabajo del equipo y las pruebas end-to-end. <br> TF:<br>  Implementé la complejidad del backend en los bounded contexts Billing Invoices y Maintenance Requests, coordinando con el equipo para asegurar su integración correcta y documentando cada servicio para facilitar las pruebas y la colaboración entre contextos. | El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final.|
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos.<br> TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls. <br> TB2: Colaboré activamente con mis compañeros, cumplí con la realización de mi nueva page del frontend y realice un avance significativo del backend realizando el contexto shared, el contexto de equipments y las pruebas de integración del backend en el frontend. <br> TF: Colaboré activamente con mis compañeros, apoye en la internacionalización (i18n) del backend, en el correcto despliegue del backend y en la integración entre el backend y frontend. <br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones.<br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.<br> TB2: Elaboré y mantuve la documentación de los microservicios de mi bounded context, detallando flujos, contratos y ejemplos de consumo, lo que facilitó la colaboración entre contextos y permitió alcanzar las metas de integración y despliegue dentro de los plazos establecidos. <br> TF:<br>     Desarrollé la internacionalización (i18n) del backend y mantuve la documentación técnica de los nuevos servicios, apoyando al equipo en la planificación y cumplimiento de objetivos del sprint mediante entregas claras y alineadas a las metas del proyecto.                                                                                                                             | El equipo generó un entorno colaborativo e inclusivo, planificando tareas conherramientas digitales, estableciendo metas claras y cumpliendo los objetivos mediante la organización, la comunicación constante y la entrega oportuna de los artefactos del proyecto.|
 
 ---
 
@@ -2524,7 +2524,6 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 <br>Documentación del Método GET: Listado de solicitudes de mantenimiento filtradas por estado<br>
 ![mRGetStatus1.png](assets/TB2/evidence-maintenance/mRGetStatus1.png)
-![mRGetStatus2.png](assets/TB2/evidence-maintenance/mRGetStatus2.png)
 
 
 
@@ -2586,7 +2585,7 @@ Frontend:
 
 | Team Member                                         | GitHub Username | Backend | Frontend | Documentación |
 |-----------------------------------------------|-----------------|---------|----------|---------------|
-| Ponce Perales, Alberto Alejandro | aponceperales   | C       | L        | C             |
+| Ponce Perales, Alberto Alejandro | aponceperales   | C       | L        | L            |
 | Villogas Medina, Oliver Paul | OliverVillogas   | L       | C        | C             |
 | Aliaga Urbina, Wilder Gonzalo| gonzalo1905   | L       | C        | C             |
 | Ventosilla Trujillo, Anderson Ricardo |  aNd12326 | C       | L        | C             |
@@ -2628,102 +2627,52 @@ Backend:
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 **Primero, se ejecuto el backend de manera local.**<br><br>
-![EjecucionBackend-Postman.png](assets/evidence-equipments/EjecucionBackend-Postman.png)
-<br>**Luego, se ingresaron datos de los equipos de gimnasio usando POST.**<br>
-<br>**POST del equipo 1**<br><br>
-![POST-equipment1.png](assets/evidence-equipments/POST-equipment1.png)
-<br><br>**POST del equipo 2**<br><br>
-![POST-equipment2.png](assets/evidence-equipments/POST-equipment2.png)
-<br><br>**POST del equipo 3**<br><br>
-![POST-equipment3.png](assets/evidence-equipments/POST-equipment3.png)
-<br><br>**POST del equipo 4**<br><br>
-![POST-equipment4.png](assets/evidence-equipments/POST-equipment4.png)
-<br><br>**Además, se actualizaron algunos datos de los equipos de gimnasio usando PUT para tener datos similares a los que teniamos en el db.json del frontend.**<br>
-<br>**PUT del equipo 1**<br><br>
-![PUT-equipment1.png](assets/evidence-equipments/PUT-equipment1.png)
-<br><br>**PUT del equipo 2**<br><br>
-![PUT-equipment2.png](assets/evidence-equipments/PUT-equipment2.png)
-<br><br>**PUT del equipo 3**<br><br>
-![PUT-equipment3.png](assets/evidence-equipments/PUT-equipment3.png)
-<br><br>**PUT del equipo 4**<br><br>
-![PUT-equipment4.png](assets/evidence-equipments/PUT-equipment4.png)
+![Backend-local.png](assets/evidence-equipments/Backend-local.png)
+<br>**En el Postman se procede a crear un usuario cliente.**<br>
+![POST-register.png](assets/evidence-equipments/POST-register.png)
+<br><br>**Luego, nos logueamos con dicho usuario para obtener el accessToken.**<br><br>
+![POST-login.png](assets/evidence-equipments/POST-login.png)
+<br><br>**Para crear un nuevo equipo debemos ingresar en el Header la llave Authorization con su respectivo accessToken.**<br><br>
+![Authorization.png](assets/evidence-equipments/Authorization.png)
+<br><br>**Ahora si podremos crear al equipo exitosamente.**<br><br>
+![POST-EquipmentClient.png](assets/evidence-equipments/POST-EquipmentClient.png)
+<br><br>**De la misma forma, ingresamos en el Header la llave Authorization con su respectivo accessToken para crear un nuevo mantenimiento y una nueva factura.**<br>
+![Authorization-Maintence.png](assets/evidence-equipments/Authorization-Maintence.png)
+![POST-Maintence.png](assets/evidence-equipments/POST-Maintence.png)
+![Authorization-Billing.png](assets/evidence-equipments/Authorization-Billing.png)
+![POST-Billing.png](assets/evidence-equipments/POST-Billing.png)
+<br><br>**Luego, se ejecuto el frontend de manera local.**<br>
+![Frontend-local.png](assets/evidence-equipments/Frontend-local.png)
+<br><br>**Y lo primero que nos aparece es la sección de seleccionar el tipo de usuario.**<br>
+![Page-Inicial.png](assets/evidence-equipments/Page-Inicial.png)
+<br><br>**Ingresamos como cliente y nos logueamos con el usuario creado en el Postman.**<br>
+![Login-Client.png](assets/evidence-equipments/Login-Client.png)
+<br><br>**Logramos ingresar correctamente y nos encontramos ahora en la sección Home para clientes.**<br>
+![Home-Client.png](assets/evidence-equipments/Home-Client.png)
+<br><br>**Ahora podemos ingresar a la sección My Machines donde apareceran todas las máquinas registradas por el cliente.**<br>
+![MyMachines-Client.png](assets/evidence-equipments/MyMachines-Client.png)
+<br>**Luego, ingresando a control del equipo ingresamos a la sección Machine Controls.**<br><br>
+![MachineControls-Client.png](assets/evidence-equipments/MachineControls-Client.png)
+<br>**También, en la sección My Machines podemos agregar nuevos equipos.**<br><br>
+![AddEquipment-Client.png](assets/evidence-equipments/AddEquipment-Client.png)
+![Equipment2-Client.png](assets/evidence-equipments/Equipment2-Client.png)
+<br>**En la sección Rent se muestran las máquinas disponibles para alquilar.**<br><br>
+![Rent-Client.png](assets/evidence-equipments/Rent-Client.png)
+<br>**En la sección Billing se muestran las facturas pagadas o por pagar.**<br><br>
+![Account-Client.png](assets/evidence-equipments/Account-Client.png)
+<br>**En la sección Maintenance se pueden solicitar nuevos mantenimientos para los equipos que tiene registrado el cliente.**<br><br>
+![Maintence-Client.png](assets/evidence-equipments/Maintence-Client.png)
+<br>**También, desde la página inicial podemos registrar nuevos usuarios, en este caso registraremos un usuario proveedor.**<br><br>
+![Register-Provider.png](assets/evidence-equipments/Register-Provider.png)
+<br>**Luego, ingresamos como proveedor a la sección Home para proveedores.**<br><br>
+![Home-Provider.png](assets/evidence-equipments/Home-Provider.png)
 
-<!-- billing invoices -->
-<br>**Se ingresaron pagos usando el metodo post.**<br>
-![POST-billing.png](assets/imagesbillings/postman-creational.png)
 
-<br>**Se Procede a listar todos los pagos usando GET.**<br>
-![GET-billing.png](assets/imagesbillings/getall.png)
-
-<br>**Se Procede a eliminar un pago de la db.**<br>
-![DELETE-billing.png](assets/imagesbillings/deleting.png)
-
-<br>**Se procede a actualizar la db de un pago.**<br>
-![PUT-billing.png](assets/imagesbillings/updatePayment.png)
-
-<br>**Se procede a mostrar un antes y despues de la actualizacion de un pago "OBSERVANDO COMO PASA DE NULL A COMPLETARSE CON UNA FECHA EXACTA"**<br>
-![PUT-billing.png](assets/imagesbillings/paymentBefore.png)
-![PUT-billing.png](assets/imagesbillings/paymentThen.png)
-
-<br><br>**Se implementó la configuración CORS en el backend utilizando AddCors para resolver las restricciones de seguridad del navegador.**<br>
-![Ejecucion-Backend.png](assets/evidence-equipments/Ejecucion-Backend.png)
-<br><br>**Luego, se definio el URL del backend en el frontend y se ejecuto el frontend para verificar que funcionen los datos de los equipos.**<br>
-![Ejecucion-Frontend.png](assets/evidence-equipments/Ejecucion-Frontend.png)
-<br><br>**Prueba exitosa de carga de datos de equipos en Home Page del frontend.**<br>
-
-FALTA IMAGEN
-
-<br><br>**Prueba exitosa de carga de datos de equipos en My Machines Page del frontend.**<br>
-![Mymachines.png](assets/evidence-equipments/Mymachines.png)
-<br><br>**Prueba exitosa de carga de datos de equipos en Machine Controls del frontend.**<br>
-![MachineControls1.png](assets/evidence-equipments/MachineControls1.png)
-<br><br>**Se ingresaron algunos datos de equipos para pruebas de validación.**<br>
-<br>**POST del equipo 5**<br><br>
-![POST-equipment5.png](assets/evidence-equipments/POST-equipment5.png)
-<br>**PUT del equipo 5 para encender el equipo.**<br><br>
-![PUT-equipment5.png](assets/evidence-equipments/PUT-equipment5.png)
-<br>**POST del equipo 6**<br><br>
-![POST-equipment6.png](assets/evidence-equipments/POST-equipment6.png)
-<br>**PUT del equipo 6 para cambiar su estado a mantenimiento.**<br><br>
-![PUT-equipment6.png](assets/evidence-equipments/PUT-equipment6.png)
-<br>**POST del equipo 7 lo crea apagado por defecto.**<br><br>
-![POST-equipment7.png](assets/evidence-equipments/POST-equipment7.png)
-<br>**Se intenta borrar el equipo 5 usando DELETE pero no se puede borrar un equipo encendido.**<br><br>
-![DELETE-encendido.png](assets/evidence-equipments/DELETE-encendido.png)
-<br>**Se intenta borrar el equipo 6 usando DELETE pero no se puede borrar un equipo con estado en mantenimiento.**<br><br>
-![DELETE-mantenimiento.png](assets/evidence-equipments/DELETE-mantenimiento.png)
-<br>**Se intenta borrar el equipo 7 usando DELETE y como no tiene ninguna restricción se borra exitosamente.**<br><br>
-![DELETE-exitoso.png](assets/evidence-equipments/DELETE-exitoso.png)
-<br>**Se verifica en la base de datos que se este aplicando el Soft Delete correctamente con el equipo 7.**<br><br>
-![Validacion-DELETE.png](assets/evidence-equipments/Validacion-DELETE.png)
-<br>**Probamos el GET equipments para validar que solo me devuelva las otros 6 equipos registrados.**<br><br>
-![GET-equipments.png](assets/evidence-equipments/GET-equipments.png)
-<br>**Probamos el GET equipments/7 para validar que no me devuelva información del equipo 7.**<br><br>
-![GET-equipment7.png](assets/evidence-equipments/GET-equipment7.png)
-<br>**Se intenta borrar el equipo 7 usando DELETE nuevamente y como ya fue borrado no deberia funcionar.**<br><br>
-![DELETE2-equipment7.png](assets/evidence-equipments/DELETE2-equipment7.png)
-<br>**Se realizan consultas básicas sobre la tabla equipments para validar que el backend este integrado correctamente a la base de datos coolgym-db.**<br><br>
-![basedatos-coolgym.png](assets/evidence-equipments/basedatos-coolgym.png)
-<br>**Verificamos en la base de datos que se este aplicando el Soft Delete correctamente con todos los equipos.**<br><br>
-![basedatos-softdelete.png](assets/evidence-equipments/basedatos-softdelete.png)
-<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa con un SerialNumber ya existente no debería crearlo.**<br><br>
-![POST-errorserialnumber.png](assets/evidence-equipments/POST-errorserialnumber.png)
-<br>**Prueba de agregar un nuevo equipo usando POST, pero si se ingresa sin un locationName no debería crearlo.**<br><br>
-![POST-errorlocation.png](assets/evidence-equipments/POST-errorlocation.png)
-<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el locationName no permite actualizarlo.**<br><br>
-![PUT-locationvacio.png](assets/evidence-equipments/PUT-locationvacio.png)
-<br>**Prueba de actualizar un nuevo equipo usando PUT, pero si no se ingresa el status no permite actualizarlo.**<br><br>
-![PUT-statusvacio.png](assets/evidence-equipments/PUT-statusvacio.png)
-<br>**Prueba del GET/type que me permite filtrar los equipos por su tipo.**<br><br>
-![GET-type.png](assets/evidence-equipments/GET-type.png)
-<br>**Prueba del GET/status que me permite filtrar los equipos según su estado.**<br><br>
-![GET-status.png](assets/evidence-equipments/GET-status.png)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la primera versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints relacionados con la gestión de Equipments desarrollados en este sprint. <br><br>
+La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la segunda versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints con su correcta documentación en inglés. <br><br>
 ![CoolGymAPIv1.png](assets/TF/CoolGymAPIv1.png)
-
 
 Equipments
 
@@ -2800,14 +2749,19 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>**Verificamos el despliegue continuo del backend en Azure y en Github.**<br>
+![Backend-AzureV2.png](assets/deploy-azure/Backend-AzureV2.png)
+![Backend-Github.png](assets/deploy-azure/Backend-Github.png)
+<br>**Verificamos que se cree la base de datos remota con las nuevas tablas.**<br>
+![MySQL-Verificación.png](assets/deploy-azure/MySQL-Verificación.png)
+<br>**Verificamos el endpoint de logueo de usuario y de agregar equipo usando la URL de despliegue.**<br>
+![Login-UserClient.png](assets/deploy-azure/Login-UserClient.png)
+![Post-EquipmentV2.png](assets/deploy-azure/Post-EquipmentV2.png)
+<br><br>**Verificamos el despliegue del frontend.**<br>
 
-
-
-
-
-- **URL de la Web API desplegada:** 
-- **Documentación Swagger:** 
-
+- **URL de la Web API desplegada:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/
+- **Documentación Swagger:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/swagger
+- **URL del frontend desplegado:** 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
@@ -2868,6 +2822,9 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
+
+
 
 
 
