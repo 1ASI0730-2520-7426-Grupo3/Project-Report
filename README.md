@@ -2747,8 +2747,14 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
-<br>**Verificamos el despliegue continuo del backend con Azure.**<br>
-
+<br>**Verificamos el despliegue continuo del backend en Azure y en Github.**<br>
+![Backend-AzureV2.png](assets/deploy-azure/Backend-AzureV2.png)
+![Backend-Github.png](assets/deploy-azure/Backend-Github.png)
+<br>**Verificamos que se cree la base de datos remota con las nuevas tablas.**<br>
+![MySQL-Verificación.png](assets/deploy-azure/MySQL-Verificación.png)
+<br>**Verificamos el endpoint de logueo de usuario y de agregar equipo usando la URL de despliegue.**<br>
+![Login-UserClient.png](assets/deploy-azure/Login-UserClient.png)
+![Post-EquipmentV2.png](assets/deploy-azure/Post-EquipmentV2.png)
 <br><br>**Verificamos el despliegue del frontend.**<br>
 
 - **URL de la Web API desplegada:** https://app-coolgym-2025-02-b3g0b5f4gyghhhbh.chilecentral-01.azurewebsites.net/
@@ -2814,6 +2820,7 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
