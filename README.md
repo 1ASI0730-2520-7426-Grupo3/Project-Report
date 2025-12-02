@@ -2826,7 +2826,110 @@ Backend:
 
 ### 5.3.1. Diseño de Entrevistas
 
+#### Preguntas Generales
+
+1. ¿Cuál es tu nombre completo?
+2. ¿Qué edad tienes?
+3. ¿En qué distrito vives actualmente?
+
+#### Preguntas relacionadas a los segmentos
+
+A. Proveedores de Equipos Fitness Inteligentes
+
+1. ¿Podrías presentarte y contarnos cuál es tu rol dentro de la empresa proveedora de equipos?
+2. ¿Desde hace cuánto tiempo tu empresa trabaja con tecnología integrada?
+3. ¿Cuál dirías que es el principal objetivo de tu empresa al trabajar con gimnasios y centros de entrenamiento?
+4. ¿Consideras que el listado de las secciones principales en la interfaz visual para proveedores es adecuado?
+5. ¿Te resultó clara la información sobre las solicitudes de equipos por parte de los gimnasios y entrenadores?
+6. ¿Te pareció adecuada la organización de los pagos relacionados con tus equipos y servicios?
+7. ¿El proceso de registro de nuevos equipos o integraciones con la plataforma te resultó lo suficientemente intuitivo?
+8. ¿Te gustaría recibir notificaciones cuando un gimnasio solicite, active, modifique o dé de baja uno de tus equipos?
+9. ¿La información mostrada de cada gimnasio o cliente te pareció suficiente para evaluar con quién asociarte o a quién priorizar?
+10. ¿Hubo alguna función que esperabas encontrar (por ejemplo, más detalles de uso, filtros, informes, etc.) y que no estaba disponible o no funcionaba como esperabas?
+
+B. Clientes (Gimnasios y Entrenadores)
+
+1. ¿Podrías presentarte y decirme si eres dueño, administrador o entrenador en el gimnasio?
+2. ¿Hace cuánto tiempo trabajan con equipos fitness inteligentes o herramientas digitales de seguimiento?
+3. ¿Cuál dirías que es el principal objetivo de tu gimnasio/servicio respecto a la experiencia del cliente?
+4. ¿Consideras que el listado de las secciones principales en la interfaz visual como gimnasio/entrenador es adecuado?
+5. ¿Te resultó clara la información sobre los equipos instalados y estado actual de las máquinas inteligentes?
+6. ¿Qué opinas sobre el proceso de registro de uso de equipos para tus usuarios?
+7. ¿Consideras que la organización de las máquinas dentro de la plataforma te proporciona los datos suficientes para gestionarlas?
+8. ¿Consideras que los gráficos de uso mensual de equipos son ideales para conocer la actividad de tu gimnasio?
+9. ¿La información que se muestra de cada equipo y proveedor te pareció suficiente para evaluar qué soluciones son mejores para tu negocio?
+10. ¿Hubo alguna función que esperabas encontrar y que no estaba disponible o no funcionaba como esperabas?
+
+
 ### 5.3.2. Registro de Entrevistas
+
+---
+
+#### Entrevista N°1 – Segmento: Proveedores
+- Nombres: Claudia Estefanía
+- Apellidos: Díaz Salas
+- Edad: 27
+- Distrito: Tarapoto
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQDCR9yldDFRTI1XqVtOLbUQASrrMvOWsqCANCs2SIcTuEo?e=Ip3ssZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 4:57
+- Capturas:![Entrevistador.png](assets/TF/Entrevistador.png)
+![Entrevistado1.png](assets/TF/Entrevistado1.png)
+- Resumen: 
+Claudia Estefanía Díaz Salas, de 27 años y residente en Tarapoto, es administradora de una empresa que vende cintas de correr y bicicletas inteligentes, con 3 años de experiencia trabajando con equipos con sensores y conectividad. Al revisar la interfaz para proveedores de CoolGym, comentó que la información le resultó clara y fácil de entender, destacando la buena organización de las secciones de equipos, solicitudes, mantenimiento y estado de cuentas. Señaló que la vista de solicitudes le permite identificar rápidamente quién pide cada equipo y en qué estado se encuentra, y que el resumen de pagos y saldos pendientes es sencillo de interpretar. Considera el registro de nuevos equipos e integraciones como un proceso intuitivo, similar a completar un formulario. Además, valoró positivamente la información disponible de cada gimnasio para priorizar clientes y mencionó que, por ahora, no siente que falten funciones, aunque a futuro le gustaría contar con reportes más avanzados.
+---
+
+#### Entrevista N°2 – Segmento: Proveedores
+- Nombres: Anthony Jordan
+- Apellidos: Caicho Ramos
+- Edad: 25
+- Distrito: Santa Anita
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQCRxWHH4sknTpKNtGwiTcrGAXj1D1H9DT-xl3gUiF3I2r0?e=bJUvvK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 4:09
+- Capturas: ![Entrevistador.png](assets/TF/Entrevistador.png)
+![Entrevistado2.png](assets/TF/Entrevistado2.png)
+- Resumen: 
+Anthony Jordan Caicho Ramos, de 25 años y residente en Santa Anita, es dueño de una empresa mediana que alquila y mantiene equipos de gimnasio inteligentes y lleva alrededor de 2 años trabajando con tecnología integrada. Al revisar la interfaz para proveedores de CoolGym, comentó que la información y las solicitudes de equipos le resultan claras, aunque le gustaría que las secciones estuvieran mejor agrupadas (finanzas por un lado y operación por otro) y que en la misma pantalla se vean más detalles, como la duración de los contratos. Considera que la gestión de pagos funciona bien, pero sugiere incorporar un gráfico de ingresos mensuales y un flujo de registro de equipos más compacto, con opción de guardar borradores. Además, le parecería útil configurar el tipo de notificaciones que recibe y contar con más datos de cada gimnasio, como historial de pagos, nivel de uso de los equipos, reportes detallados por sede y la posibilidad de exportar la información a Excel o PDF.
+---
+
+#### Entrevista N°3 – Segmento: Clientes
+- Nombres: Yenifer Tatiana
+- Apellidos: Ramírez Vargas
+- Edad: 22
+- Distrito: Magdalena
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQDkPw2rYfBaS6JF3gj20LYfARkj-FEo40hZfZ_dqoNgcM0?e=wHhADl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 3:53
+- Capturas: ![Entrevistador.png](assets/TF/Entrevistador.png)
+![Entrevistado3.png](assets/TF/Entrevistado3.png)
+- Resumen: 
+Yenifer Tatiana Ramírez Vargas, de 22 años y residente en Magdalena, es administradora de un gimnasio mediano orientado al entrenamiento funcional y cardio, donde trabajan con equipos fitness inteligentes desde hace aproximadamente 3 años. Tras mostrarle la interfaz de CoolGym para gimnasios, comentó que la distribución de las secciones “My Machines”, “Rent”, “Maintenance” y “Account statement” le pareció lógica y fácil de navegar. Destacó que en “My Machines” puede ver rápidamente qué equipos están activos, su tiempo de uso y estado, y que el registro de uso para los usuarios es simple y no requiere capacitación adicional. Además, valoró que la plataforma le permita visualizar el uso diario, la ubicación de cada máquina y gráficos mensuales claros para identificar las más utilizadas. Finalmente, consideró que la información por equipo (modelo, consumo, mantenimiento y proveedor) es suficiente para tomar decisiones, y que con las funciones actuales puede gestionar adecuadamente sus máquinas y pagos.
+---
+
+#### Entrevista N°4 – Segmento: Clientes
+- Nombres: Jeiner Alexander
+- Apellidos: Gutiérrez Cruzado
+- Edad: 25
+- Distrito: San Miguel
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQAQypzM792PRo_A30ue368tAfEQfGOJazOolRRPZTARv6M?e=ySenxs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 3:50
+- Capturas: ![Entrevistador.png](assets/TF/Entrevistador.png)
+![Entrevistado4.png](assets/TF/Entrevistado4.png)
+- Resumen: 
+Jeiner Alexander Gutiérrez Cruzado, de 25 años y residente en San Miguel, es el entrenador principal de su gimnasio y se encarga de coordinar las rutinas de los clientes. Trabajan con equipos fitness inteligentes desde hace aproximadamente un año y medio, con el objetivo de ofrecer entrenamientos personalizados basados en datos reales de uso y rendimiento. Tras revisar la interfaz de CoolGym para gimnasios, comentó que las secciones le parecen adecuadas, aunque preferiría separar un poco más lo administrativo de lo que usan los entrenadores en el día a día. Destacó que el estado de las máquinas y métricas como “Usage today” o calorías quemadas son fáciles de entender, y que los gráficos de uso mensual resultan útiles. Sin embargo, sugirió poder registrar más rápido a varios usuarios cuando trabaja con grupos, agregar filtros por tipo de entrenamiento, incluir métricas como horas punta e integrar mejor la plataforma con los planes de entrenamiento de los clientes.
+---
+
+#### Entrevista N°5 – Segmento: Clientes
+- Nombres: Jesús Alexander
+- Apellidos: Ponce Perales
+- Edad: 29
+- Distrito: Tarapoto
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQDrAh_aEM4eTIcYE6zcFYcwAVzoCVr2zdYbbX28yNdVeAo?e=cDsbqm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 6:27
+- Capturas: ![Entrevistador.png](assets/TF/Entrevistador.png)
+![Entrevistado5.png](assets/TF/Entrevistado5.png)
+- Resumen: 
+Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administrador de una pequeña cadena de tres gimnasios que recientemente (menos de un año) empezó a migrar a equipos fitness inteligentes. Tras revisar la interfaz de CoolGym para gimnasios, comentó que las secciones principales le parecen adecuadas, aunque echa en falta una vista inicial que agrupe la información por local. Señaló que la información sobre los equipos y su estado es clara, pero que la lista se vuelve muy larga cuando se manejan muchas máquinas en varias sedes, por lo que considera necesarios más filtros. Mencionó que el registro de uso funciona, pero podría automatizarse más usando directamente los datos de los sensores. Además, indicó que la plataforma le ofrece lo básico para gestionar las máquinas, pero le gustaría ver rápidamente cuáles fallan más, próximas fechas de mantenimiento, gráficos comparativos entre sedes y tipos de máquinas, indicadores de costo total por marca/proveedor, así como reportes exportables y alertas avanzadas cuando baja la utilización de ciertos equipos.
+---
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -2838,7 +2941,6 @@ Backend:
 | **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                              |
 | **Cuadro de Video Representativo**   | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                  |
 | **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                                                                     |
-
 
 
 ## 5.5 Conclusiones
@@ -2860,7 +2962,6 @@ Backend:
 | **Pauta de Secuencias de Contenido** | **00:00:00**:  Testimonio  <br> **00:00:10**:  Testimonio <br> **00:01:08**:  Testimonio <br> **00:03:45**:  Testimonio |
 | **Imagen**                           | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                              |
 | **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                 |
-
 
 ## 5.7 Bibliografía 
 
