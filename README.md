@@ -84,15 +84,18 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplican
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
+Reporte:
+![insights-report.png](assets/TF/insights-report.png)
+
 Landing Page:
 
 
 
-Frontend App:
-
+Frontend:
+![insights-frontend.png](assets/TF/insights-frontend.png)
 
 Backend:
-
+![insights-backend.png](assets/TF/insights-backend.png)
 
 
 # Contenido
@@ -2614,12 +2617,48 @@ Frontend:
 ##### 5.2.4.4. Development Evidence for Sprint Review
 Esta sección reúne la evidencia del trabajo desarrollado durante el sprint, incluyendo commits tanto en el frontend como en el backend, demostrando el avance logrado y el cumplimiento de los objetivos del Sprint.
 
-1
-
 Frontend:
+
+| Repository                               | Branch | Commit id | Commit Message                                                                       | Commit Message Body | Committed on (Date) |
+|------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------|---------------------|---------------------|
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | d51a94d   | fix: increase HTTP timeout to handle Azure cold starts                               | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | af36b56   | feat: add internationalization to machine controls and remove analytics button       | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | a1279bd   | feat: refactor code                                                                  | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | e803796   | feat: implement complete internationalization support                                | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | 9bd68dc   | Merge pull request #8 from 1ASI0730-2520-7426-Grupo3/merge-equipment-into-main       | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | db49650   | commit files                                                                         | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | 523163b   | feat: refactor baseURL                                                               | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | f1f783e   | feat: implement provider features and fix client billing payment                     | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | fa285c4   | feat: refactor client home page                                                      | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | 30a7223   | feat: refactor pages maintence, billing,my machines                                  | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Frontend       | main   | febe9ea   | feat: add equipment features                                                         | –                   | Nov 29, 2025        |
 
 
 Backend:
+
+| Repository                               | Branch | Commit id | Commit Message                                                                                 | Commit Message Body | Committed on (Date) |
+|------------------------------------------|--------|-----------|-------------------------------------------------------------------------------------------------|---------------------|---------------------|
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | ba691d0   | feat: add internationalization support for authentication                                       | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 2f2351c   | feat: add internationalization to billing invoices and rentals contexts                         | –                   | Dec 1, 2025         |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | ed72241   | feat: refactor program                                                                          | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 96c4271   | Merge pull request #5 from 1ASI0730-2520-7426-Grupo3/feature/role-based-authorization           | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | ab04882   | docs: update documentation across multiple security domains                                    | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | f935943   | feat: add rental request system with invoice integration and fix user role persistence         | –                   | Nov 30, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 84151dc   | feat: allow Client role to manage equipment alongside Provider                                 | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 6c81c8a   | feat: add role-based authorization to all bounded contexts                                     | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 9198059   | fix: make role field required in registration                                                  | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | ed03402   | refactor: make phone, type and role optional in registration                                   | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 7a0091e   | Clean up unnecessary comments and add JWT configuration                                        | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | c16bb55   | feat: add Security bounded context with JWT authentication                                     | –                   | Nov 29, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 6909ec7   | feat: add complex domain in equipments bounded context                                         | –                   | Nov 28, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 14b68ce   | feat: refactor program                                                                          | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 63258b4   | feat: refactor program                                                                          | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 025c8d2   | feat: add internationalization to equipments context                                           | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | b84504    | Merge pull request #4 from 1ASI0730-2520-7426-Grupo3/develop                                   | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 331a42a   | Merge remote-tracking branch 'origin/develop' into develop                                     | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 0fb7f0c   | fix: add complex domain and internationalization                                               | –                   | Nov 27, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 874a47b   | Merge branch 'main' of https://github.com/1ASI0730-2520-7426-Grupo3/Backend                    | –                   | Nov 25, 2025        |
+| 1ASI0730-2520-7426-Grupo3/Backend        | main   | 1666526   | feat: refactor swagger documentation                                                           | –                   | Nov 25, 2025        |
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
@@ -2761,6 +2800,12 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 - **URL del frontend desplegado:** 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Frontend:
+![insights-frontend.png](assets/TF/insights-frontend.png)
+
+Backend:
+
+![insights-backend.png](assets/TF/insights-backend.png)
 
 
 ## 5.3. Validation Interviews
