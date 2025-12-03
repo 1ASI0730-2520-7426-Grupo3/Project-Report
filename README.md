@@ -2325,6 +2325,7 @@ Link de deployment: https://frontend-coolgym-git-main-and12326s-projects.vercel.
 En este tercer Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
 
 Frontend:
+
 | Repository | Branch | Commit id | Commit Message | Commit Message Body | Committed on (Date) |
 |-------------|---------|------------|----------------|---------------------|---------------------|
 | Frontend | main | 884b869 | Initial commit | - | 02/10/2025 |
@@ -2351,6 +2352,7 @@ Frontend:
 | Frontend | main | 2a5f11a | Merge pull request #6 from 1ASI0730-2520-7426-Grupo3/develop | - | 08/10/2025 |
 
 Backend:
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|---------|------------|-----------------|----------------------|----------------------|
 | Backend | main | 5b1f365 | Add or update the Azure App Service build and deployment workflow config | - | Nov 14, 2025 |
@@ -2958,12 +2960,12 @@ Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administ
 
 ## 5.6 Video About-the-Team
 
-| **Sección**                          | **Descripción**                                                                                                                                                               |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Resumen del Video**                | En este video, cada miembro del equipo explica sus logros obtenidos con el curso, los outcomes alcanzados y las habilidades que desarrolló durante el proyecto CoolGym.       |
-| **Pauta de Secuencias de Contenido** | **00:00:00**:  Testimonio  <br> **00:00:10**:  Testimonio <br> **00:01:08**:  Testimonio <br> **00:03:45**:  Testimonio |
-| **Imagen**                           | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                              |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                 |
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | En este video, cada miembro del equipo explica sus logros obtenidos con el curso, los outcomes alcanzados y las habilidades que desarrolló durante el proyecto CoolGym.                                                                                                                                                                                                                                                          |
+| **Pauta de Secuencias de Contenido** | **00:00:00**:  Testimonio Alejandro Ponce <br> **00:03:07**:  Testimonio Anderson Ventosilla<br> **00:04:04**:  Testimonio Wilder Aliaga<br> **00:05:57**:  Testimonio Oliver Villogas                                                                                                                                                                                                                                           |
+| **Imagen**                           | <img src="assets/TF/about-the-team-placeholder.png" alt="Placeholder Video About The Team" width="300" height="200">                                                                                                                                                                                                                                                                                                             |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQCWcBMtnFQ3Q6MaoUuFd5lmAepPTp5MnXNdvFKTCYV3nLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5tQbC1) <br/> **Youtube**:[Link de acceso](https://youtu.be/mhkfPRqeAp0) |
 
 ## 5.7 Bibliografía 
 
