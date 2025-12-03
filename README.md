@@ -274,7 +274,7 @@ Para lograr esto, FitConnect ha desarrollado un marketplace especializado que ce
 |---------------------------------------------------------------------------|--------------------------------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Foto de Alberto](assets/FotoAlberto.jpg)                                              | Alberto Alejandro Ponce Perales      | u202320684 | Ingeniería de Software | Cuento con conocimientos en C++, Python, HTML y CSS. Me considero una persona organizada, responsable y puntual al momento de trabajar en mis proyectos. Estoy comprometido a dar lo mejor de mí en este proyecto y a participar activamente en la solución de los retos que se presenten durante su desarrollo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |    ![Foto de Oliver](assets/oliver-profile.jpeg) | Oliver Paul Villogas Medina                     | U202323562 | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Soy estudiante de Ingeniería de Software con interés en el desarrollo backend, bases de datos y frontend. Desde pequeño he sido apasionado por la tecnología, lo que me ha llevado a involucrarme activamente en proyectos que integran diseño, lógica y buenas prácticas de desarrollo. Me caracterizo por mi disciplina, capacidad de aprendizaje continuo y compromiso por crear soluciones funcionales y de calidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![Foto de Juan.jpeg](assets/Foto%20de%20Juan.jpeg)                                              | Juan David Saldaña De Souza                                 | u20221f192 | Ingenieria de Software | Soy estudiante de Ingeniería de Software y me apasiona la innovación tecnológica, la programación y la automatización de procesos mediante inteligencia artificial. Me considero una persona comprometida y responsable que prioriza sus responsabilidades y se esfuerza por cumplir con los plazos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ![Foto de Gonzalo](assets/gonzalo-profile-picture.png)                                                      | Wilder Gonzalo Aliaga Urbina         | u202222001 | Ingeniería de Software | Como estudiante universitario de 20 años y cursando la carrera de Ingeniería de Software, tengo una sólida base en programación en C++, Python, HTML y CSS, además de habilidades en creatividad y organización grupal. Mi enfoque está en fomentar un ambiente de aprendizaje eficiente y participativo en equipo. Me apasiona encontrar soluciones innovadoras y siempre estoy dispuesto a aprender nuevas tecnologías que potencien mis proyectos. He trabajado en proyectos colaborativos donde la comunicación y la planificación fueron claves para lograr buenos resultados. Mi objetivo es seguir creciendo profesionalmente mientras contribuyo activamente al desarrollo de iniciativas tecnológicas con impacto positivo. |
 
@@ -1788,11 +1788,72 @@ El siguiente diagrama entidad‑relación (ER) muestra las tablas principales co
 
 ### 5.1.1 Software Development Environment Configuration 
 
+#### Project Management
+
+- **WhatsApp**: Aplicación de mensajería instantánea utilizada por el equipo de CoolGym para coordinar tareas diarias, compartir avances rápidos y resolver dudas de forma ágil.
+- **Google Meet**: Plataforma de videoconferencias empleada para las reuniones de planificación de sprint, revisiones de avance y sesiones de coordinación entre frontend, backend y UX.
+- **Google Drive**: Servicio de almacenamiento en la nube donde se organizaron los documentos del proyecto (informes, plantillas, capturas de pantalla y evidencias de despliegue) de manera compartida.
+
+#### Requirements Management
+
+- **UXPressia**: Herramienta utilizada para la creación de *User Personas*, *User Journey Maps* e *Impact Maps* específicos para CoolGym (gimnasios y proveedores), facilitando la comprensión de necesidades y expectativas de ambos segmentos.
+- **Zoom / Google Meet**: Plataformas usadas para realizar entrevistas de exploración y validación con usuarios potenciales, levantando información cualitativa para refinar los requisitos funcionales y de experiencia de usuario.
+
+#### Product UX/UI Design
+
+- **Figma**: Plataforma colaborativa donde se diseñaron los *wireframes*, *wireflows*, mockups y prototipos de las vistas principales de CoolGym (Home, My Machines, Rent, Maintenance, Account Statement, etc.), permitiendo validar los flujos con el equipo antes de su implementación.
+
+#### Software Development
+
+- **Visual Studio Code**: Editor principal para el desarrollo del frontend de CoolGym, configurado con extensiones para TypeScript/JavaScript, linting y soporte para Git.
+- **JetBrains Rider / Jet Brains WebStorm**: Entornos de desarrollo integrados utilizados para implementar la Web API del backend (contextos Account, Client, Equipment, Maintenance, Provider, Rent y Public), con integración directa al repositorio GitHub.
+- **Node.js y npm**: Plataforma de ejecución y gestor de paquetes empleados para construir y ejecutar el frontend web de CoolGym, así como para gestionar dependencias y scripts de build.
+- **.NET SDK**: Kit de desarrollo utilizado para compilar y ejecutar la API REST de CoolGym, incluyendo los dominios diseñados bajo enfoque *Domain-Driven Design*.
+- **Swagger UI / Postman**: Herramientas usadas para probar y documentar los endpoints del backend, verificando contratos entre frontend y backend durante el desarrollo.
+
+#### Software Deployment
+
+- **GitHub**: Plataforma de control de versiones donde se aloja el repositorio del proyecto CoolGym, utilizada como punto central para gestionar ramas, *pull requests* y releases.
+- **Azure App Service**: Servicio de la nube de Azure donde se desplegó la Web API del backend, conectada a la base de datos y expuesta mediante endpoints seguros.
+- **Vercel**: Plataforma empleada para el despliegue del frontend de CoolGym, facilitando el hosting estático y la actualización automática a partir de la rama principal del repositorio.
+
+#### Software Documentation
+
+- **Google Docs**: Herramienta de edición colaborativa utilizada para redactar el informe del proyecto (capítulos de requisitos, arquitectura, sprints y validaciones), así como las actas y acuerdos del equipo.
+- **Structurizr**: Plataforma usada para modelar la arquitectura de CoolGym mediante diagramas C4 (Context, Container y Component), permitiendo comunicar claramente la estructura del sistema.
+- **Vertabelo**: Herramienta de modelado de bases de datos utilizada para diseñar el modelo relacional a partir del dominio de CoolGym, definiendo tablas, relaciones e identificadores clave.
+
+---
+
 ### 5.1.2 Source Code Managment
+
+---
+Para la gestión del código fuente de CoolGym se utilizó **GitHub** como repositorio central y se adoptó un flujo de trabajo basado en **Gitflow**, lo que permitió organizar el trabajo colaborativo y mantener versiones estables del sistema.
+
+- **Main branch (`main`)**  
+  Rama principal donde se conserva el código listo para producción: backend desplegado en Azure y frontend publicado en Vercel.
+
+- **Develop branch (`develop`)**  
+  Rama de integración donde se fusionan las funcionalidades completadas antes de ser promovidas a `main`. Sirve como base para las pruebas integrales del sistema.
+
+- **Feature branches (`feat/*`)**  
+  Ramas creadas a partir de `develop` para implementar funcionalidades específicas, por ejemplo:  
+  `feat/my-machines-page`, `feat/machine-controls-api`, `feat/account-statement-ui`.  
+  Cada feature se desarrolla de forma aislada y luego se integra mediante *pull requests*.
+
+- **Fix / Chore branches (`fix/*`, `chore/*`)**  
+  Ramas destinadas a corrección de errores y tareas de mantenimiento (refactor, mejoras de documentación, ajustes de despliegue), p. ej.:  
+  `fix/maintenance-endpoint`, `chore/update-readme`.
+
+- **Conventional Commits**  
+  Se aplicó el estándar de mensajes de commit del tipo `feat:`, `fix:`, `docs:`, `chore:`, etc., para mantener un historial claro y trazable. Esto facilitó revisar la evolución del proyecto y relacionar cambios con las historias de usuario y los sprints.
+  
+  Este esquema de gestión de código permitió al equipo de CoolGym trabajar en paralelo en frontend y backend, reducir conflictos de integración y asegurar que las versiones desplegadas reflejen el estado estable del proyecto.
+---
 
 ### 5.1.3 Source Code Style Guide & Conventions 
 
-## HTML
+#### HTML
 - Todas las etiquetas deben cerrarse correctamente.  
 - Comentarios cortos en línea.  
 - Uso obligatorio de atributos `alt`, `width`, `height` en imágenes.  
@@ -1801,7 +1862,7 @@ El siguiente diagrama entidad‑relación (ER) muestra las tablas principales co
 
 ---
 
-## CSS
+#### CSS
 - Indentación de **2 espacios**.  
 - Código en minúscula y limpio.  
 - Comentarios explicativos por bloque.  
@@ -1810,7 +1871,7 @@ El siguiente diagrama entidad‑relación (ER) muestra las tablas principales co
 
 ---
 
-## JavaScript
+#### JavaScript
 - Variables con nombres representativos.  
 - Uso coherente de comillas (simples o dobles).  
 - Funciones modulares y reutilizables.  
@@ -1820,7 +1881,7 @@ El siguiente diagrama entidad‑relación (ER) muestra las tablas principales co
 
 ---
 
-## Vue.js (para sprints futuros)
+#### Vue.js (para sprints futuros)
 - Carpetas organizadas por módulos:  
   - `components/`  
   - `views/`  
@@ -2712,7 +2773,7 @@ Backend:
 La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la segunda versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints con su correcta documentación en inglés. <br><br>
 ![CoolGymAPIv1.png](assets/TF/CoolGymAPIv1.png)
 
-**Equipments**
+Equipments
 
 ![eq.png](assets/TF/eq.png)
 
@@ -2738,7 +2799,7 @@ La documentación de los servicios del backend se generó automáticamente y se 
 ![e7.png](assets/TF/e7.png)
 
 
-**Billing Invoices**
+Billing Invoices
 
 ![bi.png](assets/TF/bi.png)
 
@@ -2760,8 +2821,7 @@ La documentación de los servicios del backend se generó automáticamente y se 
 <br>Documentación del Método PUT: Marcar un billing invoice como pagado<br>
 ![bi6.png](assets/TF/bi6.png)
 
-
-**Maintenance Requests**
+Adicionalmente, se documentaron y probaron los endpoints del contexto MaintenanceRequests, encargados de gestionar las solicitudes de mantenimiento asociadas a los equipos. Estos endpoints permiten registrar nuevas solicitudes, consultarlas, actualizar su estado, eliminarlas y filtrarlas según su estado actual.
 
 
 ![mr.png](assets/TF/mr.png)
@@ -2784,58 +2844,6 @@ La documentación de los servicios del backend se generó automáticamente y se 
 
 <br>Documentación del Método GET: Listado de solicitudes de mantenimiento filtradas por estado<br>
 ![mr6.png](assets/TF/mr6.png)
-
-**Client Plans**
-
-![cp.png](assets/TF/cp.png)
-
-<br>Documentación del Método GET: Listado de todos los client plans disponibles<br>
-![cp1.png](assets/TF/cp1.png)
-
-<br>Documentación del Método GET: Consulta de un client plan por ID<br>
-![cp2.png](assets/TF/cp2.png)
-
-
-
-**Rental Requests**
-
-![rr.png](assets/TF/rr.png)
-
-<br>Documentación del Método POST: Registro de una nueva solicitud de alquiler de equipo<br>
-![rr1.png](assets/TF/rr1.png)
-
-<br>Documentación del Método GET: Listado de todas las solicitudes de alquiler en el sistema<br>
-![rr2.png](assets/TF/rr2.png)
-
-<br>Documentación del Método GET: Consulta de una solicitud de alquiler por ID<br>
-![rr3.png](assets/TF/rr3.png)
-
-<br>Documentación del Método PUT: Actualización del estado de una solicitud de alquiler existente<br>
-![rr4.png](assets/TF/rr4.png)
-
-<br>Documentación del Método GET: Listado de solicitudes de alquiler pertenecientes a un cliente específico<br>
-![rr5.png](assets/TF/rr5.png)
-
-<br>Documentación del Método POST: Aprobación de una solicitud de alquiler pendiente y creación automática de un billing invoice<br>
-![rr6.png](assets/TF/rr6.png)
-
-
-
-**User**
-
-![user.png](assets/TF/user.png)
-
-<br>Documentación del Método POST: Registro de una nueva cuenta de usuario<br>
-![user1.png](assets/TF/user1.png)
-
-<br>Documentación del Método POST: Inicio de sesión de un usuario con email y contraseña (generación de token de acceso)<br>
-![user2.png](assets/TF/user2.png)
-
-<br>Documentación del Método GET: Consulta de la información de un usuario por ID (validación de token)<br>
-![user3.png](assets/TF/user3.png)
-
-<br>Documentación del Método PATCH: Actualización del perfil de usuario (nombre, teléfono, foto de perfil y plan contratado)<br>
-![user4.png](assets/TF/user4.png)
 
 
 
@@ -3144,23 +3152,14 @@ Opcionalmente, se puede incluir un contador de notificaciones no leídas y permi
 
 ## 5.5 Conclusiones
 
-- Se logró construir e integrar la primera versión completa de CoolGym, cubriendo los dominios clave de Equipos, Mantenimientos, Facturación, Solicitudes de Alquiler, Planes de Cliente y Seguridad, de modo que proveedores y gimnasios puedan gestionar de forma unificada sus operaciones diarias.
-
-
-- La arquitectura basada en bounded contexts y la aplicación de buenas prácticas (DDD, validaciones de dominio, manejo de estados, soft delete, role-based authorization, internacionalización, etc.) permitió obtener un backend robusto, extensible y alineado con los principios vistos en el curso.
-
-
-- La combinación de Swagger, pruebas con Postman y la evidencia de despliegue en Azure (backend) y Vercel (frontend) demostró que el equipo fue capaz de llevar el sistema desde el entorno local hasta un escenario real de producción, asegurando trazabilidad y documentación técnica actualizada.
-
-
-- El enfoque iterativo con sprints, velocity estable, GitFlow y Conventional Commits permitió planificar, ejecutar y revisar de manera sistemática el avance del proyecto, mejorando la coordinación del equipo y facilitando la identificación temprana de riesgos y tareas críticas.
-
-
-- Las entrevistas de validación con proveedores y clientes, junto con la evaluación heurística de usabilidad, evidenciaron que la propuesta de valor de CoolGym es comprensible y útil para los segmentos objetivo, a la vez que revelaron oportunidades concretas de mejora en navegabilidad, filtros, reportes y manejo de notificaciones.
-
-
-- A nivel formativo, el proyecto permitió al equipo afianzar competencias técnicas en .NET, Vue, integración de APIs, DevOps e i18n, así como habilidades transversales de trabajo colaborativo, documentación y comunicación, cumpliendo con los outcomes planteados para el curso y sentando bases sólidas para proyectos de mayor escala.
-
+- Se implementó la primera versión del Web Application (vistas núcleo y navegación básica) enfocada en entregar valor inicial y validar el diseño con usuarios internos.
+- Se respetó el Design System (paleta, tipografía, componentes) y se mantuvo consistencia con wireframes y mockups ya definidos.
+- Se sostuvo el flujo de trabajo con GitFlow + Conventional Commits, facilitando revisión de PRs e insights de colaboración.
+- Se documentó ejecución del Frontend con capturas y se actualizó el informe del proyecto con la traza del avance.
+- Se siguió una evolución lógica y escalonada, que permitió consolidar el valor del proyecto e ir mitigando los riesgos de manera incremental.
+- Se demostró una notable madurez ágil, reflejada en la aplicación de acciones concretas de mejora y un aumento constante de la velocidad del equipo (de 20 a 23 story points).
+- Se priorizó el desarrollo de un frontend navegable y funcional, lo que resultó un acierto para acelerar la validación temprana del producto y la obtención de feedback.
+- Se estableció una estructura de equipo con liderazgo definido, asegurando la consistencia y calidad en áreas críticas (Diseño y Documentación), lo que facilitó la ejecución organizada.
 
 ## 5.6 Video About-the-Team
 
@@ -3184,9 +3183,9 @@ Opcionalmente, se puede incluir un contador de notificaciones no leídas y permi
 
 - [Video de exposicion TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EZ3ggT1LLJpAm38GXvGw1msBDzhyEa6hOiW_J6BmPiIyTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ph3BnB)
 
-- Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/IQATUowsrRbCRJftA1LczOz1AY_JrL1YMZ6G3xSheMyETnk?e=DkWfTH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
-- [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/IQATUowsrRbCRJftA1LczOz1AY_JrL1YMZ6G3xSheMyETnk?e=DkWfTH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
 
 - Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319025_upc_edu_pe/IQDHGhDy07nLR7k0-me9g4UFARfzYq8OSTyRuST0mWO_B9o?e=XMcyNS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -3199,7 +3198,6 @@ Opcionalmente, se puede incluir un contador de notificaciones no leídas y permi
 - Video de Exposición del Trabajo Final: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQC2BLb5U7s6QYZ_U_z6mDuIAdjIAEsYXpVs5TiBt-sgTpc?e=SUve7G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 - [Video de Exposición sobre el Trabajo Final](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQC2BLb5U7s6QYZ_U_z6mDuIAdjIAEsYXpVs5TiBt-sgTpc?e=SUve7G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 
 
 
