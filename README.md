@@ -2712,7 +2712,7 @@ Backend:
 La documentación de los servicios del backend se generó automáticamente y se expuso a través de Swagger UI. Esto garantiza una documentación interactiva y actualizable. Se presentan capturas de pantalla de la segunda versión de la interfaz de Swagger y las pruebas de ejecución que confirman el correcto funcionamiento de los endpoints con su correcta documentación en inglés. <br><br>
 ![CoolGymAPIv1.png](assets/TF/CoolGymAPIv1.png)
 
-Equipments
+**Equipments**
 
 ![eq.png](assets/TF/eq.png)
 
@@ -2738,7 +2738,7 @@ Equipments
 ![e7.png](assets/TF/e7.png)
 
 
-Billing Invoices
+**Billing Invoices**
 
 ![bi.png](assets/TF/bi.png)
 
@@ -2760,7 +2760,8 @@ Billing Invoices
 <br>Documentación del Método PUT: Marcar un billing invoice como pagado<br>
 ![bi6.png](assets/TF/bi6.png)
 
-Adicionalmente, se documentaron y probaron los endpoints del contexto MaintenanceRequests, encargados de gestionar las solicitudes de mantenimiento asociadas a los equipos. Estos endpoints permiten registrar nuevas solicitudes, consultarlas, actualizar su estado, eliminarlas y filtrarlas según su estado actual.
+
+**Maintenance Requests**
 
 
 ![mr.png](assets/TF/mr.png)
@@ -2783,6 +2784,58 @@ Adicionalmente, se documentaron y probaron los endpoints del contexto Maintenanc
 
 <br>Documentación del Método GET: Listado de solicitudes de mantenimiento filtradas por estado<br>
 ![mr6.png](assets/TF/mr6.png)
+
+**Client Plans**
+
+![cp.png](assets/TF/cp.png)
+
+<br>Documentación del Método GET: Listado de todos los client plans disponibles<br>
+![cp1.png](assets/TF/cp1.png)
+
+<br>Documentación del Método GET: Consulta de un client plan por ID<br>
+![cp2.png](assets/TF/cp2.png)
+
+
+
+**Rental Requests**
+
+![rr.png](assets/TF/rr.png)
+
+<br>Documentación del Método POST: Registro de una nueva solicitud de alquiler de equipo<br>
+![rr1.png](assets/TF/rr1.png)
+
+<br>Documentación del Método GET: Listado de todas las solicitudes de alquiler en el sistema<br>
+![rr2.png](assets/TF/rr2.png)
+
+<br>Documentación del Método GET: Consulta de una solicitud de alquiler por ID<br>
+![rr3.png](assets/TF/rr3.png)
+
+<br>Documentación del Método PUT: Actualización del estado de una solicitud de alquiler existente<br>
+![rr4.png](assets/TF/rr4.png)
+
+<br>Documentación del Método GET: Listado de solicitudes de alquiler pertenecientes a un cliente específico<br>
+![rr5.png](assets/TF/rr5.png)
+
+<br>Documentación del Método POST: Aprobación de una solicitud de alquiler pendiente y creación automática de un billing invoice<br>
+![rr6.png](assets/TF/rr6.png)
+
+
+
+**User**
+
+![user.png](assets/TF/user.png)
+
+<br>Documentación del Método POST: Registro de una nueva cuenta de usuario<br>
+![user1.png](assets/TF/user1.png)
+
+<br>Documentación del Método POST: Inicio de sesión de un usuario con email y contraseña (generación de token de acceso)<br>
+![user2.png](assets/TF/user2.png)
+
+<br>Documentación del Método GET: Consulta de la información de un usuario por ID (validación de token)<br>
+![user3.png](assets/TF/user3.png)
+
+<br>Documentación del Método PATCH: Actualización del perfil de usuario (nombre, teléfono, foto de perfil y plan contratado)<br>
+![user4.png](assets/TF/user4.png)
 
 
 
@@ -3076,14 +3129,23 @@ Opcionalmente, se puede incluir un contador de notificaciones no leídas y permi
 
 ## 5.5 Conclusiones
 
-- Se implementó la primera versión del Web Application (vistas núcleo y navegación básica) enfocada en entregar valor inicial y validar el diseño con usuarios internos.
-- Se respetó el Design System (paleta, tipografía, componentes) y se mantuvo consistencia con wireframes y mockups ya definidos.
-- Se sostuvo el flujo de trabajo con GitFlow + Conventional Commits, facilitando revisión de PRs e insights de colaboración.
-- Se documentó ejecución del Frontend con capturas y se actualizó el informe del proyecto con la traza del avance.
-- Se siguió una evolución lógica y escalonada, que permitió consolidar el valor del proyecto e ir mitigando los riesgos de manera incremental.
-- Se demostró una notable madurez ágil, reflejada en la aplicación de acciones concretas de mejora y un aumento constante de la velocidad del equipo (de 20 a 23 story points).
-- Se priorizó el desarrollo de un frontend navegable y funcional, lo que resultó un acierto para acelerar la validación temprana del producto y la obtención de feedback.
-- Se estableció una estructura de equipo con liderazgo definido, asegurando la consistencia y calidad en áreas críticas (Diseño y Documentación), lo que facilitó la ejecución organizada.
+- Se logró construir e integrar la primera versión completa de CoolGym, cubriendo los dominios clave de Equipos, Mantenimientos, Facturación, Solicitudes de Alquiler, Planes de Cliente y Seguridad, de modo que proveedores y gimnasios puedan gestionar de forma unificada sus operaciones diarias.
+
+
+- La arquitectura basada en bounded contexts y la aplicación de buenas prácticas (DDD, validaciones de dominio, manejo de estados, soft delete, role-based authorization, internacionalización, etc.) permitió obtener un backend robusto, extensible y alineado con los principios vistos en el curso.
+
+
+- La combinación de Swagger, pruebas con Postman y la evidencia de despliegue en Azure (backend) y Vercel (frontend) demostró que el equipo fue capaz de llevar el sistema desde el entorno local hasta un escenario real de producción, asegurando trazabilidad y documentación técnica actualizada.
+
+
+- El enfoque iterativo con sprints, velocity estable, GitFlow y Conventional Commits permitió planificar, ejecutar y revisar de manera sistemática el avance del proyecto, mejorando la coordinación del equipo y facilitando la identificación temprana de riesgos y tareas críticas.
+
+
+- Las entrevistas de validación con proveedores y clientes, junto con la evaluación heurística de usabilidad, evidenciaron que la propuesta de valor de CoolGym es comprensible y útil para los segmentos objetivo, a la vez que revelaron oportunidades concretas de mejora en navegabilidad, filtros, reportes y manejo de notificaciones.
+
+
+- A nivel formativo, el proyecto permitió al equipo afianzar competencias técnicas en .NET, Vue, integración de APIs, DevOps e i18n, así como habilidades transversales de trabajo colaborativo, documentación y comunicación, cumpliendo con los outcomes planteados para el curso y sentando bases sólidas para proyectos de mayor escala.
+
 
 ## 5.6 Video About-the-Team
 
@@ -3107,9 +3169,9 @@ Opcionalmente, se puede incluir un contador de notificaciones no leídas y permi
 
 - [Video de exposicion TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EZ3ggT1LLJpAm38GXvGw1msBDzhyEa6hOiW_J6BmPiIyTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ph3BnB)
 
-- Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
+- Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/IQATUowsrRbCRJftA1LczOz1AY_JrL1YMZ6G3xSheMyETnk?e=DkWfTH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-- [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+- [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/IQATUowsrRbCRJftA1LczOz1AY_JrL1YMZ6G3xSheMyETnk?e=DkWfTH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319025_upc_edu_pe/IQDHGhDy07nLR7k0-me9g4UFARfzYq8OSTyRuST0mWO_B9o?e=XMcyNS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
