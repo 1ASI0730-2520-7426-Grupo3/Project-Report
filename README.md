@@ -249,9 +249,8 @@ Backend:
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: asdasdasd. <br>**Oliver Villogas** <br> TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables.<br> TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. <br> TB2: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de mi nueva page del frontend y de mi avance significativo del backend.<br> TF: Apoyé en el desarrollo de la complejidad del backend del context Equipments, en la internacionalización del backend y en la integración del frontend con el backend coordinando con el equipo para asegurar su correcta implementación. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, además colaborando con el equipo en la integración de estos artefactos.<br>TP: Colaboré con el equipo en la implementación del contexto de seguridad (autenticación y autorización), coordinando la definición de endpoints y apoyando en la revisión de pull requests para mantener un código consistente y alineado con los lineamientos técnicos del proyecto.<br>TB2: Lideré la integración del contexto Security con los demás bounded contexts, como Equipments, resolviendo conflictos de merge, apoyando en las pruebas end-to-end y verificando que las reglas de autorización funcionen de forma coherente en todo el sistema.<br>TF: Asumí un rol de referencia en temas de backend y despliegue, coordinando con el equipo la configuración de los entornos de ejecución y el despliegue (Azure para el backend y Vercel para el frontend), apoyando en la resolución de incidencias durante las pruebas y facilitando la toma de decisiones técnicas para garantizar la estabilidad del sistema. <br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. <br>TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend. <br> TB2: Colaboré con el equipo de frontend implementando y ajustando la pantalla de inicio para los providers, asegurando su correcta comunicación con los microservicios y documentando los servicios de mi bundle context para facilitar el trabajo del equipo y las pruebas end-to-end. <br> TF:<br>  Implementé la complejidad del backend en los bounded contexts Billing Invoices y Maintenance Requests, coordinando con el equipo para asegurar su integración correcta y documentando cada servicio para facilitar las pruebas y la colaboración entre contextos. | El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final.|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Alberto Ponce**<br>TB1: Participé de forma activa en todas las reuniones del equipo y me encargué principalmente de la fase de descubrimiento y diseño: elaboré los Lean UX Hypothesis Statements y el Lean UX Canvas, definí los segmentos objetivo, diseñé, registré y analicé las entrevistas, y a partir de ello construí las User Personas, la User Task Matrix y el Impact Mapping. Además, desarrollé la Domain-Driven Software Architecture (diagramas de contexto, contenedores y componentes), apoyé en Software Configuration Management y colaboré en las secciones de Aspect Leaders and Collaborators, Sprint Backlog 1 y las evidencias de desarrollo y ejecución del sprint. <br> TP: Colaboré en el despliegue de una nueva versión de la Landing Page y en la primera versión de las Frontend Web Applications, asegurando su correcta configuración en el entorno definido para el proyecto. <br> TB2: Apoyé en la evolución de la Web Application y en la primera versión de los Web Services, además de contribuir en la documentación de Sprint Planning 3, Aspect Leaders and Collaborators y el Sprint Backlog 3, manteniendo la trazabilidad entre historias de usuario y entregables. <br> TF: Me enfoqué en la validación con usuarios, participando en las Validation Interviews desde el diseño de entrevistas, su registro y análisis, así como en la elaboración de la evaluación según heurísticas de la aplicación. Asimismo, colaboré en la actualización de las secciones de Aspect Leaders and Collaborators y del Sprint Backlog para esta fase final del proyecto. <br>**Oliver Villogas** <br> TB1: Participé de manera activa en todas las reuniones del equipo, asegurando la entrega de mi parte del trabajo dentro de los plazos establecidos. Fui proactivo en colaborar con mis compañeros, revisando la documentación y el código, y proporcioné retroalimentación constructiva para mejorar la calidad general de nuestros entregables.<br> TP: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de las vistas clave del frontend. <br> TB2: Participé de manera activa en todas las reuniones del equipo y mantuve un compromiso constante con el equipo, cumpliendo rigurosamente los plazos de entrega del desarrollo de mi nueva page del frontend y de mi avance significativo del backend.<br> TF: Apoyé en el desarrollo de la complejidad del backend del context Equipments, en la internacionalización del backend y en la integración del frontend con el backend coordinando con el equipo para asegurar su correcta implementación. <br>**Anderson**<br>TB1: Realizé el Diagrama de Clases y Diccionario de Clases, asegurando la correcta estructura del backend, además de contribuir al estilo del código y la configuración de despliegue, además colaborando con el equipo en la integración de estos artefactos.<br>TP: Colaboré con el equipo en la implementación del contexto de seguridad (autenticación y autorización), coordinando la definición de endpoints y apoyando en la revisión de pull requests para mantener un código consistente y alineado con los lineamientos técnicos del proyecto.<br>TB2: Lideré la integración del contexto Security con los demás bounded contexts, como Equipments, resolviendo conflictos de merge, apoyando en las pruebas end-to-end y verificando que las reglas de autorización funcionen de forma coherente en todo el sistema.<br>TF: Asumí un rol de referencia en temas de backend y despliegue, coordinando con el equipo la configuración de los entornos de ejecución y el despliegue (Azure para el backend y Vercel para el frontend), apoyando en la resolución de incidencias durante las pruebas y facilitando la toma de decisiones técnicas para garantizar la estabilidad del sistema. <br>**Wilder Gonzalo**<br>TB1: Elaboré la evidencia de desarrollo y ejecución de los Sprints, definí lineamientos de estilo, diseñé la landing page y realicé su despliegue. <br>TP: Apoyé al equipo documentando evidencias, corrigiendo la TB1 y desarrollando la Fake API y pantallas clave del Frontend. <br> TB2: Colaboré con el equipo de frontend implementando y ajustando la pantalla de inicio para los providers, asegurando su correcta comunicación con los microservicios y documentando los servicios de mi bundle context para facilitar el trabajo del equipo y las pruebas end-to-end. <br> TF:<br>  Implementé la complejidad del backend en los bounded contexts Billing Invoices y Maintenance Requests, coordinando con el equipo para asegurar su integración correcta y documentando cada servicio para facilitar las pruebas y la colaboración entre contextos. | El equipo demostró un liderazgo compartido y colaborativo en el desarrollo del proyecto, asumiendo responsabilidades clave en diferentes áreas como la organización de tareas en GitHub, la integración de ramas, la elaboración de diagramas, la documentación, la definición de lineamientos técnicos y el despliegue de la landing page. Cada integrante aportó desde su rol, fomentando la coordinación, la retroalimentación constructiva y el cumplimiento de entregables, lo que fortaleció el trabajo en equipo y aseguró la calidad del producto final.|
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Alberto Ponce**<br>TB1: asdasdasd <br>**Oliver Villogas**<br>TB1: Asistí a todas las reuniones y brindé retroalimentación sobre los avances del proyecto. Según la planificación del proyecto, me encargué de la descripción de la Startup, el Solution Profile, el análisis de la problemática 5W y 2H, los Lean UX Problem Statements, el desarrollo de las User Personas, la creación de los Epics y User Stories, y el diseño del Diagrama de Base de Datos, entregando todo en los plazos establecidos.<br> TP: Colaboré activamente en la implementación del frontend para las vistas principales, cumpliendo rigurosamente los plazos. Mi contribución clave fue el desarrollo de la funcionalidad My Machines y Machine Controls. <br> TB2: Colaboré activamente con mis compañeros, cumplí con la realización de mi nueva page del frontend y realice un avance significativo del backend realizando el contexto shared, el contexto de equipments y las pruebas de integración del backend en el frontend. <br> TF: Colaboré activamente con mis compañeros, apoye en la internacionalización (i18n) del backend, en el correcto despliegue del backend y en la integración entre el backend y frontend. <br>**Anderson**<br>TB1: Desarrolle la guía de estilo de código, configuró el deployment y elaboró el To-Be Scenario Mapping, asegurando consistencia y cumplimiento de los objetivos planteados para el proyecto asistiendo a las reuniones.<br>TP: Participé en la planificación y distribución de tareas relacionadas con el contexto de seguridad y el soporte al frontend, registrando los avances en las herramientas digitales del equipo (como GitHub) y apoyando en la documentación técnica para que todos tuvieran claridad sobre los objetivos de cada sprint.<br>TB2: Colaboré en la definición de metas de los sprints y en la priorización de historias vinculadas a autenticación, autorización e integración entre bounded contexts, identificando riesgos técnicos y proponiendo ajustes en la arquitectura y configuración de despliegue para cumplir los plazos y la calidad esperada.<br>TF: Documenté los pasos de despliegue del backend y del frontend (incluyendo variables de entorno y URLs de los servicios), apoyé a mis compañeros en la resolución de problemas técnicos durante las integraciones y verifiqué que los entregables estuvieran alineados con las metas del sprint y los lineamientos definidos por el equipo. <br>**Wilder Gonzalo**<br>TB1: Desarrollé los artefactos de diseño (style guidelines, arquitectura de información, wireframes, mockups, user flows y prototipos) asegurando consistencia y cumplimiento de objetivos. TP: Coordiné tareas de documentación y desarrollo, completando la Fake API y las vistas de Account Statement y Maintenance dentro del plazo.<br> TB2: Elaboré y mantuve la documentación de los microservicios de mi bounded context, detallando flujos, contratos y ejemplos de consumo, lo que facilitó la colaboración entre contextos y permitió alcanzar las metas de integración y despliegue dentro de los plazos establecidos. <br> TF:<br>     Desarrollé la internacionalización (i18n) del backend y mantuve la documentación técnica de los nuevos servicios, apoyando al equipo en la planificación y cumplimiento de objetivos del sprint mediante entregas claras y alineadas a las metas del proyecto. | El equipo generó un entorno colaborativo e inclusivo, planificando tareas conherramientas digitales, estableciendo metas claras y cumpliendo los objetivos mediante la organización, la comunicación constante y la entrega oportuna de los artefactos del proyecto.|
-
 
 ---
 
@@ -273,7 +272,7 @@ Para lograr esto, FitConnect ha desarrollado un marketplace especializado que ce
 
 | Foto                                                                      | Nombre completo                      | Código     | Carrera                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------|--------------------------------------|------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Inserta tu foto al lado]()                                              | Alberto Alejandro Ponce Perales      | u202320684 | Ingeniería de Software | sadfasdfsadf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ![Foto de Alberto](assets/FotoAlberto.jpg)                                              | Alberto Alejandro Ponce Perales      | u202320684 | Ingeniería de Software | Cuento con conocimientos en C++, Python, HTML y CSS. Me considero una persona organizada, responsable y puntual al momento de trabajar en mis proyectos. Estoy comprometido a dar lo mejor de mí en este proyecto y a participar activamente en la solución de los retos que se presenten durante su desarrollo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |    ![Foto de Oliver](assets/oliver-profile.jpeg) | Oliver Paul Villogas Medina                     | U202323562 | Ingeniería de Software | Tengo conocimientos en C + +, Python, HTML, CSS y SQL Server. Me apasiona la tecnología y me caracterizo por ser una persona ordenada, responsable y puntual en el desarrollo de mis proyectos. Estoy comprometido a aportar lo mejor de mí en este proyecto y a contribuir activamente en la solución de los desafíos que puedan surgir durante su desarrollo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 | ![Foto de Anderson](https://avatars.githubusercontent.com/u/74742028?v=4) | Anderson Ricardo Ventosilla Trujillo | u202319025 | Ingenieria de Software | Desarrollo Backend, Bases de Datos, Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![Foto de Juan.jpeg](assets/Foto%20de%20Juan.jpeg)                                              | Juan David Saldaña De Souza                                 | u20221f192 | Ingenieria de Software | Soy estudiante de Ingeniería de Software y me apasiona la innovación tecnológica, la programación y la automatización de procesos mediante inteligencia artificial. Me considero una persona comprometida y responsable que prioriza sus responsabilidades y se esfuerza por cumplir con los plazos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -2932,8 +2931,136 @@ Jeiner Alexander Gutiérrez Cruzado, de 25 años y residente en San Miguel, es e
 Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administrador de una pequeña cadena de tres gimnasios que recientemente (menos de un año) empezó a migrar a equipos fitness inteligentes. Tras revisar la interfaz de CoolGym para gimnasios, comentó que las secciones principales le parecen adecuadas, aunque echa en falta una vista inicial que agrupe la información por local. Señaló que la información sobre los equipos y su estado es clara, pero que la lista se vuelve muy larga cuando se manejan muchas máquinas en varias sedes, por lo que considera necesarios más filtros. Mencionó que el registro de uso funciona, pero podría automatizarse más usando directamente los datos de los sensores. Además, indicó que la plataforma le ofrece lo básico para gestionar las máquinas, pero le gustaría ver rápidamente cuáles fallan más, próximas fechas de mantenimiento, gráficos comparativos entre sedes y tipos de máquinas, indicadores de costo total por marca/proveedor, así como reportes exportables y alertas avanzadas cuando baja la utilización de ciertos equipos.
 ---
 
-
 ### 5.3.3. Evaluaciones según heurísticas
+
+---
+
+### Evaluación según heurísticas – CoolGym
+
+### Tareas a evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas.
+
+### Para Gyms (cliente)
+
+1. Elegir **“For Gyms”** en la pantalla inicial.  
+2. Crear una cuenta de cliente (**Sign Up**).  
+3. Iniciar sesión en la aplicación (**Login**).  
+4. Consultar mis máquinas y su estado (**Home / My Machines**).  
+5. Registrar nuevo equipamiento (**Home / My Machines**).  
+6. Registrar una solicitud de mantenimiento (**Maintenance**).  
+7. Revisar el estado de cuenta y pagos (**Billing / Account Statement**).  
+8. Solicitar el alquiler de una nueva máquina (**Rent Machines**).  
+9. Enviar un mensaje desde la sección **Contact Us (Gyms)**.
+
+### Para Providers
+
+1. Elegir **“For Providers”** en la pantalla inicial.  
+2. Revisar el resumen de equipos, *requests* y mantenimiento (**Home – Providers**).  
+3. Consultar clientes y técnicos desde **My Teams**.  
+4. Revisar órdenes de trabajo desde **Work Orders**.  
+5. Revisar solicitudes de alquiler en **Machine Requests**.  
+6. Enviar un mensaje desde **Contact Us (Providers)**.
+
+## Escala de severidad
+
+| Nivel | Descripción |
+| ----- | ----------- |
+| 1 | **Problema superficial**: puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | **Problema menor**: puede ocurrir un poco más frecuentemente o es más difícil de superar para el usuario. Se le debería asignar prioridad baja para resolverlo en el siguiente *release*. |
+| 3 | **Problema mayor**: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante corregirlo y se le debe asignar prioridad alta. |
+| 4 | **Problema muy grave**: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo corregirlo antes del lanzamiento. |
+
+## Tabla resumen
+
+| # | Problema                                                                                             | Escala de severidad | Heurística / principio violado |
+|---|------------------------------------------------------------------------------------------------------|---------------------|--------------------------------|
+| 1 | Falta de información descriptiva en las tareas de mantenimiento                                      | 3                   | Usability: Correspondencia entre el sistema y el mundo real; Information Architecture: Claridad y completitud de la información |
+| 2 | El perfil no indica claramente el tipo de usuario (Gym o Provider)                                  | 2                   | Usability: Visibilidad del estado del sistema; Information Architecture: Claridad y etiquetado de la información |
+| 3 | El ícono de notificaciones (campana) en Providers no muestra notificaciones y solo redirige a *Home* | 2                   | Usability: Consistencia y estándares; Usability: Visibilidad del estado del sistema; Information Architecture: Claridad de la navegación |
+
+## Descripción de problemas
+
+### Problema #1: Falta de información descriptiva en las tareas de mantenimiento
+
+- **Severidad:** 3  
+
+**Heurísticas violadas**
+
+- Usabilidad – Correspondencia entre el sistema y el mundo real  
+- Information Architecture – Claridad y completitud de la información  
+
+**Problema**
+
+En la sección **“Maintenance”** del Home de Providers se muestran dos tareas de mantenimiento identificadas únicamente como **“Equipment #1”** y **“Equipment #2”** con el estado **“Pending”**.  
+No se indica qué máquina específica es (por ejemplo, cinta de correr, bicicleta, elíptica), en qué gimnasio se encuentra, la fecha de solicitud ni el tipo de problema.
+
+Esta falta de detalle dificulta que el proveedor entienda rápidamente qué equipos requieren atención, priorice las tareas o haga seguimiento adecuado. El usuario debe recordar o deducir manualmente qué corresponde a cada “Equipment #”, lo que aumenta la carga cognitiva y puede generar errores de gestión.
+
+**Recomendación**
+
+Reemplazar las etiquetas genéricas **“Equipment #1 / #2”** por información más significativa, por ejemplo:
+
+- Nombre del equipo (p. ej. *Treadmill Pro X-500*).  
+- Gimnasio o área donde se encuentra.  
+- Fecha de solicitud.  
+- Breve resumen del incidente (p. ej. “strange noise”, “belt broken”).
+
+Además, considerar un enlace o botón del tipo **“View details”** para acceder a la ficha completa de la orden de mantenimiento. Esto permite identificar rápidamente cada tarea, priorizarla y reducir la probabilidad de confusiones.
+
+
+### Problema #2: El perfil no indica claramente el tipo de usuario (Gym o Provider)
+
+- **Severidad:** 2  
+
+**Heurísticas violadas**
+
+- Usabilidad – Visibilidad del estado del sistema  
+- Information Architecture – Claridad y etiquetado de la información  
+
+**Problema**
+
+En la pantalla **“My CoolGym Account”** se muestra el nombre, correo y usuario, así como el tipo de plan actual, pero en ningún lugar se indica explícitamente qué tipo de cuenta tiene la persona (por ejemplo, Gym o Provider).  
+
+Dado que la plataforma tiene dos tipos de usuarios con funcionalidades diferentes, no mostrar el rol puede generar confusión, especialmente si el usuario maneja más de una cuenta o si accede desde un enlace compartido. El usuario debe recordar mentalmente qué tipo de cuenta está usando en lugar de reconocerlo directamente en la interfaz, lo que aumenta la carga cognitiva.
+
+**Recomendación**
+
+Incorporar en la sección de perfil una indicación visible del tipo de cuenta, por ejemplo:
+
+- Una etiqueta debajo del nombre o del nombre de usuario (**“Gym Account” / “Provider Account”**).  
+- Un pequeño *badge* de rol cerca del avatar.
+
+Esto permite que el usuario identifique rápidamente su rol actual sin necesidad de deducirlo por el contexto de la navegación, mejorando la claridad y la comprensión de la interfaz.
+
+
+### Problema #3: El botón de notificaciones no muestra notificaciones y solo redirige a Home
+
+- **Severidad:** 2  
+
+**Heurísticas violadas**
+
+- Usabilidad – Consistencia y estándares (el ícono de campana debería abrir notificaciones).  
+- Usabilidad – Visibilidad del estado del sistema.  
+- Information Architecture – Claridad de la navegación.  
+
+**Problema**
+
+En la interfaz de Providers, el ícono de notificaciones (campana) ubicado en la barra superior no despliega una lista de avisos ni muestra el estado de las notificaciones pendientes. Al hacer clic, el sistema simplemente redirige a la sección **Home**, sin explicar por qué ni qué información relacionada con notificaciones se está mostrando.
+
+Esto genera una ruptura en la expectativa del usuario, ya que el estándar de diseño para ese ícono es mostrar alertas o mensajes recientes, no redirigir a otra sección sin contexto.
+
+**Recomendación**
+
+Hacer que el ícono de notificaciones abra un panel o página específica donde se muestren claramente las alertas relevantes para el proveedor, por ejemplo:
+
+- Nuevas solicitudes de máquinas.  
+- Mantenimientos pendientes o reprogramados.  
+- Mensajes importantes del sistema.
+
+Opcionalmente, se puede incluir un contador de notificaciones no leídas y permitir filtrarlas por tipo (mantenimiento, solicitudes, mensajes generales), reforzando la visibilidad del estado del sistema y la claridad de la navegación.
+
+---
 
 ## 5.4. Video About-the-Product
 
@@ -2984,8 +3111,17 @@ Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administ
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
 
+- Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319025_upc_edu_pe/IQDHGhDy07nLR7k0-me9g4UFARfzYq8OSTyRuST0mWO_B9o?e=XMcyNS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+- [Video About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319025_upc_edu_pe/IQDHGhDy07nLR7k0-me9g4UFARfzYq8OSTyRuST0mWO_B9o?e=XMcyNS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+- Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQCWcBMtnFQ3Q6MaoUuFd5lmAepPTp5MnXNdvFKTCYV3nLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5tQbC1
+
+- [Video About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQCWcBMtnFQ3Q6MaoUuFd5lmAepPTp5MnXNdvFKTCYV3nLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5tQbC1)
+
+- Video de Exposición del Trabajo Final: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQC2BLb5U7s6QYZ_U_z6mDuIAdjIAEsYXpVs5TiBt-sgTpc?e=SUve7G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- [Video de Exposición sobre el Trabajo Final](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/IQC2BLb5U7s6QYZ_U_z6mDuIAdjIAEsYXpVs5TiBt-sgTpc?e=SUve7G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
