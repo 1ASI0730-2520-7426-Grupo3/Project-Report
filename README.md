@@ -2935,12 +2935,14 @@ Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administ
 
 ## 5.4. Video About-the-Product
 
-| **Sección**                          | **Descripción**                                                                                                                                                                                                                   |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Resumen del Video**                | Se presenta una visión general del modelo de negocio de CoolGym junto con sus características principales. Además, se ofrece un recorrido por la aplicación mostrando las funcionalidades y acciones disponibles para el usuario. |
-| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                              |
-| **Cuadro de Video Representativo**   | <img src="assets/....." alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                  |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso]() <br/> **Youtube**:[Link de acceso]()                                                                                                                                                     |
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                 |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | En este video se presenta una visión general del modelo de negocio de **CoolGym**, destacando sus características principales y beneficios. Se muestra un recorrido por la aplicación desde la perspectiva del **cliente** y del **proveedor**, incluyendo registro, gestión de equipos, solicitudes de mantenimiento, renta de maquinaria, facturación y notificaciones. El video concluye con un resumen del funcionamiento integrado. |
+| **Pauta de Secuencias de Contenido** | **00:00:00** — Introducción <br> **00:00:10** — Features principales <br> **00:00:40** — Recorrido del cliente (dashboard, equipos, mantenimientos, renta, pagos) <br> **00:02:05** — Recorrido del proveedor (solicitudes, órdenes, facturación, clientes) <br> **00:03:10** — Cierre y conclusiones <br><br> **Duración total:** 3:27 |
+| **Cuadro de Video Representativo**   | <img src="assets/img-coolgrymproduct.png" alt="Vista representativa del video About-the-Product" width="300" height="200">                                                                                                                                                                                                |
+| **URL del Video**                    | **Microsoft Stream:** [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319025_upc_edu_pe/IQDHGhDy07nLR7k0-me9g4UFARyGLiX2Fs4D0ADtZ04KUCo?e=6eOc7E) <br> **YouTube:** [Link de acceso](https://www.youtube.com/watch?v=ioxGTfr241U) |
+
+
 
 
 ## 5.5 Conclusiones
@@ -2979,6 +2981,7 @@ Jesús Alexander Ponce Perales, de 29 años y residente en Tarapoto, es administ
 - Video demostrativo Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X
 
 - [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ER_C-hIOG3FKjtRkPjBaiwwBf-UwMA4usXIgbvV8pMkVBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=U6YJ8X)
+
 
 
 
